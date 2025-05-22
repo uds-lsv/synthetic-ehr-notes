@@ -13,7 +13,7 @@ The code in this repository builds on several other studies and includes code fr
 1. The [Axolotl](https://github.com/axolotl-ai-cloud/axolotl) project in `generation/axolotl` for the fine-tuning process. The code of the original repository was not changed 
 but only complemented with some additionals files closer specified in `generation/axolotl/changes.md`.
 2. The [medical-coding-reproducability](https://github.com/JoakimEdin/medical-coding-reproducibility/tree/main) repository in `utility/plm_icd/medical_coding/` for building medical coding models. 
-Some slight modifications were made to the source code closer specified in `utility/medical_coding/plm_icd/changes.md`
+Some slight modifications were made to the source code closer specified in `utility/plm_icd/changes.md`
 3. The ROUGE-5 implementation of the [mdpi2021-textgen](https://github.com/nedap/mdpi2021-textgen/tree/main/textgen/evaluation) in `privacy/rouge_5`. 
 The changes made to this code are closer specified in `privacy/rouge_5/changes.md`.
 
@@ -47,9 +47,9 @@ Now you're ready to run all docker containers needed in this study and start you
 
 ## 1. Data Preprocessing
 
-Set the environment by running the medical coding docker image mounting the `data`, `utility/medical_coding/plm_icd`, and `preprocessing` folders:
+Set the environment by running the medical coding docker image mounting the `data`, `utility/plm_icd`, and `preprocessing` folders:
 ```sh 
-sudo docker run --gpus all -v utility/medical_coding/phi_ner:/medical_coding -v data:/data -v preprocessing:/preprocessing -it medcode:edin bash
+sudo docker run --gpus all -v utility/phi_ner:/medical_coding -v data:/data -v preprocessing:/preprocessing -it medcode:edin bash
 ```
 
 ### 1.1 MIMIC
@@ -195,9 +195,9 @@ specifying the paths to the JSON files containing real and synthetic documents (
 
 ## 4. Utility: Medical Coding
 
-Set the environment by running the medical coding docker image mounting the `data` and `utility/medical_coding/plm_icd` folders:
+Set the environment by running the medical coding docker image mounting the `data` and `utility/plm_icd` folders:
 ```sh 
-sudo docker run --gpus all -v utility/medical_coding/plm_icd:/medical_coding -v data:/data -it medcode:edin bash
+sudo docker run --gpus all -v utility/plm_icd:/medical_coding -v data:/data -it medcode:edin bash
 ```
 
 ### 4.1 MIMIC
@@ -223,7 +223,7 @@ specifying the GPU you want to use and model folder containing the checkpoints o
 1. Get access to the model checkpoints of SweDeClin-BERT by contacting the [Health Bank](https://www.dsv.su.se/healthbank) at Stockholm University and store them in a folder.
 2. Set the `model_path` parameter in `medical_coding/configs/plm_icd.yaml` and `configs/text_transform/huggingface.yaml` to the path of the SweDeClin-BERT model folder.
 3. Create a `.feather` file containing the real or synthetic notes in the `text` column, the number of words in `num_words`, the ICD-10 diagnosis codes in `icd10_diag`, the ICD-10 procedure codes in `icd10_proc`, the combined codes in the `target`, the number of target in `num_target` and the ids in the `_id` column. 
-4. Store this file in the same directory as the file containing the splits file with `_id` and `split` columns. The splits used in this work are stored in `/medical_coding/files/data/sper/sepr_icd10_split.feather` for training on SEPR-L and `/medical_coding/files/data/sepr/swed_splits_test_train.feather` for training on SEPR-s. Change the `/medical_coding/condigs/data/mimiciv_icd10.yaml` by specifying `dir`, `data_filename` and `split_filename`.
+4. Store this file in the same directory as the file containing the splits file with `_id` and `split` columns. The splits used in this work are stored in `/medical_coding/files/data/sper/sepr_icd10_split.feather` for training on SEPR-L and `/medical_coding/files/data/sepr/swed_splits_test_train.feather` for training on SEPR-s. Change the `/medical_coding/configs/data/mimiciv_icd10.yaml` by specifying `dir`, `data_filename` and `split_filename`.
 5. To train the medical coding model run
  ```sh 
 python main.py experiment=mimiciv_icd10/plm_icd gpu=x callbacks=no_wandb trainer.print_metrics=true
@@ -239,7 +239,7 @@ specifying the GPU you want to use and the model folder containing the checkpoin
 ### 4.3 Error Analysis
 Set the environment by running
 ```sh 
-sudo docker run --gpus all -v utility/medical_coding:/medical_coding -v data:/data -it general:latest
+sudo docker run --gpus all -v utility/:/medical_coding -v data:/data -it general:latest
 ```
 
 The error analysis is tailored to the MIMIC data and needs some prior adaptation if desired to apply to the SEPR models.
