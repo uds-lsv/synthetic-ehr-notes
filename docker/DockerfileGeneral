@@ -1,0 +1,27 @@
+FROM nvidia/cuda:12.1.1-base-ubuntu22.04
+
+WORKDIR /app
+
+COPY *.py .
+COPY requirements_general.txt .
+
+RUN apt-get update
+RUN apt-get install -y python3 python3-pip python-is-python3
+RUN pip3 install --upgrade pip
+
+# Install Python dependencies, including GPU-compatible PyTorch
+RUN pip3 install --no-cache-dir torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+RUN pip3 install --no-cache-dir -r requirements.txt
+
+# Download necessary NLTK data during the build
+RUN python3 -c "import nltk; \
+                 nltk.download('punkt', download_dir='/usr/share/nltk_data'); \
+                 nltk.download('averaged_perceptron_tagger', download_dir='/usr/share/nltk_data')"
+
+# Download spaCy core language model
+RUN python3 -m spacy download en_core_web_sm
+
+# Install Med7 model from the Hugging Face URL
+RUN pip3 install https://huggingface.co/kormilitzin/en_core_med7_lg/resolve/main/en_core_med7_lg-any-py3-none-any.whl
+
+ENTRYPOINT bash

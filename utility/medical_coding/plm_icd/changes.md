@@ -1,0 +1,4 @@
+The following changes were made to the [original repository](https://github.com/JoakimEdin/medical-coding-reproducibility/tree/main):
+1. The data folder in `files/data/mimiciv_icd10` was updated with an additional splits files used in this study and the folder `files/data/sepr` was inserted containing the splits for the SEPR experiments.
+2. The way to loading the RoBERTa model in `src/models/plm_icd.py` was changed to address the issue of the model collapsing reported by the original authors.
+3. The preprocessing method was changed in `prepare_data/utils.py` by removing the old method and inserting the new `remove_adapted` condition and called in `prepare_data/prepare_mimiciv.py`.

@@ -1,0 +1,2240 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE surveyProject SYSTEM "doctype.survey.dtd">
+<surveyProject version="2.4" timestamp="2024-12-06 12:15:52" program="oFb" progversion="3.6.08 1371">
+<title>EHR Swedish</title>
+<description />
+<attributes.specific program="ofb">
+<attr id="language">eng</attr>
+</attributes.specific>
+<section>
+<title>Ratings</title>
+<attributes.specific program="ofb">
+<attr id="id">R0</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+<question>
+<description>Hallo, ich bin ein Electronic...</description>
+<class>TextContent</class>
+<title />
+<explanation />
+<inputPosition>right</inputPosition>
+<lead>Hallo, ich bin ein Electronic Health Record.</lead>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">4</attr>
+<attr id="pos">1</attr>
+<attr id="alignment">default</attr>
+<attr id="character">plain</attr>
+</attributes.specific>
+</question>
+<question>
+<description>Justification 1.1</description>
+<class>text</class>
+<title>If you can name any specific justification for your given answer, please state it here briefly. You're also encouraged to copy parts of the text that led to your previous answer and explain.</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">5</attr>
+<attr id="pos">2</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Justification 1.2</description>
+<class>text</class>
+<title>If you can name any specific justification for your given answer, please state it here briefly. You're also encouraged to copy parts of the text that led to your previous answer and explain.</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">46</attr>
+<attr id="pos">3</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Justification 1.3</description>
+<class>text</class>
+<title>If you can name any specific justification for your given answer, please state it here briefly. You're also encouraged to copy parts of the text that led to your previous answer and explain.</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">47</attr>
+<attr id="pos">4</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Justification 1.4</description>
+<class>text</class>
+<title>If you can name any specific justification for your given answer, please state it here briefly. You're also encouraged to copy parts of the text that led to your previous answer and explain.</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">48</attr>
+<attr id="pos">5</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Justification 1.5</description>
+<class>text</class>
+<title>If you can name any specific justification for your given answer, please state it here briefly. You're also encouraged to copy parts of the text that led to your previous answer and explain.</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">49</attr>
+<attr id="pos">6</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Justification 1.6</description>
+<class>text</class>
+<title>If you can name any specific justification for your given answer, please state it here briefly. You're also encouraged to copy parts of the text that led to your previous answer and explain.</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">50</attr>
+<attr id="pos">7</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Justification 1.7</description>
+<class>text</class>
+<title>If you can name any specific justification for your given answer, please state it here briefly. You're also encouraged to copy parts of the text that led to your previous answer and explain.</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">51</attr>
+<attr id="pos">8</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Justification 1.8</description>
+<class>text</class>
+<title>If you can name any specific justification for your given answer, please state it here briefly. You're also encouraged to copy parts of the text that led to your previous answer and explain.</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">52</attr>
+<attr id="pos">9</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Justification 1.9</description>
+<class>text</class>
+<title>If you can name any specific justification for your given answer, please state it here briefly. You're also encouraged to copy parts of the text that led to your previous answer and explain.</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">53</attr>
+<attr id="pos">10</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Justification 1.10</description>
+<class>text</class>
+<title>If you can name any specific justification for your given answer, please state it here briefly. You're also encouraged to copy parts of the text that led to your previous answer and explain.</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">54</attr>
+<attr id="pos">11</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Justification 2.1</description>
+<class>text</class>
+<title>If you can name any specific justification for your given answer, please state it here briefly. You're also encouraged to copy parts of the text that led to your previous answer and explain.</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">7</attr>
+<attr id="pos">12</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Justification 2.2</description>
+<class>text</class>
+<title>If you can name any specific justification for your given answer, please state it here briefly. You're also encouraged to copy parts of the text that led to your previous answer and explain.</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">55</attr>
+<attr id="pos">13</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Justification 2.3</description>
+<class>text</class>
+<title>If you can name any specific justification for your given answer, please state it here briefly. You're also encouraged to copy parts of the text that led to your previous answer and explain.</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">56</attr>
+<attr id="pos">14</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Justification 2.4</description>
+<class>text</class>
+<title>If you can name any specific justification for your given answer, please state it here briefly. You're also encouraged to copy parts of the text that led to your previous answer and explain.</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">57</attr>
+<attr id="pos">15</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Justification 2.5</description>
+<class>text</class>
+<title>If you can name any specific justification for your given answer, please state it here briefly. You're also encouraged to copy parts of the text that led to your previous answer and explain.</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">58</attr>
+<attr id="pos">16</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Justification 2.6</description>
+<class>text</class>
+<title>If you can name any specific justification for your given answer, please state it here briefly. You're also encouraged to copy parts of the text that led to your previous answer and explain.</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">59</attr>
+<attr id="pos">17</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Justification 2.7</description>
+<class>text</class>
+<title>If you can name any specific justification for your given answer, please state it here briefly. You're also encouraged to copy parts of the text that led to your previous answer and explain.</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">60</attr>
+<attr id="pos">18</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Justification 2.8</description>
+<class>text</class>
+<title>If you can name any specific justification for your given answer, please state it here briefly. You're also encouraged to copy parts of the text that led to your previous answer and explain.</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">61</attr>
+<attr id="pos">19</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Justification 2.9</description>
+<class>text</class>
+<title>If you can name any specific justification for your given answer, please state it here briefly. You're also encouraged to copy parts of the text that led to your previous answer and explain.</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">62</attr>
+<attr id="pos">20</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Justification 2.10</description>
+<class>text</class>
+<title>If you can name any specific justification for your given answer, please state it here briefly. You're also encouraged to copy parts of the text that led to your previous answer and explain.</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">63</attr>
+<attr id="pos">21</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Medical Coding 1</description>
+<class>mentions</class>
+<title>Given the patient record, please write down all ICD-10 Procedure and/or Diagnosis codes that you would assign to this note. There is no minimum or maximum nuber of required codes. You can look up codes on this site: https://verktyg.internetmedicin.se/koder. If you are not familiar with ICD-10 coding or cannot find the relevant code you can also write it down in textual form.</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">3</attr>
+<attr id="pos">22</attr>
+<attr id="restrictions.answered">yes</attr>
+<attr id="restrictions.min">1</attr>
+<attr id="rows">25</attr>
+<attr id="offer">5</attr>
+</attributes.specific>
+</question>
+<question>
+<description>Medical Coding 3</description>
+<class>mentions</class>
+<title>Given the patient record, please write down all ICD-10 Procedure and/or Diagnosis codes that you would assign to this note. There is no minimum or maximum nuber of required codes. You can look up codes on this site: https://verktyg.internetmedicin.se/koder. If you are not familiar with ICD-10 coding or cannot find the relevant code you can also write it down in textual form.</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">11</attr>
+<attr id="pos">23</attr>
+<attr id="restrictions.answered">yes</attr>
+<attr id="restrictions.min">1</attr>
+<attr id="rows">25</attr>
+<attr id="offer">5</attr>
+</attributes.specific>
+</question>
+<question>
+<description>Medical Coding 4</description>
+<class>mentions</class>
+<title>Given the patient record, please write down all ICD-10 Procedure and/or Diagnosis codes that you would assign to this note. There is no minimum or maximum nuber of required codes. You can look up codes on this site: https://verktyg.internetmedicin.se/koder. If you are not familiar with ICD-10 coding or cannot find the relevant code you can also write it down in textual form.</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">12</attr>
+<attr id="pos">24</attr>
+<attr id="restrictions.answered">yes</attr>
+<attr id="restrictions.min">1</attr>
+<attr id="rows">25</attr>
+<attr id="offer">5</attr>
+</attributes.specific>
+</question>
+<question>
+<description>Medical Coding 5</description>
+<class>mentions</class>
+<title>Given the patient record, please write down all ICD-10 Procedure and/or Diagnosis codes that you would assign to this note. There is no minimum or maximum nuber of required codes. You can look up codes on this site: https://verktyg.internetmedicin.se/koder. If you are not familiar with ICD-10 coding or cannot find the relevant code you can also write it down in textual form.</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">13</attr>
+<attr id="pos">25</attr>
+<attr id="restrictions.answered">yes</attr>
+<attr id="restrictions.min">1</attr>
+<attr id="rows">25</attr>
+<attr id="offer">5</attr>
+</attributes.specific>
+</question>
+<question>
+<description>Medical Coding 6</description>
+<class>mentions</class>
+<title>Given the patient record, please write down all ICD-10 Procedure and/or Diagnosis codes that you would assign to this note. There is no minimum or maximum nuber of required codes. You can look up codes on this site: https://verktyg.internetmedicin.se/koder. If you are not familiar with ICD-10 coding or cannot find the relevant code you can also write it down in textual form.</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">14</attr>
+<attr id="pos">26</attr>
+<attr id="restrictions.answered">yes</attr>
+<attr id="restrictions.min">1</attr>
+<attr id="rows">25</attr>
+<attr id="offer">5</attr>
+</attributes.specific>
+</question>
+<question>
+<description>Medical Coding 7</description>
+<class>mentions</class>
+<title>Given the patient record, please write down all ICD-10 Procedure and/or Diagnosis codes that you would assign to this note. There is no minimum or maximum nuber of required codes. You can look up codes on this site: https://verktyg.internetmedicin.se/koder. If you are not familiar with ICD-10 coding or cannot find the relevant code you can also write it down in textual form.</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">15</attr>
+<attr id="pos">27</attr>
+<attr id="restrictions.answered">yes</attr>
+<attr id="restrictions.min">1</attr>
+<attr id="rows">25</attr>
+<attr id="offer">5</attr>
+</attributes.specific>
+</question>
+<question>
+<description>Medical Coding 8</description>
+<class>mentions</class>
+<title>Given the patient record, please write down all ICD-10 Procedure and/or Diagnosis codes that you would assign to this note. There is no minimum or maximum nuber of required codes. You can look up codes on this site: https://verktyg.internetmedicin.se/koder. If you are not familiar with ICD-10 coding or cannot find the relevant code you can also write it down in textual form.</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">16</attr>
+<attr id="pos">28</attr>
+<attr id="restrictions.answered">yes</attr>
+<attr id="restrictions.min">1</attr>
+<attr id="rows">25</attr>
+<attr id="offer">5</attr>
+</attributes.specific>
+</question>
+<question>
+<description>Medical Coding 9</description>
+<class>mentions</class>
+<title>Given the patient record, please write down all ICD-10 Procedure and/or Diagnosis codes that you would assign to this note. There is no minimum or maximum nuber of required codes. You can look up codes on this site: https://verktyg.internetmedicin.se/koder. If you are not familiar with ICD-10 coding or cannot find the relevant code you can also write it down in textual form.</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">17</attr>
+<attr id="pos">29</attr>
+<attr id="restrictions.answered">yes</attr>
+<attr id="restrictions.min">1</attr>
+<attr id="rows">25</attr>
+<attr id="offer">5</attr>
+</attributes.specific>
+</question>
+<question>
+<description>Medical Coding 10</description>
+<class>mentions</class>
+<title>Given the patient record, please write down all ICD-10 Procedure and/or Diagnosis codes that you would assign to this note. There is no minimum or maximum nuber of required codes. You can look up codes on this site: https://verktyg.internetmedicin.se/koder. If you are not familiar with ICD-10 coding or cannot find the relevant code you can also write it down in textual form.</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">18</attr>
+<attr id="pos">30</attr>
+<attr id="restrictions.answered">yes</attr>
+<attr id="restrictions.min">1</attr>
+<attr id="rows">25</attr>
+<attr id="offer">5</attr>
+</attributes.specific>
+</question>
+<question>
+<description>Medical Coding 2</description>
+<class>mentions</class>
+<title>Given the patient record, please write down all ICD-10 Procedure and/or Diagnosis codes that you would assign to this note. There is no minimum or maximum nuber of required codes. You can look up codes on this site: https://verktyg.internetmedicin.se/koder. If you are not familiar with ICD-10 coding or cannot find the relevant code you can also write it down in textual form.</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">10</attr>
+<attr id="pos">31</attr>
+<attr id="restrictions.answered">yes</attr>
+<attr id="restrictions.min">1</attr>
+<attr id="rows">25</attr>
+<attr id="offer">5</attr>
+</attributes.specific>
+</question>
+<question>
+<description>Free Text 1</description>
+<class>text</class>
+<title>Are there any further unusual features of this patient record that you noticed while reading it?</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">6</attr>
+<attr id="pos">32</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Free Text 2</description>
+<class>text</class>
+<title>Are there any further unusual features of this patient record that you noticed while reading it?</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">37</attr>
+<attr id="pos">33</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Free Text 3</description>
+<class>text</class>
+<title>Are there any further unusual features of this patient record that you noticed while reading it?</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">38</attr>
+<attr id="pos">34</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Free Text 4</description>
+<class>text</class>
+<title>Are there any further unusual features of this patient record that you noticed while reading it?</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">39</attr>
+<attr id="pos">35</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Free Text 5</description>
+<class>text</class>
+<title>Are there any further unusual features of this patient record that you noticed while reading it?</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">40</attr>
+<attr id="pos">36</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Free Text 6</description>
+<class>text</class>
+<title>Are there any further unusual features of this patient record that you noticed while reading it?</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">41</attr>
+<attr id="pos">37</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Free Text 7</description>
+<class>text</class>
+<title>Are there any further unusual features of this patient record that you noticed while reading it?</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">42</attr>
+<attr id="pos">38</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Free Text 8</description>
+<class>text</class>
+<title>Are there any further unusual features of this patient record that you noticed while reading it?</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">43</attr>
+<attr id="pos">39</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Free Text 9</description>
+<class>text</class>
+<title>Are there any further unusual features of this patient record that you noticed while reading it?</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">44</attr>
+<attr id="pos">40</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Free Text 10</description>
+<class>text</class>
+<title>Are there any further unusual features of this patient record that you noticed while reading it?</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">45</attr>
+<attr id="pos">41</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Readability 1</description>
+<class>scale</class>
+<title>On a scale of 1 to 5, how would you rate the readability and language style of this patient note? Disregard any contents of this note and focus only on linguistic aspects.</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">Not natural at all</li>
+<li i="5">Completely natural: could be written by a doctor</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">8</attr>
+<attr id="pos">42</attr>
+<attr id="scale.label_align">eachline</attr>
+<attr id="scale.metrics.labels">500</attr>
+<attr id="scale.display">extrema</attr>
+<attr id="displayWedge">oFb1gen</attr>
+<attr id="restrictions.answered">yes</attr>
+<attr id="composition">extended</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Readability 2</description>
+<class>scale</class>
+<title>On a scale of 1 to 5, how would you rate the readability and language style of this patient note? Disregard any contents of this note and focus only on linguistic aspects. </title>
+<explanation />
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">Not natural at all</li>
+<li i="5">Completely natural: could be written by a doctor</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">28</attr>
+<attr id="pos">43</attr>
+<attr id="scale.label_align">eachline</attr>
+<attr id="scale.metrics.labels">500</attr>
+<attr id="scale.display">extrema</attr>
+<attr id="displayWedge">oFb1gen</attr>
+<attr id="restrictions.answered">yes</attr>
+<attr id="composition">extended</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Readability 3</description>
+<class>scale</class>
+<title>On a scale of 1 to 5, how would you rate the readability and language style of this patient note? Disregard any contents of this note and focus only on linguistic aspects. </title>
+<explanation />
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">Not natural at all</li>
+<li i="5">Completely natural: could be written by a doctor</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">29</attr>
+<attr id="pos">44</attr>
+<attr id="scale.label_align">eachline</attr>
+<attr id="scale.metrics.labels">500</attr>
+<attr id="scale.display">extrema</attr>
+<attr id="displayWedge">oFb1gen</attr>
+<attr id="restrictions.answered">yes</attr>
+<attr id="composition">extended</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Readability 4</description>
+<class>scale</class>
+<title>On a scale of 1 to 5, how would you rate the readability and language style of this patient note? Disregard any contents of this note and focus only on linguistic aspects. </title>
+<explanation />
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">Not natural at all</li>
+<li i="5">Completely natural: could be written by a doctor</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">30</attr>
+<attr id="pos">45</attr>
+<attr id="scale.label_align">eachline</attr>
+<attr id="scale.metrics.labels">500</attr>
+<attr id="scale.display">extrema</attr>
+<attr id="displayWedge">oFb1gen</attr>
+<attr id="restrictions.answered">yes</attr>
+<attr id="composition">extended</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Readability 5</description>
+<class>scale</class>
+<title>On a scale of 1 to 5, how would you rate the readability and language style of this patient note? Disregard any contents of this note and focus only on linguistic aspects. </title>
+<explanation />
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">Not natural at all</li>
+<li i="5">Completely natural: could be written by a doctor</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">31</attr>
+<attr id="pos">46</attr>
+<attr id="scale.label_align">eachline</attr>
+<attr id="scale.metrics.labels">500</attr>
+<attr id="scale.display">extrema</attr>
+<attr id="displayWedge">oFb1gen</attr>
+<attr id="restrictions.answered">yes</attr>
+<attr id="composition">extended</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Readability 6</description>
+<class>scale</class>
+<title>On a scale of 1 to 5, how would you rate the readability and language style of this patient note? Disregard any contents of this note and focus only on linguistic aspects. </title>
+<explanation />
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">Not natural at all</li>
+<li i="5">Completely natural: could be written by a doctor</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">32</attr>
+<attr id="pos">47</attr>
+<attr id="scale.label_align">eachline</attr>
+<attr id="scale.metrics.labels">500</attr>
+<attr id="scale.display">extrema</attr>
+<attr id="displayWedge">oFb1gen</attr>
+<attr id="restrictions.answered">yes</attr>
+<attr id="composition">extended</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Readability 7</description>
+<class>scale</class>
+<title>On a scale of 1 to 5, how would you rate the readability and language style of this patient note? Disregard any contents of this note and focus only on linguistic aspects. </title>
+<explanation />
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">Not natural at all</li>
+<li i="5">Completely natural: could be written by a doctor</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">33</attr>
+<attr id="pos">48</attr>
+<attr id="scale.label_align">eachline</attr>
+<attr id="scale.metrics.labels">500</attr>
+<attr id="scale.display">extrema</attr>
+<attr id="displayWedge">oFb1gen</attr>
+<attr id="restrictions.answered">yes</attr>
+<attr id="composition">extended</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Readability 8</description>
+<class>scale</class>
+<title>On a scale of 1 to 5, how would you rate the readability and language style of this patient note? Disregard any contents of this note and focus only on linguistic aspects. </title>
+<explanation />
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">Not natural at all</li>
+<li i="5">Natural: could be written by a doctor</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">34</attr>
+<attr id="pos">49</attr>
+<attr id="scale.label_align">eachline</attr>
+<attr id="scale.metrics.labels">500</attr>
+<attr id="scale.display">extrema</attr>
+<attr id="displayWedge">oFb1gen</attr>
+<attr id="restrictions.answered">yes</attr>
+<attr id="composition">extended</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Readability 9</description>
+<class>scale</class>
+<title>On a scale of 1 to 5, how would you rate the readability and language style of this patient note? Disregard any contents of this note and focus only on linguistic aspects. </title>
+<explanation />
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">Not natural at all</li>
+<li i="5">Natural: could be written by a doctor</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">35</attr>
+<attr id="pos">50</attr>
+<attr id="scale.label_align">eachline</attr>
+<attr id="scale.metrics.labels">500</attr>
+<attr id="scale.display">extrema</attr>
+<attr id="displayWedge">oFb1gen</attr>
+<attr id="restrictions.answered">yes</attr>
+<attr id="composition">extended</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Readability 10</description>
+<class>scale</class>
+<title>On a scale of 1 to 5, how would you rate the readability and language style of this patient note? Disregard any contents of this note and focus only on linguistic aspects. </title>
+<explanation />
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">Not natural at all</li>
+<li i="5">Natural: could be written by a doctor</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">36</attr>
+<attr id="pos">51</attr>
+<attr id="scale.label_align">eachline</attr>
+<attr id="scale.metrics.labels">500</attr>
+<attr id="scale.display">extrema</attr>
+<attr id="displayWedge">oFb1gen</attr>
+<attr id="restrictions.answered">yes</attr>
+<attr id="composition">extended</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Medical Coherence 1</description>
+<class>scale</class>
+<title>On a scale of 1 to 5, how would you rate the medical contents of this note? Disregard any linguistic unusualities and focus only on the medical information.</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">Not coherent at all.</li>
+<li i="5">Perfectly coherent: Symptoms, Diagnosis, Procedures etc. fit together perfectly.</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">9</attr>
+<attr id="pos">52</attr>
+<attr id="scale.label_align">eachline</attr>
+<attr id="scale.display">extrema</attr>
+<attr id="displayWedge">oFb1gen</attr>
+<attr id="restrictions.answered">yes</attr>
+<attr id="composition">extended</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Medical Coherence 2</description>
+<class>scale</class>
+<title>On a scale of 1 to 5, how would you rate the medical contents of this note? Disregard any linguistic unusualities and focus only on the medical information.</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">Not coherent at all.</li>
+<li i="5">Perfectly coherent: Symptoms, Diagnosis, Procedures etc. fit together perfectly.</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">19</attr>
+<attr id="pos">53</attr>
+<attr id="scale.label_align">eachline</attr>
+<attr id="scale.display">extrema</attr>
+<attr id="displayWedge">oFb1gen</attr>
+<attr id="restrictions.answered">yes</attr>
+<attr id="composition">extended</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Medical Coherence 3</description>
+<class>scale</class>
+<title>On a scale of 1 to 5, how would you rate the medical contents of this note? Disregard any linguistic unusualities and focus only on the medical information.</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">Not coherent at all.</li>
+<li i="5">Perfectly coherent: Symptoms, Diagnosis, Procedures etc. fit together perfectly.</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">20</attr>
+<attr id="pos">54</attr>
+<attr id="scale.label_align">eachline</attr>
+<attr id="scale.display">extrema</attr>
+<attr id="displayWedge">oFb1gen</attr>
+<attr id="restrictions.answered">yes</attr>
+<attr id="composition">extended</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Medical Coherence 4</description>
+<class>scale</class>
+<title>On a scale of 1 to 5, how would you rate the medical contents of this note? Disregard any linguistic unusualities and focus only on the medical information.</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">Not coherent at all.</li>
+<li i="5">Perfectly coherent: Symptoms, Diagnosis, Procedures etc. fit together perfectly.</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">21</attr>
+<attr id="pos">55</attr>
+<attr id="scale.label_align">eachline</attr>
+<attr id="scale.display">extrema</attr>
+<attr id="displayWedge">oFb1gen</attr>
+<attr id="restrictions.answered">yes</attr>
+<attr id="composition">extended</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Medical Coherence 5</description>
+<class>scale</class>
+<title>On a scale of 1 to 5, how would you rate the medical contents of this note? Disregard any linguistic unusualities and focus only on the medical information.</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">Not coherent at all.</li>
+<li i="5">Perfectly coherent: Symptoms, Diagnosis, Procedures etc. fit together perfectly.</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">22</attr>
+<attr id="pos">56</attr>
+<attr id="scale.label_align">eachline</attr>
+<attr id="scale.display">extrema</attr>
+<attr id="displayWedge">oFb1gen</attr>
+<attr id="restrictions.answered">yes</attr>
+<attr id="composition">extended</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Medical Coherence 6</description>
+<class>scale</class>
+<title>On a scale of 1 to 5, how would you rate the medical contents of this note? Disregard any linguistic unusualities and focus only on the medical information.</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">Not coherent at all.</li>
+<li i="5">Perfectly coherent: Symptoms, Diagnosis, Procedures etc. fit together perfectly.</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">23</attr>
+<attr id="pos">57</attr>
+<attr id="scale.label_align">eachline</attr>
+<attr id="scale.display">extrema</attr>
+<attr id="displayWedge">oFb1gen</attr>
+<attr id="restrictions.answered">yes</attr>
+<attr id="composition">extended</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Medical Coherence 7</description>
+<class>scale</class>
+<title>On a scale of 1 to 5, how would you rate the medical contents of this note? Disregard any linguistic unusualities and focus only on the medical information.</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">Not coherent at all.</li>
+<li i="5">Perfectly coherent: Symptoms, Diagnosis, Procedures etc. fit together perfectly.</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">24</attr>
+<attr id="pos">58</attr>
+<attr id="scale.label_align">eachline</attr>
+<attr id="scale.display">extrema</attr>
+<attr id="displayWedge">oFb1gen</attr>
+<attr id="restrictions.answered">yes</attr>
+<attr id="composition">extended</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Medical Coherence 8</description>
+<class>scale</class>
+<title>On a scale of 1 to 5, how would you rate the medical contents of this note? Disregard any linguistic unusualities and focus only on the medical information.</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">Not coherent at all.</li>
+<li i="5">Perfectly coherent: Symptoms, Diagnosis, Procedures etc. fit together perfectly.</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">25</attr>
+<attr id="pos">59</attr>
+<attr id="scale.label_align">eachline</attr>
+<attr id="scale.display">extrema</attr>
+<attr id="displayWedge">oFb1gen</attr>
+<attr id="restrictions.answered">yes</attr>
+<attr id="composition">extended</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Medical Coherence 9</description>
+<class>scale</class>
+<title>On a scale of 1 to 5, how would you rate the medical contents of this note? Disregard any linguistic unusualities and focus only on the medical information.</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">Not coherent at all.</li>
+<li i="5">Perfectly coherent: Symptoms, Diagnosis, Procedures etc. fit together perfectly.</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">26</attr>
+<attr id="pos">60</attr>
+<attr id="scale.label_align">eachline</attr>
+<attr id="scale.display">extrema</attr>
+<attr id="displayWedge">oFb1gen</attr>
+<attr id="restrictions.answered">yes</attr>
+<attr id="composition">extended</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Medical Coherence 10</description>
+<class>scale</class>
+<title>On a scale of 1 to 5, how would you rate the medical contents of this note? Disregard any linguistic unusualities and focus only on the medical information.</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">Not coherent at all.</li>
+<li i="5">Perfectly coherent: Symptoms, Diagnosis, Procedures etc. fit together perfectly.</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">27</attr>
+<attr id="pos">61</attr>
+<attr id="scale.label_align">eachline</attr>
+<attr id="scale.display">extrema</attr>
+<attr id="displayWedge">oFb1gen</attr>
+<attr id="restrictions.answered">yes</attr>
+<attr id="composition">extended</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+</section>
+<section>
+<title>Einweisung</title>
+<attributes.specific program="ofb">
+<attr id="id">T0</attr>
+<attr id="pos">2</attr>
+</attributes.specific>
+<question>
+<description>Introduction</description>
+<class>TextContent</class>
+<title />
+<explanation />
+<headerText>Welcome!</headerText>
+<inputPosition>right</inputPosition>
+<lead>
+<![CDATA[Thanks for showing interest in this study and supporting my research :) 
+
+The following user study is going to be part of the evaluation of the research project I am currently conducting for my Master Thesis at Stockholm University under the supervision of Dr. Hercules Dalianis and Dr. Dietrich Klakow. We are trying to build powerful clinical models by using different Natural Language Processing methods and large clinical datasets. To take part in this study, you are required to have medical expertise on a professional level. The study is fully anonymous and your answers will only be used in the scope of this research project. 
+
+You should plan about 30 minutes to carry out the study. Before continuing, please answer the following questions. ]]>
+</lead>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+<attr id="alignment">default</attr>
+<attr id="character">plain</attr>
+</attributes.specific>
+</question>
+<question>
+<description>Medical Expertise</description>
+<class>select</class>
+<title>I confirm that I have medical expertise at a professional level.</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+<attr id="settings">
+<li i="0">0</li>
+<li i="1">0</li>
+</attr>
+<attr id="columns">3</attr>
+<attr id="data">
+<![CDATA[1|Yes
+2|No]]>
+</attr>
+</attributes.specific>
+<filter>
+<condition type="all">
+<value id="vOpt">2</value>
+</condition>
+<effect type="so">
+<value id="qIS">T005</value>
+</effect>
+</filter>
+<item>
+<text>Yes</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+<item>
+<text>No</text>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Aussortierung</description>
+<class>TextContent</class>
+<title />
+<explanation />
+<inputPosition>right</inputPosition>
+<lead>
+<![CDATA[This study requires the participants to have some form of medical expertise at a professional level. Unfortunately, it seems that you don't fit the target group. 
+
+Thank you for your time!]]>
+</lead>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">5</attr>
+<attr id="pos">3</attr>
+<attr id="alignment">default</attr>
+<attr id="character">plain</attr>
+</attributes.specific>
+</question>
+<question>
+<description>Profession</description>
+<class>select</class>
+<title>Do you work in the medical field or did so in the past?</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">6</attr>
+<attr id="pos">4</attr>
+<attr id="restrictions.answered">yes</attr>
+<attr id="settings">
+<li i="0">0</li>
+<li i="1">0</li>
+</attr>
+<attr id="data">
+<![CDATA[1|Yes
+2|No]]>
+</attr>
+</attributes.specific>
+<filter>
+<condition type="all">
+<value id="vOpt">1</value>
+</condition>
+<effect type="+qst">
+<value id="qIS">T007</value>
+</effect>
+</filter>
+<filter>
+<condition type="all">
+<value id="vOpt">2</value>
+</condition>
+<effect type="+qst">
+<value id="qIS">T009</value>
+</effect>
+</filter>
+<filter>
+<condition type="any">
+<value id="vOpt">1</value>
+</condition>
+<effect type="+qst">
+<value id="qIS">T008</value>
+</effect>
+</filter>
+<item>
+<text>Yes</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+<item>
+<text>No</text>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Which profession</description>
+<class>text</class>
+<title>Please indicate in which profession:</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">7</attr>
+<attr id="pos">5</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Years</description>
+<class>text</class>
+<title>For how many years?</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">8</attr>
+<attr id="pos">6</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Gained expertise</description>
+<class>text</class>
+<title>Where did you gain your medical expertise from?</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">9</attr>
+<attr id="pos">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>health record</description>
+<class>select</class>
+<title>Do you know what Electronic Health Records and Discharge Summaries are?</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">10</attr>
+<attr id="pos">8</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<filter>
+<condition type="any">
+<value id="vOpt">2</value>
+</condition>
+<effect type="+qst">
+<value id="qIS">T013</value>
+</effect>
+</filter>
+<item>
+<text>Yes</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+<item>
+<text>No</text>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>icd10</description>
+<class>select</class>
+<title>Do you know what ICD-10 codes are?</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">15</attr>
+<attr id="pos">9</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<filter>
+<condition type="any">
+<value id="vOpt">2</value>
+</condition>
+<effect type="+qst">
+<value id="qIS">T014</value>
+</effect>
+</filter>
+<item>
+<text>Yes</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+<item>
+<text>No</text>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>ehr expertise</description>
+<class>scale</class>
+<title />
+<explanation />
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">never</li>
+<li i="2">rarely</li>
+<li i="3">sometimes</li>
+<li i="4">often</li>
+<li i="5">very often</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">11</attr>
+<attr id="pos">10</attr>
+<attr id="scale.metrics.extrema">95</attr>
+<attr id="scale.display">complete</attr>
+<attr id="displayWedge">oFb1gen</attr>
+<attr id="restrictions.answered">yes</attr>
+<attr id="wedge.height">30</attr>
+</attributes.specific>
+<item>
+<text>I have read discharge summaries before.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+<item>
+<text>I have written discharge summaries before.</text>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>icd10 expertise</description>
+<class>scale</class>
+<title />
+<explanation />
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">never</li>
+<li i="2">rarely</li>
+<li i="3">sometimes</li>
+<li i="4">often</li>
+<li i="5">very often</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">12</attr>
+<attr id="pos">11</attr>
+<attr id="scale.metrics.extrema">95</attr>
+<attr id="scale.display">complete</attr>
+<attr id="displayWedge">oFb1gen</attr>
+<attr id="restrictions.answered">yes</attr>
+<attr id="wedge.height">30</attr>
+</attributes.specific>
+<item>
+<text>I have performed ICD-10 coding.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+<item>
+<text>I have assigned diagnoses in a different form than ICD-10 coding.</text>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>definition ehr</description>
+<class>TextContent</class>
+<title />
+<explanation />
+<headerText>Defnition Electronic Health Record</headerText>
+<inputPosition>right</inputPosition>
+<lead>
+<![CDATA[An Electronic Health Record (EHR) is a digital repository of a patient's medical information that documents their entire healthcare journey in an electronic system. It includes comprehensive data about the patient's medical history, diagnoses, medications, treatment plans, immunization dates, allergies, and laboratory test results. 
+
+A discharge summary is is a component of Electronic Health Records that provides a comprehensive documentation of a patient's hospital stay from admission to discharge in form of a free-text note.]]>
+</lead>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">13</attr>
+<attr id="pos">12</attr>
+<attr id="alignment">default</attr>
+<attr id="character">plain</attr>
+</attributes.specific>
+</question>
+<question>
+<description>definition icd10</description>
+<class>TextContent</class>
+<title />
+<explanation />
+<headerText>Defnition ICD-10 Codes</headerText>
+<inputPosition>right</inputPosition>
+<lead>ICD-10 codes (International Classification of Diseases, 10th Revision) are standardized alphanumeric codes used globally to classify and code diagnoses and medical procedures.</lead>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">14</attr>
+<attr id="pos">13</attr>
+<attr id="alignment">default</attr>
+<attr id="character">plain</attr>
+</attributes.specific>
+</question>
+</section>
+<section>
+<title>Instructions</title>
+<attributes.specific program="ofb">
+<attr id="id">T1</attr>
+<attr id="pos">3</attr>
+</attributes.specific>
+<question>
+<description>Einweisung</description>
+<class>TextContent</class>
+<title />
+<explanation />
+<headerText>Instructions</headerText>
+<inputPosition>right</inputPosition>
+<lead>
+<![CDATA[In the following study you will be presented with 8 pseudonomized Swedish discharge summaries from different sources, one after the other. 
+Please take your time to carfully read through each medical note. 
+When you're done, please answer the presented questions. 
+Note, that there are no right or wrong answers. 
+After each question you have the possibility to justify your answer. 
+Any additional information is greatly appreciated. <p>
+
+Since this study presents you with patient records that might potentially reveal protected health information, you need to sign the following agreement before starting with the study.]]>
+</lead>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+<attr id="alignment">default</attr>
+<attr id="character">html</attr>
+</attributes.specific>
+</question>
+<question>
+<description>Agreement</description>
+<class>select</class>
+<title />
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>I hereby agree not to share any contents of the present study with third parties. Furthermore, I agree not to take pictures of the presented patient records, nor to save or record their contents in any form.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+</section>
+<section>
+<title>Samples</title>
+<attributes.specific program="ofb">
+<attr id="id">S0</attr>
+<attr id="pos">4</attr>
+</attributes.specific>
+<question>
+<description>Synth 1_31, 10794444</description>
+<class>TextContent</class>
+<title>Discharge Summary</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<lead>
+<![CDATA[Inlagd för några veckor sedan på grund av blod i avföringen. Kommer nu för endoskopisk undersökning ( gastroskopi och koloskopi ). Patienten mår utmärkt bra och har inte haft några symtom sedan han blev utskriven., Således två till synes helt benigna polyper i kolon som idag avlägsnats med slyngan. Ingen blödning., Via inremitterande., Inremitterande., I distala sigmoideum på cirka 30 cm : s höjd från den ileocekala valveln noteras en cirka 4 mm - stor flack polyp med utseende som hyperplastisk polyp. Polypen avlägsnas med vanlig biopsitång. Inga omkringliggande förändringar. Inga tecken till blödning efteråt. I distala transversum samt proximala descendens ses ytterligare en cirka 5 mm stor flack polyp med utseende som hyperplastisk polyp. Denna avlägsnas med vanlig biopsitång. Återigen inga omkringliggande förändringar. Inget blod i lumen., Dr Emelie Luusua ., Blod i avföring. Utredning.
+<p>]]>
+</lead>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">12</attr>
+<attr id="pos">1</attr>
+<attr id="number">no</attr>
+<attr id="alignment">default</attr>
+<attr id="character">html</attr>
+</attributes.specific>
+</question>
+<question>
+<description>Real 1_31</description>
+<class>TextContent</class>
+<title>Discharge Summary</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<lead>
+<![CDATA[3 mg Midazolam, 1, 2 : mindre än 3 mm stora polyper på valven, C. asc. 3 : bredbasig polyp vid höger flexur med tecken till invasivitet. Slyngbiopsi av ca 1 cm. Snabbsvar., Malignitetssuspekt polyp vid hö flexur, ingen inflammation i övre colon, inget talande för Crohn, Tarm är ren. Lite besvärlig i sigmoideum, annars utan problem upp till caecum. 
+<p> 2 Polyper mindre än 3 mm på valven och prox hö flexur, togs med px - tång.
+<p> 2, 5x1, 5 cm stor bredbasig polyp strax efter höger flexur med tecken till invasivitet centralt. Kan lyftas efter injektion av 11 ml NaCl 0. 9 % / adrenalin 1 : 100. 000. Vid slyngning av en större del dock utseende som vid infiltration varför inga ytterligae försök görs att ta polypen helt.
+<p>]]>
+</lead>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">13</attr>
+<attr id="pos">2</attr>
+<attr id="number">no</attr>
+<attr id="alignment">default</attr>
+<attr id="character">html</attr>
+</attributes.specific>
+</question>
+<question>
+<description>Synth 2_31, 20743420</description>
+<class>TextContent</class>
+<title>Discharge Summary</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<lead>
+<![CDATA[Perforerad appendicit inom 24 timmar innan operation. Lokaliserad med rodnad peritoneum, varför antibiotika fortsättes i 4 - 5 dagar. Sedvanlig mobilisering och matvanor., I morgon för nytt blodprov, ultraljud visa blossande terminal multipla appendicofibrilar som meso, förmodligen sekundärt perforerad appendicit. Opereras med 12 mm port under naveln, stepportar i vä fossa men som det är mycket adherent görs via försöksvis ett växelsnitt subkutant i hö fossa, efter detta får vi loss caecumpolen men den ligger in under colon ascendens som ser normalt ut och över tarmen från hö flexuren har det väldigt mycket fibrin och fibrilla och torkblodtingerat. Colon ascendens u a och appendix är inflammerad mesoappendix också inflammerad och då peritoneum läcker ser man fibrin och fibrilla upprät täckt över kanten. Efter diskussion med Dr. Jonsson besligt att utföra appendektomi men det var svår tarmpouch inbäddad och blödning har successivt ökad under operationen, därför beslutas om att utföra appendektomi med sedvanlig teknik och och syr fortlöpande sutur fortlöpande med Vicryl 2 / 0, sutur successivt ihop magen muskulatur och fascia med 3 / 0 Polysorb i lager och därefter sätter suturer cutant till skinna med Vicryl 4 / 0.
+<p>]]>
+</lead>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">14</attr>
+<attr id="pos">3</attr>
+<attr id="number">no</attr>
+<attr id="alignment">default</attr>
+<attr id="character">html</attr>
+</attributes.specific>
+</question>
+<question>
+<description>Real 2_31</description>
+<class>TextContent</class>
+<title>Discharge Summary</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<lead>
+<![CDATA[Pigg och opåverkat., Glatt efterförlopp till konservativt behandlad perforerad appendicit / abscess., Mjuk. Sammanfallen. Inga patologiska resistenser., Medföljande moder har en hel del frågor som besvaras. Ej indikation för kirurgisk uppföljning. Således åter hit endast vid behov ( men fortsätter som tidigare planerat på en vårdenhet på grund av gastroesofagal reflux )., Återbesök icke op appendicitabcess., Retningsfritt perianalt. Palp utföres ej., Sedan utskrivningen från avdelning en vårdenhet 101227 mått utmärkt. Ätit antibiotika till och med 101230 . Ej feber. Ej diarré. Ej trängningar till miktion.
+<p>]]>
+</lead>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">15</attr>
+<attr id="pos">4</attr>
+<attr id="number">no</attr>
+<attr id="alignment">default</attr>
+<attr id="character">html</attr>
+</attributes.specific>
+</question>
+<question>
+<description>Synth 3_31, 24231963</description>
+<class>TextContent</class>
+<title>Discharge Summary</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<lead>
+<![CDATA[Gott, opåverkat. Afebril., Masserar saliv och behåller det några minuter för att reda ut fistelmynningen men det går ej. Inga stenar kan känna i kanalen. Inget annat tyder på någon malign genes, varför vi avbokar denna pat från kontroller efter sommaren så får man se hur det går med fisteln och om det fortsätter att sekundärgranulera och läka. Pat hör av sig vid behov., Gapar u a. Fin sanerade tänder. Vä bucca är lite ödematös och bra mogen granulation, tömmer sig inget pus idag. Palp inga tydliga konkrement., Åb p g a misstänkt dental infektion vid 47, har en fistel i vä kind som tog PAD som visat granulationsvävnadsslemhinnehyperplasi, bedömd av Käkkir kvällstid. Dessa granulationsvävnader har nu granulerat och piercing gick ur. Det tömmer sig inget pus men diskret odör som man ses från sådant i sår. Normal rodnad. Ingen svullnad eller annat., en vårdenhet , dr Agborg
+<p>]]>
+</lead>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">16</attr>
+<attr id="pos">5</attr>
+<attr id="number">no</attr>
+<attr id="alignment">default</attr>
+<attr id="character">html</attr>
+</attributes.specific>
+</question>
+<question>
+<description>Real 3_31</description>
+<class>TextContent</class>
+<title>Discharge Summary</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<lead>
+<![CDATA[Gott, opåverkat., Vid dagens besök lugnt status. Skall ha kontakt med dr Thofelt telefonledes i nästa vecka. I samband med detta kommer pat diskutera om ev exstirpation av körteln kan vara aktuell., Svullnad över submandibularis spottkörtelutgång bilat. Mycket diskret svullnad i munbotten. Submandibularis palp lätt förstorad bilat Mun - och svalgstatus u a., Sedan 20 år tillbaka haft besvär med stenbildning vä submandibularis. Den 1 / 11 försök till endoskopisk extraktion av sten men detta lyckades ej. I efterförloppet utvecklat ett kraftigt munbottenflegmone. Insatt på Dalacin. Upplever sig klart förbättrad, svullnaden närmast gått helt i regress. Ingen feber. Inga smärtor., Inflammation vä glandula submandibularis.
+<p>]]>
+</lead>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">17</attr>
+<attr id="pos">6</attr>
+<attr id="number">no</attr>
+<attr id="alignment">default</attr>
+<attr id="character">html</attr>
+</attributes.specific>
+</question>
+<question>
+<description>Synth 4_31, 26870089</description>
+<class>TextContent</class>
+<title>Discharge Summary</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<lead>
+<![CDATA[<p>Tel - kontakt idag då man inspekterat pat : s stomipåse. Tar för nuvarande ett par Festini. Det ser ut som att det kommer en del slem från fistelhålet i det att det ligger små gråsvarta tunna tunnflytande kladdar blandat med feces i påsen. Detta skall således bytas två ggr / dag. På avd följer man vätskevolymen från fisteln. </p>
+<p>Det har således kommit så mycket luft från en fistel som var aktuell redan i samband med op på en vårdenhet som föranledde op komplicerat. Möjligen skulle man kunna prova att ge Questran alt Fiberform för att binda vätskan i tarmen. Strategin i nuläget är dock att behålla tarmen i så god funktion som möjligt och att vätska ut tarmen så mycket som möjligt central. Lär sig blanda in båda komponenterna i en fungerande strategi. Man återkommer v b.</p>
+<p>]]>
+</lead>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">18</attr>
+<attr id="pos">7</attr>
+<attr id="number">no</attr>
+<attr id="alignment">default</attr>
+<attr id="character">html</attr>
+</attributes.specific>
+</question>
+<question>
+<description>Real 4_31</description>
+<class>TextContent</class>
+<title>Discharge Summary</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<lead>
+<![CDATA[<p>Pat som op för en lokalt avancerad rektalcancer 12-2011 . Har en ändkolostomi samt en Brickerblåsa på hö sida. Gluteallambå i smb med op. Pat får f. n. cytostatikabeh. Pat sökte under våren på en vårdenhet pga stopp i Brickerblåsan. Det var stenos i hudplan. Han var på mott 11 / 4 1011 då man förde in en Foleykateter Ch 12 och det tömde sig grumlig urin. Pat hade uppemot 241 i kreatinin varför man beslutat att pat skulle komma på åb idag för att se pat och ta kreatinin. </p>
+<p>Idag är kreatinin 137, elektrolyter u a., Palperar buken u a. Tar bort påsen från Brickerblåsan där katetern sitter, drar ut den försiktigt. Nu är hålet nästan 0, 5 cm stort. Kommer överens med pat att inte sätta in ngn ny och att vi tar ett nytt kreatinin om cirka 2 v för att se att värdet går ned ytterligare. Om det skulle vara så att det blir stopp i Brickerblåsan får han höra av sig hit alt till en vårdenhet .
+<p>]]>
+</lead>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">19</attr>
+<attr id="pos">8</attr>
+<attr id="number">no</attr>
+<attr id="alignment">default</attr>
+<attr id="character">html</attr>
+</attributes.specific>
+</question>
+<question>
+<description>Synth 5_31, 16889651</description>
+<class>TextContent</class>
+<title>Discharge Summary</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<lead>
+<![CDATA[Blir kallad till ett förnyat tidigare planerat åb, mår subj helt bra. Fyller i IBD - registret. Sätter ut Imurel, skriver brev till pat om detta. Beträffande koloskopi blev pat ngt förbryllad då hon har haft symptom egentligen bara från den tidigare op - området och något mer accentuerat sedan hon har återinsatt Imurel och förefaller mycket Httit att kontrollera ileum för att suga in medicin mot detta. 
+<p> Anledningen till koloskopi är att veta att relativt långt ner i makroskopiskt helt frisk tarm och att detta talar för Crohn och starkt talar emot inflammatorisk tarmsjukdom även om det ju skulle kunna finnas parallella Crohnförändringar i tarmen eftersom pat tidigare haft inflammatoriska förändringar utan fistlar då han bedömdes som Crohn. 
+<p> Försöker förklara detta men inte säkert att det riktigt har handlagts. Pat är dock tillfreds då jag antyder att fortsättning av medicinering verkar fungera bra. Har f n inga andra problem.
+<p>]]>
+</lead>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">20</attr>
+<attr id="pos">9</attr>
+<attr id="number">no</attr>
+<attr id="alignment">default</attr>
+<attr id="character">html</attr>
+</attributes.specific>
+</question>
+<question>
+<description>Real 5_31</description>
+<class>TextContent</class>
+<title>Discharge Summary</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<lead>
+<![CDATA[Inj Buscopan 10 mg i v., Man med Crohn sedan - 69. Op x 2, tunntarmsresektioner. Troligen även cekalrececerad. Vad inremitterande förstår aldrig koloskoperad. Obehandlad. Gamla journaler idag otillgängliga. Nu kontakt pga episod av subileus i januari i hemmet. Sedan dess kontinuerligt obehag i höger och vänster fossa. Inga diarrér och lab u. a., Lätt stenos i neoterminala ileum. Ballongdilatation utförs. Inga aktiva inflammationstecken kan ses., Via inrem., Ballongdilatation., Inrem., Status post högersidig kolektomi. Ända - till - ända - anastomos ses i höger transversum., Carina Sarkisian , en vårdenhet ., Inflammation? Stenos?, Det finns ett trångt område 3 cm ovanför anastomosen. Det är ungefär 8 mm i diameter. I den trånga området ses det circumferent ärr. Ballongdilatation utförs till 15 mm. Efter dilatationen kan man passera området med endoskopet. 
+<p> Skopet införs 20 cm ovanför det trånga området. Inga aktiva inflammationstecken ses i proximala tunntarmen., Ej undersökt., Anastomosen ser bra ut., Ett ca 10 cm långt ärr ses i sigmoideum., U a.
+<p>
+]]>
+</lead>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">21</attr>
+<attr id="pos">10</attr>
+<attr id="number">no</attr>
+<attr id="alignment">default</attr>
+<attr id="character">html</attr>
+</attributes.specific>
+</question>
+</section>
+<section>
+<title>Random</title>
+<attributes.specific program="ofb">
+<attr id="id">R1</attr>
+<attr id="pos">5</attr>
+</attributes.specific>
+<question>
+<description>Seitengenerator</description>
+<class>random</class>
+<title />
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+<attr id="rows">8</attr>
+<attr id="data">
+<![CDATA[1 S1
+2 S2
+3 S5
+4 S6
+5 S7
+6 S8
+7 S9
+8 S10]]>
+</attr>
+</attributes.specific>
+</question>
+</section>
+<layoutTexts>
+<layoutText id="default.imprint"><txt lng="eng"><![CDATA[<a href="mailto:loki00002@stud.uni-saarland.de">Lotta Kiefer</a> – 2024]]></txt></layoutText>
+</layoutTexts>
+<questionnaire>
+<title>Fragebogen</title>
+<attributes.specific program="ofb">
+<attr id="id">base</attr>
+<attr id="content">&lt;?xml version=&quot;1.0&quot;?&gt;
+&lt;questionnaire&gt;
+
+&lt;!-- Seite 1 --&gt;
+&lt;page intID=&quot;9&quot;&gt;
+&lt;info&gt;Titelseite&lt;/info&gt;
+&lt;question id=&quot;T001&quot; intID=&quot;10&quot; /&gt;
+&lt;question id=&quot;T002&quot; intID=&quot;11&quot; /&gt;
+&lt;/page&gt;
+
+
+&lt;!-- Seite 2 --&gt;
+&lt;page intID=&quot;12&quot;&gt;
+&lt;question id=&quot;T006&quot; intID=&quot;13&quot; /&gt;
+&lt;/page&gt;
+
+
+&lt;!-- Seite 3 --&gt;
+&lt;page ident=&quot;jump1&quot; intID=&quot;14&quot;&gt;
+&lt;question id=&quot;T007&quot; intID=&quot;15&quot; /&gt;
+&lt;question id=&quot;T008&quot; intID=&quot;16&quot; /&gt;
+&lt;/page&gt;
+
+
+&lt;!-- Seite 4 --&gt;
+&lt;page ident=&quot;jump2&quot; intID=&quot;17&quot;&gt;
+&lt;question id=&quot;T009&quot; intID=&quot;18&quot; /&gt;
+&lt;/page&gt;
+
+
+&lt;!-- Seite 5 --&gt;
+&lt;page intID=&quot;22&quot;&gt;
+&lt;question id=&quot;T010&quot; intID=&quot;23&quot; /&gt;
+&lt;question id=&quot;T015&quot; intID=&quot;24&quot; /&gt;
+&lt;/page&gt;
+
+
+&lt;!-- Seite 6 --&gt;
+&lt;page intID=&quot;25&quot;&gt;
+&lt;question id=&quot;T013&quot; intID=&quot;26&quot; /&gt;
+&lt;question id=&quot;T014&quot; intID=&quot;27&quot; /&gt;
+&lt;/page&gt;
+
+
+&lt;!-- Seite 7 --&gt;
+&lt;page intID=&quot;28&quot;&gt;
+&lt;question id=&quot;T011&quot; intID=&quot;29&quot; /&gt;
+&lt;question id=&quot;T012&quot; intID=&quot;30&quot; /&gt;
+&lt;postprocessing intID=&quot;40&quot;&gt;
+
+&lt;/postprocessing&gt;
+&lt;php intID=&quot;42&quot;&gt;
+
+&lt;/php&gt;
+&lt;/page&gt;
+
+
+&lt;!-- Seite 8 --&gt;
+&lt;page intID=&quot;19&quot;&gt;
+&lt;question id=&quot;T101&quot; intID=&quot;20&quot; /&gt;
+&lt;question id=&quot;T102&quot; intID=&quot;21&quot; /&gt;
+&lt;php intID=&quot;39&quot;&gt;&lt;![CDATA[
+question(&#039;R101&#039;);  //Draw slides in random order
+$pages = valueList(&#039;R101&#039;, NULL, &#039;label&#039;);  // Drawn slips
+setPageOrder($pages, &#039;end&#039;);  // Define pages as page sequence
+]]&gt;&lt;/php&gt;
+&lt;/page&gt;
+
+
+&lt;!-- Seite 9 --&gt;
+&lt;page ident=&quot;S1&quot; intID=&quot;1&quot;&gt;
+&lt;question id=&quot;S012&quot; intID=&quot;2&quot; /&gt;
+&lt;question id=&quot;R008&quot; intID=&quot;3&quot; /&gt;
+&lt;question id=&quot;R005&quot; intID=&quot;6&quot; /&gt;
+&lt;question id=&quot;R009&quot; intID=&quot;5&quot; /&gt;
+&lt;question id=&quot;R007&quot; intID=&quot;7&quot; /&gt;
+&lt;php intID=&quot;43&quot;&gt;&lt;![CDATA[
+if ((value(&#039;T012_01&#039;) != 1) or (value(&#039;T012_01&#039;) != 1)) {
+  question(&#039;R003&#039;); 
+}
+]]&gt;&lt;/php&gt;
+&lt;question id=&quot;R006&quot; intID=&quot;8&quot; /&gt;
+&lt;/page&gt;
+
+
+&lt;!-- Seite 10 --&gt;
+&lt;page ident=&quot;S2&quot; intID=&quot;31&quot;&gt;
+&lt;question id=&quot;S013&quot; intID=&quot;32&quot; /&gt;
+&lt;question id=&quot;R028&quot; intID=&quot;33&quot; /&gt;
+&lt;question id=&quot;R046&quot; intID=&quot;34&quot; /&gt;
+&lt;question id=&quot;R019&quot; intID=&quot;35&quot; /&gt;
+&lt;question id=&quot;R055&quot; intID=&quot;36&quot; /&gt;
+&lt;php intID=&quot;4&quot;&gt;&lt;![CDATA[
+if ((value(&#039;T012_01&#039;) != 1) or (value(&#039;T012_01&#039;) != 1)) {
+  question(&#039;R010&#039;); 
+}
+]]&gt;&lt;/php&gt;
+&lt;question id=&quot;R037&quot; intID=&quot;38&quot; /&gt;
+&lt;/page&gt;
+
+
+&lt;!-- Seite 11 --&gt;
+&lt;page ident=&quot;S5&quot; intID=&quot;63&quot;&gt;
+&lt;question id=&quot;S016&quot; intID=&quot;64&quot; /&gt;
+&lt;question id=&quot;R031&quot; intID=&quot;65&quot; /&gt;
+&lt;question id=&quot;R049&quot; intID=&quot;66&quot; /&gt;
+&lt;question id=&quot;R022&quot; intID=&quot;67&quot; /&gt;
+&lt;question id=&quot;R058&quot; intID=&quot;68&quot; /&gt;
+&lt;php intID=&quot;45&quot;&gt;&lt;![CDATA[
+if ((value(&#039;T012_01&#039;) != 1) or (value(&#039;T012_01&#039;) != 1)) {
+  question(&#039;R013&#039;); 
+}
+]]&gt;&lt;/php&gt;
+&lt;question id=&quot;R040&quot; intID=&quot;70&quot; /&gt;
+&lt;/page&gt;
+
+
+&lt;!-- Seite 12 --&gt;
+&lt;page ident=&quot;S6&quot; intID=&quot;71&quot;&gt;
+&lt;question id=&quot;S017&quot; intID=&quot;72&quot; /&gt;
+&lt;question id=&quot;R032&quot; intID=&quot;73&quot; /&gt;
+&lt;question id=&quot;R050&quot; intID=&quot;74&quot; /&gt;
+&lt;question id=&quot;R023&quot; intID=&quot;75&quot; /&gt;
+&lt;question id=&quot;R059&quot; intID=&quot;76&quot; /&gt;
+&lt;php intID=&quot;46&quot;&gt;&lt;![CDATA[
+if ((value(&#039;T012_01&#039;) != 1) or (value(&#039;T012_01&#039;) != 1)) {
+  question(&#039;R014&#039;); 
+}
+]]&gt;&lt;/php&gt;
+&lt;question id=&quot;R041&quot; intID=&quot;78&quot; /&gt;
+&lt;/page&gt;
+
+
+&lt;!-- Seite 13 --&gt;
+&lt;page ident=&quot;S7&quot; intID=&quot;79&quot;&gt;
+&lt;question id=&quot;S018&quot; intID=&quot;85&quot; /&gt;
+&lt;question id=&quot;R033&quot; intID=&quot;81&quot; /&gt;
+&lt;question id=&quot;R051&quot; intID=&quot;82&quot; /&gt;
+&lt;question id=&quot;R024&quot; intID=&quot;83&quot; /&gt;
+&lt;question id=&quot;R060&quot; intID=&quot;84&quot; /&gt;
+&lt;php intID=&quot;53&quot;&gt;&lt;![CDATA[
+if ((value(&#039;T012_01&#039;) != 1) or (value(&#039;T012_01&#039;) != 1)) {
+  question(&#039;R015&#039;); 
+}
+]]&gt;&lt;/php&gt;
+&lt;question id=&quot;R042&quot; intID=&quot;86&quot; /&gt;
+&lt;/page&gt;
+
+
+&lt;!-- Seite 14 --&gt;
+&lt;page ident=&quot;S8&quot; intID=&quot;87&quot;&gt;
+&lt;question id=&quot;S019&quot; intID=&quot;93&quot; /&gt;
+&lt;question id=&quot;R034&quot; intID=&quot;89&quot; /&gt;
+&lt;question id=&quot;R052&quot; intID=&quot;90&quot; /&gt;
+&lt;question id=&quot;R025&quot; intID=&quot;91&quot; /&gt;
+&lt;question id=&quot;R061&quot; intID=&quot;92&quot; /&gt;
+&lt;php intID=&quot;61&quot;&gt;&lt;![CDATA[
+if ((value(&#039;T012_01&#039;) != 1) or (value(&#039;T012_01&#039;) != 1)) {
+  question(&#039;R016&#039;); 
+}
+]]&gt;&lt;/php&gt;
+&lt;question id=&quot;R043&quot; intID=&quot;94&quot; /&gt;
+&lt;/page&gt;
+
+
+&lt;!-- Seite 15 --&gt;
+&lt;page ident=&quot;S9&quot; intID=&quot;95&quot;&gt;
+&lt;question id=&quot;S020&quot; intID=&quot;96&quot; /&gt;
+&lt;question id=&quot;R035&quot; intID=&quot;97&quot; /&gt;
+&lt;question id=&quot;R053&quot; intID=&quot;98&quot; /&gt;
+&lt;question id=&quot;R026&quot; intID=&quot;99&quot; /&gt;
+&lt;question id=&quot;R062&quot; intID=&quot;100&quot; /&gt;
+&lt;php intID=&quot;69&quot;&gt;&lt;![CDATA[
+if ((value(&#039;T012_01&#039;) != 1) or (value(&#039;T012_01&#039;) != 1)) {
+  question(&#039;R017&#039;); 
+}
+]]&gt;&lt;/php&gt;
+&lt;question id=&quot;R044&quot; intID=&quot;102&quot; /&gt;
+&lt;/page&gt;
+
+
+&lt;!-- Seite 16 --&gt;
+&lt;page ident=&quot;S10&quot; intID=&quot;103&quot;&gt;
+&lt;question id=&quot;S021&quot; intID=&quot;101&quot; /&gt;
+&lt;question id=&quot;R036&quot; intID=&quot;105&quot; /&gt;
+&lt;question id=&quot;R054&quot; intID=&quot;106&quot; /&gt;
+&lt;question id=&quot;R027&quot; intID=&quot;107&quot; /&gt;
+&lt;question id=&quot;R063&quot; intID=&quot;108&quot; /&gt;
+&lt;php intID=&quot;77&quot;&gt;&lt;![CDATA[
+if ((value(&#039;T012_01&#039;) != 1) or (value(&#039;T012_01&#039;) != 1)) {
+  question(&#039;R018&#039;); 
+}
+]]&gt;&lt;/php&gt;
+&lt;question id=&quot;R045&quot; intID=&quot;110&quot; /&gt;
+&lt;/page&gt;
+
+
+&lt;!-- Seite 17 --&gt;
+&lt;page ident=&quot;test&quot; intID=&quot;41&quot;&gt;
+&lt;/page&gt;
+
+
+&lt;/questionnaire&gt;</attr>
+<attr id="goodbye">
+<![CDATA[<h1>Thank you for completing this questionnaire!</h1>
+
+<p>Thank you very much for participating in this study. Your answers and your medical expertise are of great use for this research project.</p>
+
+<p>If you have any further questions about this study or research project, please contact: <br> Lotta Kiefer  <br>
+loki00002@stud.uni-saarland.de </p>
+
+<p>Your answers were transmitted, you may close the browser window or tab now.</p>
+
+<p>Have a nice day! </p>
+
+<!-- Additional spacing (remove or adjust as required)  -->
+<div style="padding-bottom: 120px"></div>]]>
+</attr>
+<attr id="selection">1</attr>
+</attributes.specific>
+</questionnaire>
+<setting name="DataFilter" key="df" encoding="json">
+{"progress":"finished","dfStatus":2}</setting>
+</surveyProject>

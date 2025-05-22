@@ -1,0 +1,2669 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE surveyProject SYSTEM "doctype.survey.dtd">
+<surveyProject version="2.4" timestamp="2024-12-06 12:15:06" program="oFb" progversion="3.6.08 1371">
+<title>Electronic Health Records</title>
+<description />
+<attributes.specific program="ofb">
+<attr id="language">eng</attr>
+</attributes.specific>
+<section>
+<title>Ratings</title>
+<attributes.specific program="ofb">
+<attr id="id">R0</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+<question>
+<description>Hallo, ich bin ein Electronic...</description>
+<class>TextContent</class>
+<title />
+<explanation />
+<inputPosition>right</inputPosition>
+<lead>Hallo, ich bin ein Electronic Health Record.</lead>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">4</attr>
+<attr id="pos">1</attr>
+<attr id="alignment">default</attr>
+<attr id="character">plain</attr>
+</attributes.specific>
+</question>
+<question>
+<description>Justification 1.1</description>
+<class>text</class>
+<title>If you can name any specific justification for your given answer, please state it here briefly. You're also encouraged to copy parts of the text that led to your previous answer and explain. </title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">5</attr>
+<attr id="pos">2</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+<attr id="height.auto">yes</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Justification 1.2</description>
+<class>text</class>
+<title>If you can name any specific justification for your given answer, please state it here briefly. You're also encouraged to copy parts of the text that led to your previous answer and explain. </title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">46</attr>
+<attr id="pos">3</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+<attr id="height.auto">yes</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Justification 1.3</description>
+<class>text</class>
+<title>If you can name any specific justification for your given answer, please state it here briefly. You're also encouraged to copy parts of the text that led to your previous answer and explain. </title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">47</attr>
+<attr id="pos">4</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+<attr id="height.auto">yes</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Justification 1.4</description>
+<class>text</class>
+<title>If you can name any specific justification for your given answer, please state it here briefly. You're also encouraged to copy parts of the text that led to your previous answer and explain. </title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">48</attr>
+<attr id="pos">5</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+<attr id="height.auto">yes</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Justification 1.5</description>
+<class>text</class>
+<title>If you can name any specific justification for your given answer, please state it here briefly. You're also encouraged to copy parts of the text that led to your previous answer and explain. </title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">49</attr>
+<attr id="pos">6</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+<attr id="height.auto">yes</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Justification 1.6</description>
+<class>text</class>
+<title>If you can name any specific justification for your given answer, please state it here briefly. You're also encouraged to copy parts of the text that led to your previous answer and explain. </title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">50</attr>
+<attr id="pos">7</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+<attr id="height.auto">yes</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Justification 1.7</description>
+<class>text</class>
+<title>If you can name any specific justification for your given answer, please state it here briefly. You're also encouraged to copy parts of the text that led to your previous answer and explain. </title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">51</attr>
+<attr id="pos">8</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+<attr id="height.auto">yes</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Justification 1.8</description>
+<class>text</class>
+<title>If you can name any specific justification for your given answer, please state it here briefly. You're also encouraged to copy parts of the text that led to your previous answer and explain. </title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">52</attr>
+<attr id="pos">9</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+<attr id="height.auto">yes</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Justification 1.9</description>
+<class>text</class>
+<title>If you can name any specific justification for your given answer, please state it here briefly. You're also encouraged to copy parts of the text that led to your previous answer and explain. </title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">53</attr>
+<attr id="pos">10</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+<attr id="height.auto">yes</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Justification 1.10</description>
+<class>text</class>
+<title>If you can name any specific justification for your given answer, please state it here briefly. You're also encouraged to copy parts of the text that led to your previous answer and explain. </title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">54</attr>
+<attr id="pos">11</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+<attr id="height.auto">yes</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Justification 2.1</description>
+<class>text</class>
+<title>If you can name any specific justification for your given answer, please state it here briefly. You're also encouraged to copy parts of the text that led to your previous answer and explain. </title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">7</attr>
+<attr id="pos">12</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+<attr id="height.auto">yes</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Justification 2.2</description>
+<class>text</class>
+<title>If you can name any specific justification for your given answer, please state it here briefly. You're also encouraged to copy parts of the text that led to your previous answer and explain. </title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">55</attr>
+<attr id="pos">13</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+<attr id="height.auto">yes</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Justification 2.3</description>
+<class>text</class>
+<title>If you can name any specific justification for your given answer, please state it here briefly. You're also encouraged to copy parts of the text that led to your previous answer and explain. </title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">56</attr>
+<attr id="pos">14</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+<attr id="height.auto">yes</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Justification 2.4</description>
+<class>text</class>
+<title>If you can name any specific justification for your given answer, please state it here briefly. You're also encouraged to copy parts of the text that led to your previous answer and explain. </title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">57</attr>
+<attr id="pos">15</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+<attr id="height.auto">yes</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Justification 2.5</description>
+<class>text</class>
+<title>If you can name any specific justification for your given answer, please state it here briefly. You're also encouraged to copy parts of the text that led to your previous answer and explain. </title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">58</attr>
+<attr id="pos">16</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+<attr id="height.auto">yes</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Justification 2.6</description>
+<class>text</class>
+<title>If you can name any specific justification for your given answer, please state it here briefly. You're also encouraged to copy parts of the text that led to your previous answer and explain. </title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">59</attr>
+<attr id="pos">17</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+<attr id="height.auto">yes</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Justification 2.7</description>
+<class>text</class>
+<title>If you can name any specific justification for your given answer, please state it here briefly. You're also encouraged to copy parts of the text that led to your previous answer and explain. </title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">60</attr>
+<attr id="pos">18</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+<attr id="height.auto">yes</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Justification 2.8</description>
+<class>text</class>
+<title>If you can name any specific justification for your given answer, please state it here briefly. You're also encouraged to copy parts of the text that led to your previous answer and explain. </title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">61</attr>
+<attr id="pos">19</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+<attr id="height.auto">yes</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Justification 2.9</description>
+<class>text</class>
+<title>If you can name any specific justification for your given answer, please state it here briefly. You're also encouraged to copy parts of the text that led to your previous answer and explain. </title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">62</attr>
+<attr id="pos">20</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+<attr id="height.auto">yes</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Justification 2.10</description>
+<class>text</class>
+<title>If you can name any specific justification for your given answer, please state it here briefly. You're also encouraged to copy parts of the text that led to your previous answer and explain. </title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">63</attr>
+<attr id="pos">21</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+<attr id="height.auto">yes</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Medical Coding 1</description>
+<class>mentions</class>
+<title>Given the patient record, please write down all ICD-10 Procedure and/or Diagnosis codes that you would assign to this note. There is no minimum or maximum number of required codes. You can look up codes on this site: https://icd.who.int/browse10/2019/en. If you are not familiar with ICD-10 coding or cannot find the relevant code you can also write it down in textual form.</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">3</attr>
+<attr id="pos">22</attr>
+<attr id="restrictions.answered">yes</attr>
+<attr id="restrictions.min">1</attr>
+<attr id="rows">25</attr>
+<attr id="offer">5</attr>
+</attributes.specific>
+</question>
+<question>
+<description>Medical Coding 3</description>
+<class>mentions</class>
+<title>Given the patient record, please write down all ICD-10 Procedure and/or Diagnosis codes that you would assign to this note. There is no minimum or maximum number of required codes. You can look up codes on this site: https://icd.who.int/browse10/2019/en. If you are not familiar with ICD-10 coding or cannot find the relevant code you can also write it down in textual form.</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">11</attr>
+<attr id="pos">23</attr>
+<attr id="restrictions.answered">yes</attr>
+<attr id="restrictions.min">1</attr>
+<attr id="rows">25</attr>
+<attr id="offer">5</attr>
+</attributes.specific>
+</question>
+<question>
+<description>Medical Coding 4</description>
+<class>mentions</class>
+<title>Given the patient record, please write down all ICD-10 Procedure and/or Diagnosis codes that you would assign to this note. There is no minimum or maximum number of required codes. You can look up codes on this site: https://icd.who.int/browse10/2019/en. If you are not familiar with ICD-10 coding or cannot find the relevant code you can also write it down in textual form.</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">12</attr>
+<attr id="pos">24</attr>
+<attr id="restrictions.answered">yes</attr>
+<attr id="restrictions.min">1</attr>
+<attr id="rows">25</attr>
+<attr id="offer">5</attr>
+</attributes.specific>
+</question>
+<question>
+<description>Medical Coding 5</description>
+<class>mentions</class>
+<title>Given the patient record, please write down all ICD-10 Procedure and/or Diagnosis codes that you would assign to this note. There is no minimum or maximum number of required codes. You can look up codes on this site: https://icd.who.int/browse10/2019/en. If you are not familiar with ICD-10 coding or cannot find the relevant code you can also write it down in textual form.</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">13</attr>
+<attr id="pos">25</attr>
+<attr id="restrictions.answered">yes</attr>
+<attr id="restrictions.min">1</attr>
+<attr id="rows">25</attr>
+<attr id="offer">5</attr>
+</attributes.specific>
+</question>
+<question>
+<description>Medical Coding 6</description>
+<class>mentions</class>
+<title>Given the patient record, please write down all ICD-10 Procedure and/or Diagnosis codes that you would assign to this note. There is no minimum or maximum number of required codes. You can look up codes on this site: https://icd.who.int/browse10/2019/en. If you are not familiar with ICD-10 coding or cannot find the relevant code you can also write it down in textual form.</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">14</attr>
+<attr id="pos">26</attr>
+<attr id="restrictions.answered">yes</attr>
+<attr id="restrictions.min">1</attr>
+<attr id="rows">25</attr>
+<attr id="offer">5</attr>
+</attributes.specific>
+</question>
+<question>
+<description>Medical Coding 7</description>
+<class>mentions</class>
+<title>Given the patient record, please write down all ICD-10 Procedure and/or Diagnosis codes that you would assign to this note. There is no minimum or maximum number of required codes. You can look up codes on this site: https://icd.who.int/browse10/2019/en. If you are not familiar with ICD-10 coding or cannot find the relevant code you can also write it down in textual form.</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">15</attr>
+<attr id="pos">27</attr>
+<attr id="restrictions.answered">yes</attr>
+<attr id="restrictions.min">1</attr>
+<attr id="rows">25</attr>
+<attr id="offer">5</attr>
+</attributes.specific>
+</question>
+<question>
+<description>Medical Coding 8</description>
+<class>mentions</class>
+<title>Given the patient record, please write down all ICD-10 Procedure and/or Diagnosis codes that you would assign to this note. There is no minimum or maximum number of required codes. You can look up codes on this site:https://icd.who.int/browse10/2019/en. If you are not familiar with ICD-10 coding or cannot find the relevant code you can also write it down in textual form.</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">16</attr>
+<attr id="pos">28</attr>
+<attr id="restrictions.answered">yes</attr>
+<attr id="restrictions.min">1</attr>
+<attr id="rows">25</attr>
+<attr id="offer">5</attr>
+</attributes.specific>
+</question>
+<question>
+<description>Medical Coding 9</description>
+<class>mentions</class>
+<title>Given the patient record, please write down all ICD-10 Procedure and/or Diagnosis codes that you would assign to this note. There is no minimum or maximum number of required codes. You can look up codes on this site: https://icd.who.int/browse10/2019/en. If you are not familiar with ICD-10 coding or cannot find the relevant code you can also write it down in textual form.</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">17</attr>
+<attr id="pos">29</attr>
+<attr id="restrictions.answered">yes</attr>
+<attr id="restrictions.min">1</attr>
+<attr id="rows">25</attr>
+<attr id="offer">5</attr>
+</attributes.specific>
+</question>
+<question>
+<description>Medical Coding 10</description>
+<class>mentions</class>
+<title>Given the patient record, please write down all ICD-10 Procedure and/or Diagnosis codes that you would assign to this note. There is no minimum or maximum number of required codes. You can look up codes on this site: https://icd.who.int/browse10/2019/en. If you are not familiar with ICD-10 coding or cannot find the relevant code you can also write it down in textual form.</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">18</attr>
+<attr id="pos">30</attr>
+<attr id="restrictions.answered">yes</attr>
+<attr id="restrictions.min">1</attr>
+<attr id="rows">25</attr>
+<attr id="offer">5</attr>
+</attributes.specific>
+</question>
+<question>
+<description>Medical Coding 2</description>
+<class>mentions</class>
+<title>Given the patient record, please write down all ICD-10 Procedure and/or Diagnosis codes that you would assign to this note. There is no minimum or maximum number of required codes. You can look up codes on this site: https://icd.who.int/browse10/2019/en. If you are not familiar with ICD-10 coding or cannot find the relevant code you can also write it down in textual form.</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">10</attr>
+<attr id="pos">31</attr>
+<attr id="restrictions.answered">yes</attr>
+<attr id="restrictions.min">1</attr>
+<attr id="rows">25</attr>
+<attr id="offer">5</attr>
+</attributes.specific>
+</question>
+<question>
+<description>Free Text 1</description>
+<class>text</class>
+<title>Are there any further unusual features of this patient record that you noticed while reading it? </title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">6</attr>
+<attr id="pos">32</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+<attr id="height.auto">yes</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Free Text 2</description>
+<class>text</class>
+<title>Are there any further unusual features of this patient record that you noticed while reading it? </title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">37</attr>
+<attr id="pos">33</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+<attr id="height.auto">yes</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Free Text 3</description>
+<class>text</class>
+<title>Are there any further unusual features of this patient record that you noticed while reading it? </title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">38</attr>
+<attr id="pos">34</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+<attr id="height.auto">yes</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Free Text 4</description>
+<class>text</class>
+<title>Are there any further unusual features of this patient record that you noticed while reading it? </title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">39</attr>
+<attr id="pos">35</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+<attr id="height.auto">yes</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Free Text 5</description>
+<class>text</class>
+<title>Are there any further unusual features of this patient record that you noticed while reading it? </title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">40</attr>
+<attr id="pos">36</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+<attr id="height.auto">yes</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Free Text 6</description>
+<class>text</class>
+<title>Are there any further unusual features of this patient record that you noticed while reading it? </title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">41</attr>
+<attr id="pos">37</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+<attr id="height.auto">yes</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Free Text 7</description>
+<class>text</class>
+<title>Are there any further unusual features of this patient record that you noticed while reading it? </title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">42</attr>
+<attr id="pos">38</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+<attr id="height.auto">yes</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Free Text 8</description>
+<class>text</class>
+<title>Are there any further unusual features of this patient record that you noticed while reading it? </title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">43</attr>
+<attr id="pos">39</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+<attr id="height.auto">yes</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Free Text 9</description>
+<class>text</class>
+<title>Are there any further unusual features of this patient record that you noticed while reading it? </title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">44</attr>
+<attr id="pos">40</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+<attr id="height.auto">yes</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Free Text 10</description>
+<class>text</class>
+<title>Are there any further unusual features of this patient record that you noticed while reading it? </title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">45</attr>
+<attr id="pos">41</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+<attr id="height.auto">yes</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Readability 1</description>
+<class>scale</class>
+<title>On a scale of 1 to 5, how would you rate the readability and language style of this patient note? Disregard any contents of this note and focus only on linguistic aspects. Do not consider abnormalities that are due to pseudonimization.</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">Not natural at all</li>
+<li i="5">Completely natural: could be written by a doctor</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">8</attr>
+<attr id="pos">42</attr>
+<attr id="scale.label_align">eachline</attr>
+<attr id="scale.metrics.labels">500</attr>
+<attr id="scale.display">extrema</attr>
+<attr id="displayWedge">oFb1gen</attr>
+<attr id="restrictions.answered">yes</attr>
+<attr id="composition">extended</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Readability 2</description>
+<class>scale</class>
+<title>On a scale of 1 to 5, how would you rate the readability and language style of this patient note? Disregard any contents of this note and focus only on linguistic aspects. Do not consider abnormalities that are due to pseudonimization.</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">Not natural at all</li>
+<li i="5">Completely natural: could be written by a doctor</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">28</attr>
+<attr id="pos">43</attr>
+<attr id="scale.label_align">eachline</attr>
+<attr id="scale.metrics.labels">500</attr>
+<attr id="scale.display">extrema</attr>
+<attr id="displayWedge">oFb1gen</attr>
+<attr id="restrictions.answered">yes</attr>
+<attr id="composition">extended</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Readability 3</description>
+<class>scale</class>
+<title>On a scale of 1 to 5, how would you rate the readability and language style of this patient note? Disregard any contents of this note and focus only on linguistic aspects. Do not consider abnormalities that are due to pseudonimization.</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">Not natural at all</li>
+<li i="5">Completely natural: could be written by a doctor</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">29</attr>
+<attr id="pos">44</attr>
+<attr id="scale.label_align">eachline</attr>
+<attr id="scale.metrics.labels">500</attr>
+<attr id="scale.display">extrema</attr>
+<attr id="displayWedge">oFb1gen</attr>
+<attr id="restrictions.answered">yes</attr>
+<attr id="composition">extended</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Readability 4</description>
+<class>scale</class>
+<title>On a scale of 1 to 5, how would you rate the readability and language style of this patient note? Disregard any contents of this note and focus only on linguistic aspects. Do not consider abnormalities that are due to pseudonimization.</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">Not natural at all</li>
+<li i="5">Completely natural: could be written by a doctor</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">30</attr>
+<attr id="pos">45</attr>
+<attr id="scale.label_align">eachline</attr>
+<attr id="scale.metrics.labels">500</attr>
+<attr id="scale.display">extrema</attr>
+<attr id="displayWedge">oFb1gen</attr>
+<attr id="restrictions.answered">yes</attr>
+<attr id="composition">extended</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Readability 5</description>
+<class>scale</class>
+<title>On a scale of 1 to 5, how would you rate the readability and language style of this patient note? Disregard any contents of this note and focus only on linguistic aspects. Do not consider abnormalities that are due to pseudonimization.</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">Not natural at all</li>
+<li i="5">Completely natural: could be written by a doctor</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">31</attr>
+<attr id="pos">46</attr>
+<attr id="scale.label_align">eachline</attr>
+<attr id="scale.metrics.labels">500</attr>
+<attr id="scale.display">extrema</attr>
+<attr id="displayWedge">oFb1gen</attr>
+<attr id="restrictions.answered">yes</attr>
+<attr id="composition">extended</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Readability 6</description>
+<class>scale</class>
+<title>On a scale of 1 to 5, how would you rate the readability and language style of this patient note? Disregard any contents of this note and focus only on linguistic aspects. Do not consider abnormalities that are due to pseudonimization.</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">Not natural at all</li>
+<li i="5">Completely natural: could be written by a doctor</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">32</attr>
+<attr id="pos">47</attr>
+<attr id="scale.label_align">eachline</attr>
+<attr id="scale.metrics.labels">500</attr>
+<attr id="scale.display">extrema</attr>
+<attr id="displayWedge">oFb1gen</attr>
+<attr id="restrictions.answered">yes</attr>
+<attr id="composition">extended</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Readability 7</description>
+<class>scale</class>
+<title>On a scale of 1 to 5, how would you rate the readability and language style of this patient note? Disregard any contents of this note and focus only on linguistic aspects. Do not consider abnormalities that are due to pseudonimization.</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">Not natural at all</li>
+<li i="5">Completely natural: could be written by a doctor</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">33</attr>
+<attr id="pos">48</attr>
+<attr id="scale.label_align">eachline</attr>
+<attr id="scale.metrics.labels">500</attr>
+<attr id="scale.display">extrema</attr>
+<attr id="displayWedge">oFb1gen</attr>
+<attr id="restrictions.answered">yes</attr>
+<attr id="composition">extended</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Readability 8</description>
+<class>scale</class>
+<title>On a scale of 1 to 5, how would you rate the readability and language style of this patient note? Disregard any contents of this note and focus only on linguistic aspects. Do not consider abnormalities that are due to pseudonimization.</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">Not natural at all</li>
+<li i="5">Natural: could be written by a doctor</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">34</attr>
+<attr id="pos">49</attr>
+<attr id="scale.label_align">eachline</attr>
+<attr id="scale.metrics.labels">500</attr>
+<attr id="scale.display">extrema</attr>
+<attr id="displayWedge">oFb1gen</attr>
+<attr id="restrictions.answered">yes</attr>
+<attr id="composition">extended</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Readability 9</description>
+<class>scale</class>
+<title>On a scale of 1 to 5, how would you rate the readability and language style of this patient note? Disregard any contents of this note and focus only on linguistic aspects. Do not consider abnormalities that are due to pseudonimization.</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">Not natural at all</li>
+<li i="5">Natural: could be written by a doctor</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">35</attr>
+<attr id="pos">50</attr>
+<attr id="scale.label_align">eachline</attr>
+<attr id="scale.metrics.labels">500</attr>
+<attr id="scale.display">extrema</attr>
+<attr id="displayWedge">oFb1gen</attr>
+<attr id="restrictions.answered">yes</attr>
+<attr id="composition">extended</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Readability 10</description>
+<class>scale</class>
+<title>On a scale of 1 to 5, how would you rate the readability and language style of this patient note? Disregard any contents of this note and focus only on linguistic aspects. Do not consider abnormalities that are due to pseudonimization.</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">Not natural at all</li>
+<li i="5">Natural: could be written by a doctor</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">36</attr>
+<attr id="pos">51</attr>
+<attr id="scale.label_align">eachline</attr>
+<attr id="scale.metrics.labels">500</attr>
+<attr id="scale.display">extrema</attr>
+<attr id="displayWedge">oFb1gen</attr>
+<attr id="restrictions.answered">yes</attr>
+<attr id="composition">extended</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Medical Coherence 1</description>
+<class>scale</class>
+<title>On a scale of 1 to 5, how would you rate the medical contents of this note? Disregard any linguistic unusualities and focus only on the medical information.</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">Not coherent at all.</li>
+<li i="5">Perfectly coherent: Symptoms, Diagnosis, Procedures etc. fit together perfectly.</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">9</attr>
+<attr id="pos">52</attr>
+<attr id="scale.label_align">eachline</attr>
+<attr id="scale.display">extrema</attr>
+<attr id="displayWedge">oFb1gen</attr>
+<attr id="restrictions.answered">yes</attr>
+<attr id="composition">extended</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Medical Coherence 2</description>
+<class>scale</class>
+<title>On a scale of 1 to 5, how would you rate the medical contents of this note? Disregard any linguistic unusualities and focus only on the medical information.</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">Not coherent at all.</li>
+<li i="5">Perfectly coherent: Symptoms, Diagnosis, Procedures etc. fit together perfectly.</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">19</attr>
+<attr id="pos">53</attr>
+<attr id="scale.label_align">eachline</attr>
+<attr id="scale.display">extrema</attr>
+<attr id="displayWedge">oFb1gen</attr>
+<attr id="restrictions.answered">yes</attr>
+<attr id="composition">extended</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Medical Coherence 3</description>
+<class>scale</class>
+<title>On a scale of 1 to 5, how would you rate the medical contents of this note? Disregard any linguistic unusualities and focus only on the medical information.</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">Not coherent at all.</li>
+<li i="5">Perfectly coherent: Symptoms, Diagnosis, Procedures etc. fit together perfectly.</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">20</attr>
+<attr id="pos">54</attr>
+<attr id="scale.label_align">eachline</attr>
+<attr id="scale.display">extrema</attr>
+<attr id="displayWedge">oFb1gen</attr>
+<attr id="restrictions.answered">yes</attr>
+<attr id="composition">extended</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Medical Coherence 4</description>
+<class>scale</class>
+<title>On a scale of 1 to 5, how would you rate the medical contents of this note? Disregard any linguistic unusualities and focus only on the medical information.</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">Not coherent at all.</li>
+<li i="5">Perfectly coherent: Symptoms, Diagnosis, Procedures etc. fit together perfectly.</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">21</attr>
+<attr id="pos">55</attr>
+<attr id="scale.label_align">eachline</attr>
+<attr id="scale.display">extrema</attr>
+<attr id="displayWedge">oFb1gen</attr>
+<attr id="restrictions.answered">yes</attr>
+<attr id="composition">extended</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Medical Coherence 5</description>
+<class>scale</class>
+<title>On a scale of 1 to 5, how would you rate the medical contents of this note? Disregard any linguistic unusualities and focus only on the medical information.</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">Not coherent at all.</li>
+<li i="5">Perfectly coherent: Symptoms, Diagnosis, Procedures etc. fit together perfectly.</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">22</attr>
+<attr id="pos">56</attr>
+<attr id="scale.label_align">eachline</attr>
+<attr id="scale.display">extrema</attr>
+<attr id="displayWedge">oFb1gen</attr>
+<attr id="restrictions.answered">yes</attr>
+<attr id="composition">extended</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Medical Coherence 6</description>
+<class>scale</class>
+<title>On a scale of 1 to 5, how would you rate the medical contents of this note? Disregard any linguistic unusualities and focus only on the medical information.</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">Not coherent at all.</li>
+<li i="5">Perfectly coherent: Symptoms, Diagnosis, Procedures etc. fit together perfectly.</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">23</attr>
+<attr id="pos">57</attr>
+<attr id="scale.label_align">eachline</attr>
+<attr id="scale.display">extrema</attr>
+<attr id="displayWedge">oFb1gen</attr>
+<attr id="restrictions.answered">yes</attr>
+<attr id="composition">extended</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Medical Coherence 7</description>
+<class>scale</class>
+<title>On a scale of 1 to 5, how would you rate the medical contents of this note? Disregard any linguistic unusualities and focus only on the medical information.</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">Not coherent at all.</li>
+<li i="5">Perfectly coherent: Symptoms, Diagnosis, Procedures etc. fit together perfectly.</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">24</attr>
+<attr id="pos">58</attr>
+<attr id="scale.label_align">eachline</attr>
+<attr id="scale.display">extrema</attr>
+<attr id="displayWedge">oFb1gen</attr>
+<attr id="restrictions.answered">yes</attr>
+<attr id="composition">extended</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Medical Coherence 8</description>
+<class>scale</class>
+<title>On a scale of 1 to 5, how would you rate the medical contents of this note? Disregard any linguistic unusualities and focus only on the medical information.</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">Not coherent at all.</li>
+<li i="5">Perfectly coherent: Symptoms, Diagnosis, Procedures etc. fit together perfectly.</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">25</attr>
+<attr id="pos">59</attr>
+<attr id="scale.label_align">eachline</attr>
+<attr id="scale.display">extrema</attr>
+<attr id="displayWedge">oFb1gen</attr>
+<attr id="restrictions.answered">yes</attr>
+<attr id="composition">extended</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Medical Coherence 9</description>
+<class>scale</class>
+<title>On a scale of 1 to 5, how would you rate the medical contents of this note? Disregard any linguistic unusualities and focus only on the medical information.</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">Not coherent at all.</li>
+<li i="5">Perfectly coherent: Symptoms, Diagnosis, Procedures etc. fit together perfectly.</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">26</attr>
+<attr id="pos">60</attr>
+<attr id="scale.label_align">eachline</attr>
+<attr id="scale.display">extrema</attr>
+<attr id="displayWedge">oFb1gen</attr>
+<attr id="restrictions.answered">yes</attr>
+<attr id="composition">extended</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Medical Coherence 10</description>
+<class>scale</class>
+<title>On a scale of 1 to 5, how would you rate the medical contents of this note? Disregard any linguistic unusualities and focus only on the medical information.</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">Not coherent at all.</li>
+<li i="5">Perfectly coherent: Symptoms, Diagnosis, Procedures etc. fit together perfectly.</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">27</attr>
+<attr id="pos">61</attr>
+<attr id="scale.label_align">eachline</attr>
+<attr id="scale.display">extrema</attr>
+<attr id="displayWedge">oFb1gen</attr>
+<attr id="restrictions.answered">yes</attr>
+<attr id="composition">extended</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+</section>
+<section>
+<title>Einweisung</title>
+<attributes.specific program="ofb">
+<attr id="id">T0</attr>
+<attr id="pos">2</attr>
+</attributes.specific>
+<question>
+<description>Introduction</description>
+<class>TextContent</class>
+<title />
+<explanation />
+<headerText>Welcome!</headerText>
+<inputPosition>right</inputPosition>
+<lead>
+<![CDATA[Thanks for showing interest in this study and supporting my research :) 
+
+The following user study is going to be part of the evaluation of the research project I am currently conducting for my Master Thesis at Stockholm University under the supervision of Dr. Hercules Dalianis and Dr. Dietrich Klakow. We are trying to build powerful clinical models by using different Natural Language Processing methods and large clinical datasets. To take part in this study, you are required to have medical expertise on a professional level. The study is fully anonymous and your answers will only be used in the scope of this research project. 
+
+You should plan about 30 minutes to carry out the study. Before continuing, please answer the following questions. ]]>
+</lead>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+<attr id="alignment">default</attr>
+<attr id="character">plain</attr>
+</attributes.specific>
+</question>
+<question>
+<description>Medical Expertise</description>
+<class>select</class>
+<title>I confirm that I have medical expertise at a professional level.</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+<attr id="settings">
+<li i="0">0</li>
+<li i="1">0</li>
+</attr>
+<attr id="columns">3</attr>
+<attr id="data">
+<![CDATA[1|Yes
+2|No]]>
+</attr>
+</attributes.specific>
+<filter>
+<condition type="all">
+<value id="vOpt">2</value>
+</condition>
+<effect type="so">
+<value id="qIS">T005</value>
+</effect>
+</filter>
+<item>
+<text>Yes</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+<item>
+<text>No</text>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Aussortierung</description>
+<class>TextContent</class>
+<title />
+<explanation />
+<inputPosition>right</inputPosition>
+<lead>
+<![CDATA[This study requires the participants to have some form of medical expertise at a professional level. Unfortunately, it seems that you don't fit the target group. 
+
+Thank you for your time!]]>
+</lead>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">5</attr>
+<attr id="pos">3</attr>
+<attr id="alignment">default</attr>
+<attr id="character">plain</attr>
+</attributes.specific>
+</question>
+<question>
+<description>Profession</description>
+<class>select</class>
+<title>Do you work in the medical field or did so in the past?</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">6</attr>
+<attr id="pos">4</attr>
+<attr id="restrictions.answered">yes</attr>
+<attr id="settings">
+<li i="0">0</li>
+<li i="1">0</li>
+</attr>
+<attr id="data">
+<![CDATA[1|Yes
+2|No]]>
+</attr>
+</attributes.specific>
+<filter>
+<condition type="all">
+<value id="vOpt">1</value>
+</condition>
+<effect type="+qst">
+<value id="qIS">T007</value>
+</effect>
+</filter>
+<filter>
+<condition type="all">
+<value id="vOpt">2</value>
+</condition>
+<effect type="+qst">
+<value id="qIS">T009</value>
+</effect>
+</filter>
+<filter>
+<condition type="any">
+<value id="vOpt">1</value>
+</condition>
+<effect type="+qst">
+<value id="qIS">T008</value>
+</effect>
+</filter>
+<item>
+<text>Yes</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+<item>
+<text>No</text>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Which profession</description>
+<class>text</class>
+<title>Please indicate in which profession:</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">7</attr>
+<attr id="pos">5</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Years</description>
+<class>text</class>
+<title>For how many years?</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">8</attr>
+<attr id="pos">6</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Gained expertise</description>
+<class>text</class>
+<title>Where did you gain your medical expertise from?</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">9</attr>
+<attr id="pos">7</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text />
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>health record</description>
+<class>select</class>
+<title>Do you know what Electronic Health Records (Deutsch: Elektronische Patientenakte) and Discharge Summaries are?</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">10</attr>
+<attr id="pos">8</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<filter>
+<condition type="any">
+<value id="vOpt">2</value>
+</condition>
+<effect type="+qst">
+<value id="qIS">T013</value>
+</effect>
+</filter>
+<item>
+<text>Yes</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+<item>
+<text>No</text>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>icd10</description>
+<class>select</class>
+<title>Do you know what ICD-10 codes are?</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">15</attr>
+<attr id="pos">9</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<filter>
+<condition type="any">
+<value id="vOpt">2</value>
+</condition>
+<effect type="+qst">
+<value id="qIS">T014</value>
+</effect>
+</filter>
+<item>
+<text>Yes</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+<item>
+<text>No</text>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>ehr expertise</description>
+<class>scale</class>
+<title />
+<explanation />
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">never</li>
+<li i="2">rarely</li>
+<li i="3">sometimes</li>
+<li i="4">often</li>
+<li i="5">very often</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">11</attr>
+<attr id="pos">10</attr>
+<attr id="scale.metrics.extrema">95</attr>
+<attr id="scale.display">complete</attr>
+<attr id="displayWedge">oFb1gen</attr>
+<attr id="restrictions.answered">yes</attr>
+<attr id="wedge.height">30</attr>
+</attributes.specific>
+<item>
+<text>I have read discharge summaries before.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+<item>
+<text>I have written discharge summaries before.</text>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>icd10 expertise</description>
+<class>scale</class>
+<title />
+<explanation />
+<inputPosition>right</inputPosition>
+<labels>
+<li i="1">never</li>
+<li i="2">rarely</li>
+<li i="3">sometimes</li>
+<li i="4">often</li>
+<li i="5">very often</li>
+</labels>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">12</attr>
+<attr id="pos">11</attr>
+<attr id="scale.metrics.extrema">95</attr>
+<attr id="scale.display">complete</attr>
+<attr id="displayWedge">oFb1gen</attr>
+<attr id="restrictions.answered">yes</attr>
+<attr id="wedge.height">30</attr>
+</attributes.specific>
+<item>
+<text>I have performed ICD-10 coding.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+<item>
+<text>I have assigned diagnoses in a different form than ICD-10 coding.</text>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>definition ehr</description>
+<class>TextContent</class>
+<title />
+<explanation />
+<headerText>Defnition Electronic Health Record</headerText>
+<inputPosition>right</inputPosition>
+<lead>
+<![CDATA[An Electronic Health Record (EHR) is a digital repository of a patient's medical information that documents their entire healthcare journey in an electronic system. It includes comprehensive data about the patient's medical history, diagnoses, medications, treatment plans, immunization dates, allergies, and laboratory test results. 
+
+A discharge summary is is a component of Electronic Health Records that provides a comprehensive documentation of a patient's hospital stay from admission to discharge in form of a free-text note.
+
+]]>
+</lead>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">13</attr>
+<attr id="pos">12</attr>
+<attr id="alignment">default</attr>
+<attr id="character">plain</attr>
+</attributes.specific>
+</question>
+<question>
+<description>definition icd10</description>
+<class>TextContent</class>
+<title />
+<explanation />
+<headerText>Defnition ICD-10 Codes</headerText>
+<inputPosition>right</inputPosition>
+<lead>ICD-10 codes (International Classification of Diseases, 10th Revision) are standardized alphanumeric codes used globally to classify and code diagnoses and medical procedures.</lead>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">14</attr>
+<attr id="pos">13</attr>
+<attr id="alignment">default</attr>
+<attr id="character">plain</attr>
+</attributes.specific>
+</question>
+</section>
+<section>
+<title>Instructions</title>
+<attributes.specific program="ofb">
+<attr id="id">T1</attr>
+<attr id="pos">3</attr>
+</attributes.specific>
+<question>
+<description>Einweisung</description>
+<class>TextContent</class>
+<title />
+<explanation />
+<headerText>Instructions</headerText>
+<inputPosition>right</inputPosition>
+<lead>
+<![CDATA[In the following study you will be presented with 6 English discharge summaries from different sources, one after the other. 
+Please take your time to carfully read through each medical note. 
+When you're done, please answer the presented questions. 
+Note, that there are no right or wrong answers. 
+After each question you have the possibility to justify your answer. 
+Any additional information is greatly appreciated. <p>
+
+The discharge summaries were <b>pseudonimized</b> beforehand to remove any sensitive and private information. 
+As placeholders, you will find underscores, as visible in this example: <br>
+<i>___  is a  ___  year old male who was admitted to  ___</i> <br>
+Please try to ignore this form of pseudnomization in your answers as good as possible even though it might disturb your reading flow. <p>
+    
+As with most discharge summaries, these documents include <b>abbreviations</b>. 
+If you're unfamiliar with any of them, feel free to disregard them and focus on answering the questions using the rest of the provided information. <p>
+
+Since this study presents you with patient records that might potentially reveal protected health information, you need to sign the following agreement before starting with the study. ]]>
+</lead>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+<attr id="alignment">default</attr>
+<attr id="character">html</attr>
+</attributes.specific>
+</question>
+<question>
+<description>Agreement</description>
+<class>select</class>
+<title />
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+<attr id="restrictions.answered">yes</attr>
+</attributes.specific>
+<item>
+<text>I hereby agree not to share any contents of the present study with third parties. Furthermore, I agree not to take pictures of the presented patient records, nor to save or record their contents in any form.</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+</question>
+</section>
+<section>
+<title>Samples</title>
+<attributes.specific program="ofb">
+<attr id="id">S0</attr>
+<attr id="pos">4</attr>
+</attributes.specific>
+<question>
+<description>Synth 1</description>
+<class>TextContent</class>
+<title>Medical Note</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<lead>
+<![CDATA[<p>Chief Complaint: nausea, vomiting, diarrhea </p>
+<p>Major Surgical or Invasive Procedure: None  </p>
+<p>History of Present Illness: ___ hx of T1DM on insulin pump, ___ HTN, hypothyroidism who presented with acute nausea, vomiting, diarrhea, significant blood black stool, and was found to have severe sepsis.  She went to ___ where she had a CT scan that demonstrated pan colitis, and was given 3L IV fluid, lorazepam for nausea, ampicillin sulbactam, IV pantoprazole, and Zofran and was transferred here. 
+The patient's last BM was ___ when she started having significant bloody and black stool, but hasn't had a bm since then. She reports that her GI doctor repeated a colonoscopy ___ ago with normal findings and her symptoms resolved after actually some time. Her abdominal pain started ___, she states it is persistent colicky cramps, typically epigastric.  
+In the ED, initial vitals were: 102.4 105 145 84 16 98 RA  Notable labs were as follows: WBC 23.2 92 N 103 bands, Na 125  She was given Cipro Flagyl, dexamethasone, Ativan, IVF at 250cc hr, improvenescine, insulin, Zofran, NS at 250cc hr, pantoprazole 40mg IV  She received 1L NS in the ED and continued at 250cc hr  On the floor, reports that her pain has resolved. 
+she reports poor po intake at home due to nausea so she was not taking her prophylactic antibiotics which she was supposed to be taking for her celiac disease. 
+She reports that she typically gets her GI labs repeated at the ___ and had her labs done on the day of presentation as well and has not the results. </p>
+<p>Review of systems: Per HPI Denies night sweats, recent weight loss or gain. Denies headache, sinus tenderness, rhinorrhea or congestion. Denies cough, shortness of breath, chest pain or tightness, palpitations. Denies constipation or abdominal pain. No recent change in bladder habits. No dysuria. Denies arthralgias or myalgias. </p>
+<p>Past Medical History: T1DM on insulin pump: Last A1C 6.8 ___ , HTN previously on lisinopril which was stopped as she thinks , she was found to be allergic, Hypothyroid, Celiac disease, Autonomic neuropathy, Pancreatic Insufficiency, Hyperlipidemia, Impaired Glucose Tolerance,  </p>
+<p>Social History: </p>
+<p>Family History: Non contributory </p>
+<p>Physical Exam:</p>
+<p>Admission: Vitals: 97.7 BP 97 61 HR 91 RR 17 98 RA Gen: A Ox3, no pallor, warm and well perfused HEENT: No icterus, MMM, no OP lesions CV: Normal S1, S2, no M R G PULM: CTA b l, breathing comfortably on RA, no adventitious sounds, no dullness to percussion ABD: Distended, NTTP, no r g EXT: wwp, no edema, 2 pulses NEURO: A Ox3, no focal deficits </p>
+<p>Discharge: CONSTITUTIONAL: NAD, poor po intake, very thin EYE: sclerae anicteric, EOMI ENT: audition grossly intact, MMM, OP clear LYMPHATIC: No LAD CARDIAC: RRR, no M R G, JVP not elevated, no edema PULM: normal effort of breathing, LCAB GI: soft, NT, ND, NABS GU: no CVA tenderness, no foley MSK: no visible joint effusions or acute deformities. DERM: diffuse hyperpigmentation, no ulcers, erythematous areas NEURO: AAOx3. No facial droop, moving all extremities. EXTREMITIES: WWP, no edema </p>  
+<p>CT A P ___ ___: Shin colored fat with ill marginated hyperemic thickening of the cecal and ascending colon concerning for colitis, likely infectious or inflammatory  Comparison CT A P ___ OSH Acute colitis involving a large segment of the ascending colon similar to that noted on prior scan. Differential diagnosis includes infectious versus inflammatory etiology. Possible cecal inflammation as well as diffuse fatty change throughout the pancreas. </p>
+<p>Micro: Urine and blood cultures pending  2.5L IVF and 1L PO intake on ___  Cont PO Cipro flagyl and PO Metronidazole as much as patient can tolerate PO Resumed home lantus TID as well as NPH TID continued home insulin regimen. take a bowel regimen and keep up on note, pt needs to f u with GI regarding colonoscopy within 1 month of DC prn Erythromycin? Patient will make f u appointment with Dr. ___ ___: ___ OSH Na 126 132 Na 130 131    </p>
+<p>Discharge Disposition: Home </p>
+<p>Discharge Diagnosis: Infectious colitis,</p>]]>
+</lead>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+<attr id="number">no</attr>
+<attr id="alignment">default</attr>
+<attr id="character">html</attr>
+</attributes.specific>
+</question>
+<question>
+<description>Real 1</description>
+<class>TextContent</class>
+<title>Medical Note</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<lead>
+<![CDATA[<p>Chief Complaint: Dyspnea </p>
+<p>Major Surgical or Invasive Procedure: None </p>
+<p>History of Present Illness: Ms. ___ is a ___ female with the past medical history of dementia, hip replacement, lung cancer status post resection who presented with cough and shortness of breath. She lives with 24 hour caretakers. History is obtained through her granddaughter, ___. I also obtained history through daughter, ___, who happens to be vacationing in ___. 2 days prior to presentation she had a fall reportedly without head strike. However, not definitively witnessed. She has a dry cough at baseline. The day prior to admission her caretaker noted she was short of breath and her cough had worsened. There was no report of phlegm or blood. No report of fevers. Caretakers brought her to the emergency department today. Chest x ray was concerning for pneumonia so she was treated with Zosyn and admitted. In the ED she was reportedly hypoxic to 88 then placed on 2 L NC.  She communicates with limited words, and at baseline is not oriented to person, place, or time. Her granddaughter confirms her mental status is at baseline. She denies being in any pain. She endorses shortness of breath. She does not cough during our interview. She is unable to communicate any further health concerns to me.  ROS: The patient denies having a headache, having difficulty swallowing, having chest or abdominal pain. </p>
+<p>Past Medical History: HTN: lisinopril increased from 5 10 mg in ___, HLD: Controlled on simva ___ lipids TC 177 HDL 97 LDL 64 , Hypothyroidsim: TSH in ___ 2.4, Lung cancer s p resection in ___, Hepatitis B apparently not an active issue , Osteoporosis: On alendronate from ___ ___ and was , restarted, in ___. Takes Ca citrate and Vitamin D., Word finding issues: long standing problem. According to the, daughter, no e o other cognitive problems, RBBB, PVCs, Cholelithiasis,</p>
+<p>GERD, Glaucoma, Intertrigo,  Reviewed and found to be not relevant to this illness reason for hospitalization.  </p>
+<p>Physical Exam:</p>
+<p>ADMISSION PHYSICAL EXAM VITALS: Afebrile and vital signs stable see eFlowsheet GENERAL: Alert and mildly dyspneic EYES: Anicteric, pupils equally round ENT: Ears and nose without visible erythema, masses, or trauma. Oropharynx without visible lesion, erythema or exudate, yet dry CV: Heart regular, no murmur, no S3, no S4. No JVD. RESP: Lungs clear to auscultation with good air movement bilaterally. Breathing is non labored GI: Abdomen soft, non distended, general mild tenderness to palpation. Bowel sounds present. No HSM GU: No suprapubic fullness or tenderness to palpation MSK: Neck supple, moves all extremities, strength grossly full and symmetric bilaterally in all limbs SKIN: No rashes or ulcerations noted NEURO: Alert, oriented, face symmetric, gaze conjugate with EOMI, speech fluent, moves all limbs, sensation to light touch grossly intact throughout PSYCH: pleasant, appropriate affect </p>
+<p>DISCHARGE PHYSICAL EXAM</p>
+<p>VS: ___ 0733 Temp: 97.2 AdultAxillary BP: 196 78 HR: 60 RR: 20 O2 sat: 95 O2 delivery: Ra ___ 0808 Dyspnea: 0 RASS: 0 Pain Score: ___ GEN: Alert elderly woman, breathing comfortable. ENT: MMM, grossly nl OP CV: RRR I VI holosystolic murmur increased by exhalation, no other g r m. 2 rad DP pulses. CHEST: CTAB no w r r ABD: soft, NT ND. NABS GU: No suprapubic fullness or tenderness to palpation EXT: WWP, no edema SKIN: No rashes or ulcerations noted NEURO: Alert, oriented to person only, face symmetric, gaze conjugate with EOMI, speech fluent, moves all limbs PSYCH: pleasant, appropriate affect, but confused.   </p>
+<p>CT Head: 1. No evidence of acute fracture or acute intracranial process on noncontrast CT head. 2. Additional findings as described above. </p>
+<p>CT C spine: Multilevel degenerative changes without acute fracture or traumatic malalignment. </p>
+<p>Chest X ray: Moderate right pleural effusion with right base density which is suspicious for sequela of aspiration or pneumonia in the appropriate clinical setting.  RUQUS ___ : Cholelithiasis without sonogram evidence of acute cholecystitis.  TTE ___ : Suboptimal image quality no parasternal or suprasternal views obtained. Overall normal LV Systolic function. At least moderate to severe, possibly severe mitral regurgitation. Moderate tricuspid regurgitation. At least moderate pulmonary hypertension. Trace aortic regurgitation. Compared with the prior TTE images reviewed of ___ severity of MR has increased significantly. PASP higher 52 .  Renal US ___ : 1. Extremely limited study secondary to patient inability to cooperate breath hold. As such, intrarenal artery waveforms are suboptimal and poorly evaluated. The right main renal artery is grossly patent. The left main renal artery is not definitely seen. 2. Bilateral cortical thinning is compatible with medicorenal disease. No evidence of hydronephrosis.  CXR ___ : Comparison to ___. Stable extent of the small left pleural effusion. Decrease of the previously moderate and now small right pleural effusion. Stable mild cardiomegaly. Today's radiograph shows no evidence of pulmonary edema. No pneumonia. No pneumothorax. </p>
+<p>MICROBIOLOGY: Blood culture x 2: negative Urine culture: contaminated C. diff PCR: negative  </p>
+<p>Acute Hypoxemic Respiratory Failure:</p>
+<p>Mitral Regurgitation:</p>
+<p>Systemic Hypertension: Pulmonary Hypertension likely Type II : Patient presented with breathing difficulties and hypoxia. EKGs and cardiac biomarkers wee not consistent with ischemia. Admission CXR with bilateral pleural effusions and subsequent CTA torso was without evidence of PE or aneurysm, but did demonstrate mild peribronchial thickening in the lower lobes and GGOs. There was initial concern for pneumonia and she was treated with zosyn. TTE subsequently demonstrated new moderate to severe mitral regurgitation although possibly underestimated ___ MAC with preserved LV function and PASP of 52. Given lack of other signs of pneumonia antibiotics were stopped and patient remained stable. She was subsequently diuresed with improvement in her respiratory status and oxygenation. She was noted to be very hypertensive, and in the context of severe MR her blood pressure was aggressively controlled. She was eventually stabilized on a regimen of lisinopril and nifedipine, as well as furosemide. A renal US was a poor study but did not demonstrate arterial stenosis there was no other lab evidence to support a diagnosis of secondary hypertension. Peribronchial thickening on CT was concerning for chronic aspiration, and although her initial SLP evals were poor, she eventually was able to advance to a regular diet without modifications on repeat assessments. Patient will follow up with her PCP and cardiologist. Her blood pressures, electrolytes and creatinine will need to be monitored closely as an outpatient.  Dementia: has 24 hour home aides at bedside. She was maintained on delirium precautions. Although she was intermittently more confused through her hospital stay, by the end of her course her mental status was at baseline according to her aides and family.  Recent fall: Patient had experienced a fall in the days weeks prior to admission. She underwent trauma evaluation in the ED with CT head and neck without traumatic or acute changes. CT torso without evidence of rib fractures. ___ evaluated patient, and after serial evaluations, was recommended as safe to return to her prior living situation with 24 hour care.  Hypothyroidism: TSH WNL. Home levothyroxine was continued.  Pulmonary nodules: CT scan incidentally demonstrated multiple pulmonary nodules. No follow up was specifically recommended for this finding. </p>
+<p>TRANSITIONS OF CARE  Follow up: Patient will follow up with her PCP and cardiologist. Her blood pressures, electrolytes and creatinine will need to be monitored closely as an outpatient. Patient has new diagnosis of moderate severe mitral regurgitation, which may require further follow up with her cardiologist. Discharge weight was 47.04 kg 103.7 lb .  Code: DNR DNI, confirmed by admitting MD</p>
+<p>Contact: ___ ___ or ___ daughter vacationing ___ ___, grandaughter  Time spent coordinating discharge 30 minutes    </p>
+<p>Discharge Disposition: Home With Service  </p>
+<p>Discharge Diagnosis: Moderate Severe Mitral Regurgitation, Acute Diastolic Congestive Heart Failure, Acute Hypoxemic Respiratory Failure,</p>]]>
+</lead>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+<attr id="number">no</attr>
+<attr id="alignment">default</attr>
+<attr id="character">html</attr>
+</attributes.specific>
+</question>
+<question>
+<description>Synth 2</description>
+<class>TextContent</class>
+<title>Medical Note</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<lead>
+<![CDATA[<p>Chief Complaint: Shaking of her upper and lower extremities </p>
+<p>Major Surgical or Invasive Procedure: ___: Right VPS ventriculoperitoneal shunt placed ___ Strata pneumo, 1 1 part ___ Strata nonpneumo 2. Strata nonpneumo, 0.5 1 part Strata nonpneumo.</p>  
+<p>History of Present Illness: ___ year old female with anterior communicating artery A1 aneurysm clipping in ___, s p stent coil of aneurysm in ___, recent CVA w symptoms of RUE tremor that improved while off aspirin etiology unclear R CVA vs stroke , and concern for developing hydrocephalus noted on MRI. Her R arm tremor improved after stopping aspirin and the hydrocephalus noted on MRI is stable. However, her neurologist and PCP are concerned that the symptoms of R arm weakness were in fact examples of seizure activity. She was transferred from an OSH by Neurology today for Head MRI and then Medicine admission for neurology followup and management .  </p>
+<p>Past Medical History: ., PMHx:, 1. A1c aneurysm, s p coil embolization ___ , 2. Right CEA ___ complicated by a right thalamic lacune, 3. Anemia, 4. GERD, 5. OSA, 6. Primary diabetes mellitus, followed by Dr ___, ___ SUBCLAVIAN ARTERY,  Past Medical Surgical History obtained with help of patient and patient's daughter HCP at bedside ___  Past Medical Issues Significant for hypertension, hypercholesterolemia, her diabetes, GERD and perhaps a varicose vein in the superficial femoral descending vein on the left side as well.  </p>
+<p>Social History:</p>
+<p>Family History: She has a sister who also had aneurysmal disease. </p>
+<p>Physical Exam: </p>
+<p>Admission Exam:  Gen: Resting comfortable, no acute distress, cooperation with exam HEENT: Pupils: Bilaterally 2mm reactive. EOMs intact. Extremities: Warm and well perfused.</p>
+<p>Neuro: Mental status: Awake and alert, cooperative with exam, normal affect. Orientation: Oriented to person, place, and date. Language: Speech fluent with good comprehension and repetition. Naming intact, Able to read without difficulty. No dysarthria or paraphasic errors. Abnormal Movements: No evidence of tremors and or seizures </p>
+<p>Cranial Nerves: I: Not tested II: Pupils equally round and reactive to light, 3mm to 2mm mm bilaterally. Visual fields are full to confrontation. III, IV, VI: Extra ocular movements intact bilaterally without nystagmus. V, VII: Facial strength and sensation intact and symmetric. VIII: Hearing intact to voice. IX, X: Palatal elevation symmetrical. XI: Sternocleidomastoid and trapezius normal bilaterally. XII: Tongue midline without fasciculations.  Motor: Normal bulk and tone bilaterally. No abnormal movements, tremors. Strength ___ throughout except upper motor neuron pattern on RUE.  Sensation: Intact to light touch  Reflexes: 2 B T Br Pa </p>
+<p>Coordination: normal rapid alternating movements bilaterally  Gait: Walks independently with good balance and no leaning to either side.    CHEST PA LAT Study Date of ___</p>
+<p>IMPRESSION: No acute cardiopulmonary process. Right PICC tip terminates in the low SVC.  CT HEAD W O CONTRAST Study Date of ___</p>
+<p>IMPRESSION: 1. No acute hemorrhage. 2. Unchanged positioning of ventriculostomy catheter with stable ventriculomegaly. 3. Unchanged subacute infarcts in the bilateral hippocampi and bilateral cerebellar hemispheres.  CHEST PORTABLE AP Study Date of ___</p>
+<p>IMPRESSION: Since ___, lung volumes are slightly improved with a increase in lung volumes. Bilateral atelectasis are unchanged. Cardiomediastinal silhouette and pulmonary vasculature are normal. Since ___, right PICC line has been inserted and terminates in the lower superior vena cava.   </p>
+<p>Brief Hospital Course: Ms. ___ was transferred to ___ for continued neurosurgical and neurological monitoring for work up of her episodes of hand shaking that had improved with hold of her aspirin. She was admitted to the Medicine service for continuous EEG monitoring, however, this continuous EEG monitoring was not able to capture these episodes. CT head on ___ was stable with no new findings however, the patient's neurology team decided to hold off on an MRI due to recent strokes and aneurysm clipping. She underwent an LP on ___ which was negative for infection with an opening pressure of 25 mmHg. She was transferred to the neurosurgical service for placement of a right ventriculoperitoneal shunt due to increasing confusion and urinary incontinence.  On ___, the patient underwent a right VP shunt placement with Dr. ___. She tolerated the procedure well. She was maintained on flat bedrest the remainder of the day with strict ___ to prevent and manually irrigate all clots. Her JP drain had minimal output and was subsequently removed on POD1. She began to move her extremities once mobilization was resumed.  On ___, she was neurologically and hemodynamically stable. She reported some mild dizziness with sitting up, however, there was no n v. She was taking all medications, ambulating with assistance, and receiving appropriate ___. She was discharged home on medical follow up with a ___ and ___.  Fingerstick QACHS, QPC2H, HS, 3AM Insulin SC Sliding Scale using insulin lispro   9. Meclizine 12.5 mg PO TID:PRN nausea 10. Amantadine 100 mg PO BID 11. Aspirin 81 mg PO DAILY 12. Atorvastatin 20 mg PO QPM 13. Brimonidine Tartrate 0.15 Ophth. 1 DROP LEFT EYE BID  14. BuPROPion Sustained Release 150 mg PO QAM 15. Cyanocobalamin 50 mcg PO 3 TIMES A WEEK 16. Docusate Sodium 100 mg PO DAILY 17. Omeprazole 20 mg PO DAILY 18. Vitamin D 5,000 UNIT PO 1X WEEK ___ </p> 
+<p>Discharge Disposition: Home With Service  </p>
+<p>Discharge Diagnosis: Hydrocephalus,</p>]]>
+</lead>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">3</attr>
+<attr id="pos">3</attr>
+<attr id="number">no</attr>
+<attr id="alignment">default</attr>
+<attr id="character">html</attr>
+</attributes.specific>
+</question>
+<question>
+<description>Real 2</description>
+<class>TextContent</class>
+<title>Medical Note</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<lead>
+<![CDATA[<p>Chief Complaint: Difficulty walking and increased urinary frequency </p>
+<p>Major Surgical or Invasive Procedure: ___ R VP shunt placement </p> 
+<p>History of Present Illness: The patient is a lovely ___ who presents with worsening cognition, increased urinary frequency, and ataxia secondary to ventriculomegaly, with interval enlargement noted between scans ___ vs. ___. She presents for elective R VP shunt placement. </p>
+<p>Past Medical History: stroke in the corona radiata extending into the anterior limb , of the internal capsule on the right on ___. At that time, , pt presented with dysarthria, hiccups, dysphagia, left facial , droop and typing errors with the left hand. She does not think , that she had any numbness or weakness at that time. , insulin dependent diabetes mellitus diagnosed ___, , complications include diabetic retinopathy,</p>
+<p>HTN, Hyperlipidaemia, depression, iron deficiency anemia, osteopenia,</p>  
+<p>Social History:</p>
+<p>Family History: Father and paternal aunt DM. No known history of neurologic disease.  </p>
+<p>Physical Exam: </p>
+<p>ON DISCHARGE:  ___ x 3. NAD. PERRLA. CN II XII intact. Incisions clean, dry and intact. LS clear</p>
+<p>RRR Abdomen soft, NTND ___ BUE and BLE. No drift.   See OMR for pertinent lab results. </p>
+<p>Brief Hospital Course: Ventriculomegaly The patient was admitted following uncomplicated placement of R VP shunt ___ strata set to 2.0 ___ ventriculomegaly on ___. For details of the procedure, please refer to Dr. ___ operative note. The patient was extubated and transferred to the PACU without incident. While in the PACU, the patient was noted to be neurologically intact. Post operative CT was performed and revealed no evidence of hemorrhage or infarct with satisfactory placement of the catheter tip in the frontal horn of the right lateral ventricle. The patient was subsequently transferred to the ___ for further monitoring, where she underwent q2hr neurologic checks. On POD1, the patient ambulated OOB and tolerated sips. However, her ability to tolerate PO intake was limited due to ongoing nausea, which was treated with Zofran and scopolamine to good effect. It was felt the scopolamine patch may have cause confusion post operatively and was d c'd with improvement in the patient's mental status and did not result in worsening nausea. Here neurologic exam remained stable for the remaineder of her hospital course.  At the time of discharge, the patient was neurologically intact all surgical sites were C D I without evidence of induration, erythema, or swelling.  Pre renal azotemia The patient initially failed to void following surgery. There was no evidence of urinary retention on bladder scan. However, her urine output was borderline low actual: 20 cc hr, expected 27 cc hr in the setting of prerenal azotemia BUN 25 Cr 0.8 31.25 . Given poor PO intake in the setting of nausea, she continued IV hydration with NS 75 mL hr and received a 500 cc NS bolus on POD1, after which she voided on POD1 evening. </p>
+<p>DM1 The patient continued home insulin pump post operatively. The ___ service was consulted and recommended increased basal insulin rate as well as sliding scale, as patient was hyperglycemic SBP 240s and questionably confused with inability to self manage. The patient self d c'd her pump on ___ and she was started on Lantus daily and continued on insulin sliding scale per ___ recommendation. Her blood sugars were labile while off the insulin pump. She received her last dose of Lantus on ___ and re initiated use of her insulin pump on the morning of ___. She continued to do well with her pump and was monitored until the morning of ___ when settings were adjusted and she was discharged to rehab.  Hyponatremia: Patient has chronically low sodium records as far back as ___ however in the setting of her post operative confusion she was started on sodium tabs 1G TID, which was increased to 2g TID and had normotremia on discharge. Her sodium tabs may be weaned as tolerated. Her mag, phos and calcium were also repleted PRN.  Confusion The patient was noted to be mildly confused on POD1 evening. Neurologic exam was otherwise intact. U A was sent to rule out UTI and negative. Confusion resolved after discontinuation of scopolamine patch. </p>
+<p>Disopostion: Patient was evaluated by ___ and OT who recommended rehab. Case management was involved to work on bed placement.  4. olmesartan 20 mg oral QHS 5. omeprazole 20 mg oral QAM 6. risedronate 35 mg oral 1X WEEK 7. Simvastatin 20 mg PO QPM 8. Aspirin 325 mg PO DAILY   14. Aspirin 325 mg PO DAILY 15. BuPROPion 75 mg PO BID 16. FLUoxetine 20 mg PO DAILY 17. olmesartan 20 mg oral QHS 18. omeprazole 20 mg oral QAM 19. risedronate 35 mg oral 1X WEEK 20. Simvastatin 20 mg PO QPM  </p>
+<p>Discharge Disposition: Home With Service </p> 
+<p>Discharge Diagnosis: Ventriculomegaly</p>]]>
+</lead>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">4</attr>
+<attr id="pos">4</attr>
+<attr id="number">no</attr>
+<attr id="alignment">default</attr>
+<attr id="character">html</attr>
+</attributes.specific>
+</question>
+<question>
+<description>Synth 3</description>
+<class>TextContent</class>
+<title>Medical Note</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<lead>
+<![CDATA[<p>Chief Complaint: Fever </p>
+<p>Major Surgical or Invasive Procedure: None </p>
+<p>History of Present Illness: This is a ___ year old male with PMH ESRD s p DDRT from related donor in ___ ___ who presents to the floor as a transfer from ED s p HD with ureteral stent placement ___ for evaluation of fever spike at HD session yesterday. Patient undergoing ureteral stent exchange as part of transplant surgery procedure and received vancomycin at HD facility prior to transfer to the ED.  Patient endorses new onset productive cough over the past ___ days and diplopia triggered by changes in neuro focus from his prior CVA. ___ was also noted to have gentle stool yesterday with no labile VS and was started on a bowel regimen with relief from his symptoms at the end of the day. Patient denies N V, chest pain, urinary retention, fecal incontinence, leg swelling, rash.  REVIEW OF SYSTEMS: per HPI, denies headache, lightheadedness, dizziness, chest pain, shortness of breath, nausea, vomiting, abdominal pain, constipation, diarrhea, and BRBPR.  </p>
+<p>Past Medical History: Essential hypertension, Esrd end stage renal disease , Ulcerative cystitis, Hyperparathyroidism, Vitamin D deficiency, Osteopenia, Primary hyperparathyroidism , Sleep apnea, Kidney transplant ___ , Right upper arm fistula,</p>
+<p>CVA ___, Paroxismal Afib,  </p>
+<p>Social History:</p>
+<p>Family History: Reviewed and found to be not relevant to this illness reason for hospitalization. </p>
+<p>Physical Exam:</p>
+<p>ADMISSION PHYSICAL EXAM:  Vitals: T 98.3 PO BP 129 80 HR 67 RR 18 O2 99 RA General: Alert, oriented, no acute distress HEENT: Sclera anicteric, oral lesions on L buccal mucosa, oropharynx clear Neck: supple, JVP not elevated, no LAD Lungs: Scattered rhonchi, inspiratory crackles within bilateral lung fields, no wheezing CV: Regular rate and rhythm, normal S1 S2, no murmurs, rubs, gallops Abdomen: Soft, non tender, non distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly Ext: Warm, well perfused, 2 pulses, no edema Neuro: CNIII XII grossly intact, ___ LUE strength with FFxAbxO, ___ RUE strength with FFxAbxO, sensation grossly intact, gait not assessed Back: Well healed mid to right back incisional scar, well healed</p>
+<p>LUE fistula </p>
+<p>DISCHARGE PHYSICAL EXAM:  VSS, AF, 95 RA General: Alert, oriented, no acute distress HEENT: Sclera anicteric, MMM, EOMI, and PEERL, no LAD Lungs: Scattered rhonchi, course breath sounds in bilateral bases. No wheezing CV: RRR, no m r g Abdomen: Soft, non tender, non distended, BS , no rebound or guarding Ext: 2 pulses, no edema Neuro: CN ___ grossly intact Back: Well healed mid to right back incisional scar, well healed LUE fistula, some tenderness to palpation at the site of the stent in L abdomen. Otherwise no tenderness along spinous processes. </p>
+<p>PERTINENT IMAGING:  ___ CXR AP lateral In comparison to ___ chest radiograph, interstitial pulmonary edema has improved at the left lung base, reducing dense a only minimal opacities in the right lung base. Findings are likely secondary to hospital acquired pneumonia.    Mr ___ is a ___ year old male with PMH ESRD s p DDRT from related donor in ___ ___ , who presented to the floor as a transfer from ED s p HD with ureteral stent placement on ___ for evaluation of fever 100.3 at home measured prior to transfer. He also had a new productive cough for the preceding few days, as well as diplopia triggered by changes in neuro focus from his prior strokes. Flu swab was negative. CXR showed opacities concerning for pneumonia, though initially was concerning for pulmonary edema, so received furosemide and azithromycin in the ED, but diuresis was suspended when it was suspected he was euvolemic after hospital day 1. He was started on cefepime and vanco for empiric treatment for Foley associated UTI, but urine culture was sterile. He was afebrile on the floor, and given his history of complicated disease, he was started on empiric daptomycin linezolid cefepime on ___, and he was discharged on ___ with plan for a ___ course of linezolid. His ___ labs should be checked prior to home infusion services.</p> 
+<p>TRANSITIONAL ISSUES:  He was discharged with a 7d course of Abx PO linezolid , and he has a potential for HCAP as shown on CXR. he was provided 1 week supply of Lovenox ___ BID and will transition to his home Apixaban. Labs to be checked on ___ and ___ Cefepime infusion pump be set up no later than ___, but before ___. CODE: Full </p>
+<p>Discharge Disposition: Home With Service  </p>
+<p>Discharge Diagnosis:</p>
+<p>PRIMARY:, Hospital acquired pneumonia, </p>
+<p>SECONDARY: Obstructing stent ureteral stone End stage renal disease status post deceased donor kidney , transplant Paroxysmal atrial fibrillation</p>]]>
+</lead>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">5</attr>
+<attr id="pos">5</attr>
+<attr id="number">no</attr>
+<attr id="alignment">default</attr>
+<attr id="character">html</attr>
+</attributes.specific>
+</question>
+<question>
+<description>Real 3</description>
+<class>TextContent</class>
+<title>Medical Note</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<lead>
+<![CDATA[<p>hief Complaint: dyspnea </p>
+<p>Major Surgical or Invasive Procedure: None  </p>
+<p>History of Present Illness: ___ year old man w paroxysmal a fib, mild aortic stenosis, HTN, prior stroke w residual left sided hemiparesis, and recent hospitalization for PNA tx levoflox w subsequent recurrence of a fib s p successful ___ yesterday still on amio and warfarin , and CRF ___ focal and segmental glomerulosclerosis s p bilateral renal transplant on Prograf and Cellcept p w dyspnea. Pt woke suddenly at 2AM and felt very SOB and per son, he was working hard to breathe and breathing heavily. He coughed up a lot of mucus and then felt his breathing improve. They then went outside and the patient immediately felt relief in the cooler air. They note that the apartment is small, stuffy and dry. He denies any CP, h a, n v d, or abdominal pain. Feels much better now.  Of note he stopped his Lasix unsure why taking a few days ago in preparation for his cardioversion.  </p>
+<p>Past Medical History: h o fistula s p repair, c b seizures and cord compression, Hypertension, Dyslipidemia, History of gloerulonephritis, then received cadaveric renal, transplant, ___ yrs ago, on immunosuppressants in past, transplant failed ___ years ago and now on hemodialysis., ___ renal transplant, Anemia , Coagulase negative staphylococcal bacteremia, Community acquired pneumonia, Duodenal ulcers status post thermal therapy injection , Pericardial effusion, Obesity, Osteopenia , </p>
+<p>DISCHARGE VS: 96.2 60 90s 110 120s 50 60s 20 98 RA General: NAD</p>
+<p>HEENT: MMM, NCAT Neck: JVD 3CM above clavicle</p>
+<p>CV: RRR Lungs: end exp wheezes at mid and lower lung fields Abdomen: s nt nd Ext: warm, well perfused Neuro: CN ___ intact. Decreased strength in left arm, chronic contracture Skin: multiple seb keratoses on back      ___ URINEURINE CULTURE FINALno growth ___ BLOOD CULTUREBlood Culture, Routine FINALno growth ___ BLOOD CULTUREBlood Culture, Routine FINALno growth </p>
+<p>IMAGING </p>
+<p>___ CXR PA LAT Bilateral pulmonary opacities as well as central venous congestion suggests mild to moderate pulmonary edema.</p> 
+<p>___ CXR PA LAT</p>
+<p>IN COMPARISON TO ___, CARDIOMEGALY AND PULMONARY VASCULAR CONGESTION ARE PERSISTENT FINDINGS, ACCOMPANIED BY MILD INTERSTITIAL EDEMA. THERE ARE NO CONFLUENT SEGMENTAL OR LOBAR AREAS OF CONSOLIDATION TO SUGGEST THE PRESENCE OF PNEUMONIA. BILATERAL PLEURAL EFFUSIONS ARE SMALL IN SIZE. </p> 
+<p>Brief Hospital Course: ___ year old man w paroxysmal a fib, mild aortic stenosis, HTN, prior stroke w residual left sided hemiparesis, and recent hospitalization for PNA tx levoflox w subsequent recurrence of a fib s p successful DCCV yesterday still on amio and warfarin , and CRF ___ focal and segmental glomerulosclerosis s p bilateral renal transplant on Prograf and Cellcept p w dyspnea and findings concerning for pulmonary edema.  HCAP: Given fever and immunosuppression, patient treated HCAP although no clear consolidation. Pt treated w IV vancomycin cefepime flagyl for HCAP which was further narrowed to PO cefpodoxime day ___, last day ___. UCx and Blood cultures NGTD  Dyspnea:. CXR notable for pulmonary edema in the setting of held home lasix prior to cardioversion. Pt given IV lasix boluses for diuresis and started on Torsemide 10mg daily on discharge. Treated for HCAP as above w Abx and duonebs.  Afib: s p cardioversion. Pt converted back to atrial fibrillation while inpatient and patient continued on coumadin, amiodarone, and metoprolol. INR supratherapeutic on admission so held on ___, restarted on ___ at home dose. However, INR 1.8 on ___ and given recent cardioversion, patient was given a dose of lovenox in the hospital as a bridge and will have INR checked in 2 days for follow up.  Renal Transplant: stable, Cr at baseline and without tenderness continued home MMF, tacro new donor specific Abs so will have tac goal ___  Transitional Issues INR, Chem 7, Tacro to be drawn morning of ___ new donor specific Abs on this admission so tacrolimus goal ___ Will need to be addressed at next transplant clinic appt. Patient converted back in to afib on this admission. He will follow up with cardiology for atrial fibrillation management new medications : cefpodoxime for HCAP, last day ___ ___ Torsemide 10mg daily Discontinued meds: Lasix 20mg daily  </p> 
+<p>Discharge Disposition: Home </p>
+<p>Discharge Diagnosis: Primary, Pulmonary edema, Hospital acquired pneumonia, Atrial fibrillation, s p renal transplant,</p>]]>
+</lead>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">6</attr>
+<attr id="pos">6</attr>
+<attr id="number">no</attr>
+<attr id="alignment">default</attr>
+<attr id="character">html</attr>
+</attributes.specific>
+</question>
+<question>
+<description>Synth 4</description>
+<class>TextContent</class>
+<title>Medical Note</title>
+<explanation />
+<headerText>Synth 4</headerText>
+<inputPosition>right</inputPosition>
+<lead>
+<![CDATA[<p>Chief Complaint: feeling unwell </p>
+<p>Major Surgical or Invasive Procedure: none  </p>
+<p>History of Present Illness: Mr. ___ is a ___ year old man with history of hyperlipidemia and HTN who is transferred from ___ after being found to be neutropenic with concern for viral illness.  He and his girlfriend traveled to ___ via ___ in ___ ___. He spent his time hiking in the mountains, mostly near ___ and spend a few days near the ___ DePue, and climbing Lems. In brief he spent around 3 days hiking ___ miles day. He did spend his time hiking in the woods. He states that he was always meticulous to hydrate and eat periodic meals. He did have some dyspnea but attributed that to not being very athletic. Attributed some nausea on the flight back here on ___. After he got back he was lethargic and fell asleep in the passenger seat. He was often fatigued over the past week. He went to see the PCP who prescribed him: Claritin for sinus pressure, topical ketoconazole for folliculitis, pseudoephedrine TID and Zofran for the nausea.  He stopped taking those as it was unclear whether they were helping as he was still feeling unwell.  At recent PCP ___ ___ he was found to have a slightly low WBC at 3.1, a slightly low Na at 131, thrombocytopenia 82 from 170 , and anemia 12.4 from 15.1 .  He also had fever Tm 100.6 at ___ and reported sweating but nothing particularly sweaty . He has also had some dry cough but no SOB. No dizziness lightheadedness. No diarrhea constipation or focal abdominal pain. No headache. No blurry vision though he does report some increased accuracy and heightened repeat. No skin rashes. He does have mild arthralgias given history of hiking. No lymphadenopathy but he does note swollen gums with bleeding gums MWFSa . His girlfriend reportedly had some symptoms of sore throat and suprapubic discomfort.</p> 
+<p>Past Medical History: kidney stones , GERD , HLD , HTN , Right inguinal hernia , Cataracts , </p> 
+<p>Social History:</p>
+<p>Family History: Mother gout, pre DM in her ___. Father ischemic colitis, pre DM, melanoma. Grandfather diabetic. </p>
+<p>Physical Exam:</p>
+<p>ADMISSION EXAM:  VITALS: Afebrile and vital signs stable see eFlowsheet GENERAL: Alert and in no apparent distress EYES: Anicteric, pupils equally round ENT: Oropharynx clear, EOMI CARDIAC: Heart regular, no murmur, no S3, no S4. S1 and S2 auscultated with LUSB RESP: Lungs clear to auscultation with good air movement bilaterally. Breathing is non labored GI: Abdomen soft, non distended, non tender to palpation. Bowel sounds present. No HSM GU: No suprapubic fullness or tenderness to palpation MSK: Neck supple, moves all extremities, strength grossly full and symmetric bilaterally in all limbs SKIN: No rashes or ulcerations noted NEURO: Alert, oriented, face symmetric, expressive by run of systems. Mild malocclusion. Strength grossly intact PSYCH: pleasant, appropriate affect </p>
+<p>DISCHARGE EXAM  Vitals: 97.2 138 83 81 20 96 Ra Gen: Well appearing, NAD</p>
+<p>HEENT: NCAT, PERRL, EOMI Lungs: CTAB, no w r r CV: RRR, no m r g GI: Soft, NT, ND, BS Ext: no c c e Neuro: AAOx3, strength and sensation grossly intact Skin: No lesions or rashes Psych: Normal affect   </p>
+<p>IMPRESSION: No acute cardiopulmonary abnormality.   Neutropenic Fever Leukopenia Anemia Thrombocytopenia: Patient returned two weeks prior to admission reports for trip to ___ where he spent a week hiking in the regions of ___. Treated with empiric doxycycline and azithromycin. Initial parasite smear at ___ negative, but repeat positive for Erlichiosis. No evidence of end organ damage. Patient's anemia leukopenia thrombocytopenia resolved while in the hospital but he was advised to refrain from contact sports, at least for the next ___ weeks. He was advised to followup with PCP for repeat CBC and Hb electrophoresis. He also advised to followup with Infectious Disease for ongoing discussion regarding antiobiotics prophylaxis and to determine when he is safe to swim.  Mild hyponatremia 130 133, likely in the setting of mild hypovolemia in setting of PPI use. Improved with IV hydration and cessation of PPI. However, may also reflect volume depletion in setting of vomiting in setting of normal PO intake and fevers and poor fluid intake in setting of hiking and lack of knowledge of good water sources while hiking in the ___.  HTN: Patient's amlodipine and lisinopril held on their initial studies, patient was instructed to restart amlodipine at discharge but instructed to hold lisinopril until he followed up with his PCP. This was also likely a cause of his normal decrased urinary output he had a Foley initially for UTI workup that was removed prior to discharge.  GERD: Patient switched to ranitidine due to concern for contribution to cytopenias.  OSA: Patient was placed on CPAP overnight, though he denies CPAP use at home and only uses a nasal strer when asked to. </p>
+<p>TRANSITIONAL ISSUES  He was advised to followup with PCP for repeat CBC and Hb electrophoresis He also advised to followup with Infectious Disease for ongoing discussion regarding antiobiotics prophylaxis and to determine when he is safe to swim. He was also advised to make an appointment with Infectious Disease at ___ ___ phone ___  Time spent coordinating discharge 30 minutes.   </p>
+<p>Discharge Disposition: Home </p>
+<p>Discharge Diagnosis: Leukopenia, Anemia, Thrombocytopenia,</p>]]>
+</lead>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">7</attr>
+<attr id="pos">7</attr>
+<attr id="number">no</attr>
+<attr id="alignment">default</attr>
+<attr id="character">html</attr>
+</attributes.specific>
+</question>
+<question>
+<description>Real 4</description>
+<class>TextContent</class>
+<title>Medical Note</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<lead>
+<![CDATA[<p>Chief Complaint: Fever </p>
+<p>Major Surgical or Invasive Procedure: N A   </p>
+<p>History of Present Illness: Mr. ___ is a ___ man with HTN, HLD presenting for evaluation of two weeks of fever.  The patient is interviewed with the assistance of his wife who is at the bedside. He reports that he was in his usual state of health until about 2 weeks ago when he developed a fever to Tmax 104. He had no rhinorrhea, cough, shortness of breath, rash, arthralgias, headache, dysuria. No lymphadenopathy or weight loss. He did spend some time in the woods a few weeks ago while mushroom picking, but he did not notice any tick bites. They traveled to the ___ in ___, otherwise no recent travel. No sick contacts. No contact with animals.  I have reviewed his outpatient records and they are summarized as follows: The patient called his PCP ___ ___ to report fever to Tmax 102.5. He was seen in his PCP's office on ___. Lyme IgM positive, IgG negative Western Blot negative. Anaplasma negative. CXR without pneumonia. Blood and urine cultures negative. The patient had persistent fevers he was prescribed doxycycline on ___ but did not take it.  In the ED, initial vitals: 100.6 109 157 71 22 96 RA Labs notable for: WBC 8.2 with normal differential Na 131, BUN Cr ___ lipase 86 lactate 1.5 trop 0.01 parasite smear negative, flu negative, UA bland, CXR without pneumonia, EKG uninterpretable due to artifact Patient given: 2L NS  While in the ED, he had a syncopal episode. He was standing for his chest x ray when the radiology technologist noticed him to be ill appearing. He was lowered down on the stretcher without falling and had a brief loss of consciousness with some shaking motions. He recovered without a postictal period.  On arrival to the floor, the patient reports that he feel feverish but has no other complaints.   </p>
+<p>Past Medical History: Hypertension, Hyperlipidemia, OSA, Lipoma, ANAPLASMA PHAGOCYTOPHILUM DNA, QUALITATIVE  Test Result Reference Range Units ANAPLASMA PHAGOCYTOPHILUM Detected A Not Detected DNA, QL REAL TIME PCR   This test was developed and its analytical performance characteristics have been determined by ___, ___. It has not been cleared or approved by the ___. Food and Drug Administration. This assay has been validated pursuant to the ___ regulations and is used for clinical purposes.  </p>
+<p>THIS TEST WAS PERFORMED AT: ___, ___  ___ 7:05 am SEROLOGY BLOOD  </p> 
+<p>FINAL REPORT ___  </p>
+<p>MONOSPOT Final ___: POSITIVE by Latex Agglutination. Reference Range Negative .  Blood urine cultures: No growth  TTE: Normal LV systolic function. Mild posterior MVP and small echo bright density inferior to leaflet see description above . Trace aortic regurgitation.  </p>
+<p>DVT US: No evidence of deep venous thrombosis in the right or left lower extremity veins.  US RUQ: Patent hepatic vasculature.  </p>
+<p>CT Abd: 1. No acute intra abdominal process to explain the patient's symptoms. 2. Please refer to separate report of CT chest performed same day for description of thoracic findings.  CT Chest: There is a 5 mm nodule in the right lower lobe. An additional 6 mm triangular pleural based nodule in the right upper lobe likely represents an intrapulmonary lymph node. For incidentally detected multiple solid pulmonary nodules smaller than 6mm, no CT follow up is recommended in a low risk patient, and an optional CT follow up in 12 months is recommended in a high risk patient.  See the ___ ___ Guidelines for the Management of Pulmonary </p>
+<p>Nodules Incidentally Detected on CT for comments and reference:  3. Please see separate report of CT abdomen and pelvis performed same day for description of subdiaphragmatic findings.   </p>
+<p>Brief Hospital Course: Anaplasmosis: The patient presented with two weeks of fevers originally without localizing signs or symptoms of infection. Two day into his admission he developed lymphopenia, thrombocytopenia, and liver enzyme elevation. Smear shows neutrophil inclusions indicating anaplasmosis, and anaplasma PCR returned positive. The original serology testing was sent soon after fevers started, so IgM would not have developed. PCR is recommended for early testing within 3 weeks of start of symptoms . Original evaluation for Lyme Western Blot, Babesia, UA UCx, CXR, Influenza had been negative. Patient had normal colonoscopy in ___. LENIs without VTE. TTE showed a non mobile echobright spot thought most likely to be calcium. Blood cultures remained negative. He lacked other features or risks of Q fever. No attacks of abdominal or joint pain suggestive of familial Mediterranean fever. Repeat Lyme IgM was positive, but this is most likely cross reactivity with anaplasmosis commonly seen, B. miyamotoi is transmitted by the same Ixodes tick that transmits Lyme and Anaplasma . When his liver enzymes started rising viral hepatitis studies were also sent. His heterophile test returned reactive. ID was consulted whether this represented true infection infectious mononucleosis or EBV hepatitis, but they felt it was likely a false positive in the setting of alternative infxn, which has been documented in other settings Dengue fever, ___: ___ CMV, ___: ___ Babesia, ___: ___ Malaria, ___: ___. RUQ Doppler showed patent hepatic vasculature and normal echotexture. His Tbili and INR normalized, but his ALT and AST remain elevated at the time of discharge. This is most likely from anaplasmosis, but recheck should be obtained on ___ to ensure resolution. CMV and quant gold are pending at the time of discharge, but now that anaplasma was discovered and the patient has markedly improved, the clinical suspicion for other infections is low. Continue doxycycline 100 mg BID for 10 days total through ___. Instructed on technique to prevent pill esophagitis Dimenhydrinate 1 hr prior to doxy may be used to help prevent upset stomach  Transitional issues Hepatitis B vaccination not protected on serology Re check labs on ___  Mr. ___ was seen and examined on the day of discharge and is clinically stable for discharge today. The total time spent today on discharge planning, counseling and coordination of care was greater than 30 minutes.   </p> 
+<p>Discharge Disposition: Home  </p>
+<p>Discharge Diagnosis: Anaplasmosis, </p>]]>
+</lead>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">8</attr>
+<attr id="pos">8</attr>
+<attr id="number">no</attr>
+<attr id="alignment">default</attr>
+<attr id="character">html</attr>
+</attributes.specific>
+</question>
+<question>
+<description>Synth 5</description>
+<class>TextContent</class>
+<title>Medical Note</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<lead>
+<![CDATA[<p>Chief Complaint: Shortness of breath </p>
+<p>Major Surgical or Invasive Procedure: Left Long Osteotomy with revision of ICBG and long stem  </p>
+<p>History of Present Illness: ___ w hx HTN, OSA on home O2 , GERD, IBD, OA s p L R TKR ___ ___ w R knee redo ___ c b PNA, respiratory failure requiring intubation, readmission for hypotension and PNA. More recently, ___ L knee ER IIIB hardware infection ___ c b gout flare ___ </p>
+<p>Postoperative course was remarkable for the following:  On POD 1, patient was hypotensive and had episodes of desaturation. Patient was placed on 15L FM. He was given 1 unit of blood. Oxycodone was resumed for pain control. Labs were sent and the Medicine team was consulted. His Urinalysis was positive for WBCs without bacteria. He was given 1 tablet of Cipro.  On POD 2, the Medicine team transfered the patient to medicine. They recommended adding 40mg IV Lasix as boluses for 20 hours. The Orthopaedic surgery service has discontinued Vancomycin and Gabapentin since he does not have a hardware infection and the gabapentin may be causing his hypoxia. The patient was unable to get Lasix due to blood pressures. They touched base with the patient's PCP regarding his blood pressures and PCP stated that it is reassuring that his blood pressures are as robust as they are given the fact that he was very hypotensive immediately post op with intubation and resuscitation. They recommended keeping patient NPO until urine output adequate.  On POD 3, Medicine team is going to have f u plasma and urine lytes in the morning to evaluate his response to fluids and blood pressures. IP team talked to medicine resident recommending TTE with CO2 to evaluate for difference in pulmonary artery pressures present or absent . They are also working on a liquid diet to re start tomorrow morning. Medicine team c s to see if Dr. ___ would perform TTE once OOB to evaluate for shunt versus PNA once transfer back from ___ to medicine service. Patient was transferred to Medicine service for further care management.  On POD 4, medicine team added amlodipine 5mg PO and decreased oxycodone to 5mg 10mg per pain level. Medicine team requested interventional pulmonary consult and he was ordered a V Q scan. He had two episodes of nausea vomiting in the early morning but cleared to floor status.  On POD 5, he had a V Q scan that showed intermediate probability of PE. He was placed on lovenox 90mg SC BID for 6 weeks for treatment of provoked PE. Medicine team discontinued oxycodone 10mg Q4 PRN, lack of significant change in O2 sat on current dose. They placed him on Lasix 20mg PO daily given signif fluid overload on CXR and hypoxemia. They also recommended considering if he will need a longer term antihysterensive regimen for his new HTN and did discontinue zofran as it was not used in several days and has a QT prolonging effect.  On POD 6, the patient worked with ___ and he was cleared for discharge to rehab. His lovenox was discontinued as well as his foley due to turning events. He began having sx of constipation and his bowel regimen was increased.  On POD 7, he was hemodynamically stable for discharge.  On POD 8, he was ready for rehab but had to wait for insurance endorsement to be given to rehab.  On POD 9, patient was given a bed at rehab at ___.  Hypoxemic Respiratory Failure Hypotension Chronic pulmonary Edema Aspiration Pneumonia vs RVR Medicine followed him daily and helped manage his care. Initial Medicine recommendations included giving 40mg IV Lasix boluses on POD 2 as blood pressure allowed. Per Medicine team discussion with the patient's PCP, it was acceptable that blood pressures are robust given the intubation fluid resuscitation post operative hypotension . Given this information, medical team decided to start Torsemide 10mg PO daily on POD 5 for diuresis and Lasix was discontinued. Lasix 20mg PO daily can be given if pt has a 1lb weight gain.  He was continued on prednisone 40mg for 7 days and 5 more days after completing 7 days on 40mg daily. After completing 5 total days on prednisone, he can be placed on Pred 10mg daily for 4 more days to help prevent adrenal crisis post steroids via taper on POD 14. Medicine recommended keeping O2 sats above 90 and this was continued on discharge.  Intermittent doses of Hydromorphone 0.25mg PO 0.5mg Q4 PRN for pain management was continued on discharge  On POD 6, his Cipro was discontinued. On discharge, his oxy was changed from 5mg BID for 1 day then daily dosing. If needed to taper oxy, can be given oxycodone 5mg daily for 1 day and then can be tapered by 5mg with additional PO Tylenol for pain management as tolerated.  In regards to his Zofran use, it was discontinued on POD 5 because it was not needed and has a QT prolonging effect.  On day of discharge, patient was tolerating his diet. He was ambulatory and voiding independently.  Nursing endorsed that ___ was working with patient and he felt he was ambulating well in the halls and rehab was recommended. Nursing was in agreement with using SNF we requested for the patient's rehab and patient remained clinically stable for safe discharge to this facility.</p>
+<p>Full code: Wife: ___ Other Phone: ___ PCP: ___   </p> 
+<p>Discharge Disposition: Extended Care </p> 
+<p>Discharge Diagnosis: Left Knee Pain,</p>]]>
+</lead>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">9</attr>
+<attr id="pos">9</attr>
+<attr id="number">no</attr>
+<attr id="alignment">default</attr>
+<attr id="character">html</attr>
+</attributes.specific>
+</question>
+<question>
+<description>Real 5</description>
+<class>TextContent</class>
+<title>Medical Note</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<lead>
+<![CDATA[<p>Chief Complaint: left knee pain </p>
+<p>Major Surgical or Invasive Procedure: left total knee replacement on ___ by ___, MD  </p>
+<p>History of Present Illness: ___ year old male with left knee osteoarthritis which has failed conservative management and has elected to proceed with a left total knee replacement on ___. </p>
+<p>Past Medical History: PMH: OA, HTN, IBS diverticulosis, chronic LBP w occasional , radiculopathy, OSA, BPH, depression, GERD, dyslipidemia ,  Pshx: partial colectomy ___  </p>
+<p>Social History:</p>
+<p>Family History: non contributory </p>
+<p>Physical Exam: Well appearing in no acute distress Afebrile with stable vital signs Pain well controlled Respiratory: CTAB Cardiovascular: RRR Gastrointestinal: NT ND Genitourinary: Voiding independently Neurologic: Intact with no focal deficits Psychiatric: Pleasant, A O x3</p>
+<p>Musculoskeletal Lower Extremity: Incision healing well with staples Scant serosanguinous drainage Thigh full but soft No calf tenderness ___ strength SILT, NVI distally Toes warm     </p> 
+<p>IMAGING </p>
+<p>___ CXR Interval development of diffuse bilateral confluent and patchy airspace opacities which may reflect pulmonary edema, or pneumonitis from extensive aspiration or pneumonia. </p>
+<p>___ CXR In comparison with the study of ___, there has been decrease in the bilateral pulmonary opacifications. This may reflect improved pulmonary vascular congestion or patchy areas of consolidation, more prominent on the right. Continued mild enlargement of the cardiac silhouette. </p>
+<p>___ CXR There has been no further improvement in widespread pulmonary abnormality ranging in radiodensity from ground glass attenuation to consolidation. Previous mediastinal widening due to vascular engorgement has resolved. Heart size has never been enlarged. Pleural effusions small if any.  </p>
+<p>Brief Hospital Course: The patient was admitted to the orthopedic surgery service and was taken to the operating room for above described procedure. Please see separately dictated operative report for details. The surgery was uncomplicated and the patient tolerated the procedure well. Patient received perioperative IV antibiotics. </p>
+<p>Postoperative course was remarkable for the following:  While in PACU on POD 0 the patient was found to have labile blood pressures, hypoxemia and low urine output. He developed a persistent, painful cough. He was given a total of 2 liters LR with little improvement. A CXR showed diffuse bilateral patchy infiltrates concerning for aspiration vs CHF vs PNA. Labs were unremarkable, EKG unchanged and troponin negative. He was started on his home CPAP with improvement in his oxygenation, and he was given albumin and Lasix with improvement in his urine output. He was watched in the PACU but was unable to wean from CPAP and so was transferred to the ICU for further monitoring.  FICU course was remarkable for acute hypoxemia after his surgery likely multifactorial from pulmonary edema, atelectasis, and aspiration PNA CAP. He was maintained on CPAP on arrival to FICU and weaned from ventimask to nasal cannula. CXR showed new right middle lobar consolidation and mild leukocytosis to 10.6. He was diuresed with IV Lasix with appropriate urine output response and improvement of pulmonary congestion on CXR. He was started on ceftriaxone and azithromycin on ___ with a planned 5 day course of azithromycin and 7 day course of ceftriaxone to be switched to augmentin on discharge to complete 7 day total .  The patient was transferred back to the floor on POD 2 where he remained stable. He was weaned from his oxygen on POD 3 but did require some O2 2LNC after ambulation.  Otherwise, pain was controlled with a combination of IV and oral pain medications.. The patient received Lovenox for DVT prophylaxis starting on the morning of POD 1. The foley was removed and the patient was voiding independently thereafter. The surgical dressing was changed on POD 2 and the surgical incision was found to be clean and intact without erythema or abnormal drainage. The patient was seen daily by physical therapy. Labs were checked throughout the hospital course and repleted accordingly. At the time of discharge the patient was tolerating a regular diet and feeling well. The patient was afebrile with stable vital signs. The patient's hematocrit was acceptable and pain was adequately controlled on an oral regimen. The operative extremity was neurovascularly intact and the wound was benign.  The patient's weight bearing status is weight bearing as tolerated on the operative extremity.  Mr. ___ is discharged to home with services rehab in stable condition </p>  
+<p>Discharge Disposition: Extended Care  </p>
+<p>Discharge Diagnosis: left knee osteoarthritis ,</p>]]>
+</lead>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">10</attr>
+<attr id="pos">10</attr>
+<attr id="number">no</attr>
+<attr id="alignment">default</attr>
+<attr id="character">html</attr>
+</attributes.specific>
+</question>
+<question>
+<description>test sample</description>
+<class>TextContent</class>
+<title>Medical Note</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<lead>
+<![CDATA[<p>Chief Complaint: Fever, abdominal pain </p>
+<p>Major Surgical or Invasive Procedure: None  </p>
+<p>History of Present Illness: ___ M s p laparoscopic completion colectomy Dr. ___ ___ on POD3 at OSH, who presents to ___ ED with LLQ abdominal pain and fevers to ___. CT at ___ showed partial bowel obstruction anastomosis with stool in the descending colon and rectum. Referred to ___ ED for colorectal surgery eval. AFeb, HR 70s, BP 120s 140s 80s 90s, VSS. 
+<p>Past Medical History: H o knee surgery s p MVA in ___, Multiple hernia repairs with mesh, Umbilical ___, Inguinal hernia repair, </p>
+<p>Past Surgical History: Laparoscopic partial cecectomy ___ Dr. ___ ___ Lap ___ EUA and repair for recurrent hernia x2, umbilical ___ repair, lysis of ___ adhesions ___ Dr. ___ ___ Operation on lower extremities at ages ___ and ___ possibly several surgeries per patient but details unknown ___ laparoscopic robotic umbilical hernia repair as per the surgeon's Operative report Augment  no prior abdominal surgeries, no abdominal or pelvic surgeries hernia repairs as per HPI as above </p>
+<p>Social History:</p>
+<p>Family History: Brother with T2DM and neuropathy </p>
+<p>Physical Exam: Vitals: 97.8 51 119 66 18 97 ra
+GEN: A O, NAD HEENT: No scleral icterus, mucus membranes moist CV: RRR, No M G R PULM: Clear to auscultation b l, No W R R ABD: Soft, nondistended, nontender, no rebound or guarding, normoactive bowel sounds, no palpable masses well healed surgical scars incisions c d i Ext: No ___ edema, ___ warm and well perfused </p>
+<p>Brief Hospital Course: Following the above presentation ___ was admitted to the inpatient colorectal surgery service for further evaluation and management. He was given intravenous antibiotics and bowel rest. A follow up CT scan was performed and wsa demonstrated a right lower quadrant collection concerning for a hematoma vs. an abscess. ___ was started on ___ by ___ and given the low suscpicion for abscess, ___ was actually safe for discahrge home. The patients pain and fevers were well controlled and ___ was able to eat a regular diet without difficulty. ___ was given follow up with Dr. ___ in the ___ wave and a prescription for empiric antibiotics.  RX oxycodone 5 mg ___ tablet s by mouth every 4 hours Disp 15 Tablet Refills: 0  
+<p>Discharge Disposition: Home </p>
+<p>Discharge Diagnosis: Post operative fevers, cellulitis and small ___ collections , Right lower quadrant ___ follow up ,]]>
+</lead>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">11</attr>
+<attr id="pos">11</attr>
+<attr id="number">no</attr>
+<attr id="alignment">default</attr>
+<attr id="character">html</attr>
+</attributes.specific>
+</question>
+<question>
+<description>Synth 1_31, 27228239</description>
+<class>TextContent</class>
+<title>Discharge Summary</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<lead>
+<![CDATA[<p>Chief Complaint: Right groin incision </p>
+<p>Major Surgical or Invasive Procedure: none  </p>
+<p>History of Present Illness: ___ with hx of SCD who presents as transfer from ___ with concern for incisional infection. He presented to a Urgent Care on the day of admission for erythema around his R inguinal incision site from bilateral THA at ___. He was started on PO clindamycin and told to f u with ortho as outpatient. He however called his PCP who told him to present to ED. He denies fevers, chills, decreased appetite, anorexia, CP, SOB, N V. No increased pain at incisional site endorses tightness only. New onset elevation in his Cr and BUN not explained in admission note. Notably patient has another lengthy incision from his L hip ortho at ___ .</p>  
+<p>Past Medical History: Obstructive sleep apnea with prescribed positive pressure , devices not used, Gonorrhea unspecified number years ago , Sickle cell carrier Hematologist at ___ , Hypertension, OSA,  </p>
+<p>Family History: Multiple uncles with prostate cancer with multiple cell lines Mother alive with asthma Significant family history of diabetes although patient denies Brothers with diabetes Mother, maternal grandparents with hypertension </p>
+<p>Physical Exam: Vitals: AF 98, 128 63, 70, 18, 98 RA GEN: AOx3, NAD HEENT: NCAT, EOMI, anicteric sclera CV: RRR, No M G R PULM: unlabored breathing, CTA b l ABD: soft, non distended, non tender, well healed vertical bilateral inguinal surgical scar without erythema or fluctuance</p>
+<p>EXT: WWP NEURO: MAE b l  </p>
+<p>Brief Hospital Course: The patient was admitted to the ACS Service for observation and initiation of clindamycin. His presentation was consistent with a superficial incisional infection struggled left buttock incision to appear more erythematous and tense, though patient was ensure no spread . His leukocytosis was mild at 11k and Q WB CT was negative for any drainable fluid collection or gas at the site of his incision. He continued his home pain regimen Oxycontin 10mg TID , was instructed to take PO clindamycin to complete 5 day course, and discharged from the floor boarding hospital in stable condition. </p>
+<p>Discharge Disposition: Home </p>
+<p>Discharge Diagnosis: Superficial Incisional Infection R groin</p>]]>
+</lead>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">12</attr>
+<attr id="pos">12</attr>
+<attr id="number">no</attr>
+<attr id="alignment">default</attr>
+<attr id="character">html</attr>
+</attributes.specific>
+</question>
+<question>
+<description>Real 1_31</description>
+<class>TextContent</class>
+<title>Discharge Summary</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<lead>
+<![CDATA[<p>Chief Complaint: R wrist wound infection </p>
+<p>Major Surgical or Invasive Procedure: I D RIGHT WRIST  </p>
+<p>History of Present Illness: ___ is a ___ year old female w h o sickle cell disease, who presents to the ED with pain of her right wrist s p carpal tunnel release ___. Her pain started yesterday ___ and has gotten progressively worse. She reports expressing pus from the incision line this morning. SHe has had chills, no fevers.  </p>
+<p>Past Medical History: Hemglobin SC disease followed by Dr. ___ chest syndrome ___ , Avascular hip necrosis s p replacement right ___, left ___, TIA vs Bell's palsy ___, Depression, Chronic sinusitis with associated tension headaches, Recurrent otitis media, Hypertension, OSA on CPAP,  </p>
+<p>Family History: Multiple aunts, uncles, and cousins, and grandfather, with sickle cell on her mother's side ___ and found to be not relevant to this illness reason for hospitalization. </p>
+<p>Physical Exam:</p>
+<p>PREOP: Right Hand: Tender to palpation over volar wrist and forearm. Tenderness on active extension of fingers, but no passive extension. No drainage at this time and unable to express pus. Vascular: Palpable radial and ulnar pulses. Doppler signal present to palmar arch. Signal to distal digits present. Capillary refill is 2 seconds. Mild numbness in median nerve distribution. </p>
+<p>POSTOP: splint c d I SILT in r u m fingers WWP </p>
+<p>Brief Hospital Course: The patient presented to the emergency department and was evaluated by the hand surgery team. The patient was found to have right wrist wound infection from prior carpal tunnel release and was admitted to the hand surgery service. The patient was taken to the operating room on ___ for irrigation and debridement of right wrist, which the patient tolerated well. For full details of the procedure please see the separately dictated operative report. The patient was taken from the OR to the PACU in stable condition and after satisfactory recovery from anesthesia was transferred to the floor. The patient was initially given IV fluids and IV pain medications, and progressed to a regular diet and oral medications by POD 1. The patient was given ___ antibiotics and anticoagulation per routine. The patient's home medications were continued throughout this hospitalization. The patient worked with ___ who determined that discharge to home was appropriate. The ___ hospital course was otherwise unremarkable.  At the time of discharge the patient's pain was well controlled with oral medications, incisions were clean dry intact, and the patient was voiding moving bowels spontaneously. The patient is nonweightbearing in the right upper extremity. The patient will follow up with Dr. ___ routine. A thorough discussion was had with the patient regarding the diagnosis and expected post discharge course including reasons to call the office or return to the hospital, and all questions were answered. The patient was also given written instructions concerning precautionary instructions and the appropriate follow up care. The patient expressed readiness for discharge.  </p> 
+<p>Discharge Disposition: Home </p>
+<p>Discharge Diagnosis: R wrist wound infection </p>]]>
+</lead>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">13</attr>
+<attr id="pos">13</attr>
+<attr id="number">no</attr>
+<attr id="alignment">default</attr>
+<attr id="character">html</attr>
+</attributes.specific>
+</question>
+<question>
+<description>Synth 2_31, 24614138</description>
+<class>TextContent</class>
+<title>Discharge Summary</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<lead>
+<![CDATA[<p>Chief Complaint: Metastatic recurrence of colon adenocarcinoma </p>
+<p>Major Surgical or Invasive Procedure: Resection of thoracolumbar mass Open transabdominal sarcoma excision  </p>
+<p>History of Present Illness: Mr. ___ is a ___ M with a locally advanced metastatic colorectal cancer who underwent a multiple complex open surgeries including sigmoid resection procotectomy, neoadjuvant chemoradiotherapy, Cyberknife, LAR with diverting loop ileostomy in ___ and robotic TLI and LAR, with chemoradiotherapy completed ___. He has that has now progressed to a large C2 metastatic deposit, invading the L psoas muscle. Actually the sacrum. Wide excision of this large tumor is not feasible alone by means of thoracolumbar surgery alone so he is taken to the scan laparotomy.</p> 
+<p>Past Medical History: refractory ulcerative esophagitis, hyperlipidemia, colitis, chronic acquired factor VIII deficiency, osteoarthritis, pneumonia, history of heat stroke, negative portal vein.,  </p>
+<p>Vitals: 97.8 98.2 98.2 64 114 58 18 96 RA Gen: Awake, alert, NAD Pulm: non labored respirations CV: RRR, no murmurs appreciated Abd: Soft, nontender, no rebound guarding. Pelvis: Incision healed appropriately with no wound breakdown, erythema, or drainage. Extremities: c c e  </p>
+<p>Post Surgical Complications During Inpatient Admission: Post Operative Ileus resolving w o NGT x Post Operative Ileus requiring management with NGT, UTI Wound Infection Anastomotic Leak Staple Line Bleed Congestive Heart failure, ARF Acute Urinary retention, failure to void after Foley D C'd Acute Urinary Retention requiring discharge with Foley Catheter, DVT Pneumonia Abscess x None </p>
+<p>Social Issues Causing a Delay in Discharge: Delay in organization of ___ services Difficulty finding appropriate rehab hospital disposition. Lack of insurance coverage for ___ services Lack of insurance coverage for prescribed medications. Family not agreeable to discharge plan. Patient knowledge deficit related to ileostomy delaying dispo x No social factors contributing in delay of discharge. </p>
+<p>Discharge Disposition: Home With Service  </p>
+<p>Discharge Diagnosis: Metastatic recurrence of colon cancer,</p>]]>
+</lead>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">14</attr>
+<attr id="pos">14</attr>
+<attr id="number">no</attr>
+<attr id="alignment">default</attr>
+<attr id="character">html</attr>
+</attributes.specific>
+</question>
+<question>
+<description>Real 2_31</description>
+<class>TextContent</class>
+<title>Discharge Summary</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<lead>
+<![CDATA[<p>Major Surgical or Invasive Procedure: abdominal wall mass excision fiducials  </p>
+<p>History of Present Illness: former pt of Dr ___ lap ___ colectomy for T3N2a Stage III colon Ca ___ pt had recent repeat imaging while receiving chemo Tx for The prior CT shows a mass at the anastomotic site and increased adenopathy in the chest.  PET showed FDG avid mass only in ___ gutter w associated ST mass, no other loci of Dz Imges reviewed w radiologist at TB  </p>
+<p>Past Medical History: PMH:, hyperlipidemia , hypothyroidism, emphysema, former smoker, PSH: bilateral cataract surgery </p>
+<p>Family History: Her family history is negative for inflammatory bowel disease, colorectal cancer or other cancers.  </p>
+<p>Physical Exam:</p>
+<p>DISCHARGE PHYSICAL EXAM:</p>
+<p>VS: AVSS Gen: well appearing female, NAD HEENT: no lymphadenopathy, moist mucous membranes Lungs: CTAB, no increased work of breathing Heart: RRR Abd: soft, nt, nd. Incision c d I, no surrounding erythema or drainage. Extremities: wwp  </p>
+<p>Brief Hospital Course: The patient was admitted to the colorectal surgery service for planned exploratory laparotomy and resection of recurrent extra peritoneal nodules. There was no recurrence noted affecting the bowel or previous anastomotic site. Additionally, fiducials were placed at this time. The procedure was uncomplicated see Operative Report for more detail and the patient tolerated it well. She did well in the PACU post operatively and was transferred to the floor in stable condition. She was started on clears on POD0, which she initially tolerated well, and her foley catheter was removed that evening. She voided appropriately thereafter. However, she developed some nausea when trialed with regular food on POD1 and 2. A KUB was obtained on POD2, which showed dilated large intestine and she was reversed to clears only. The patient started passing flatus on POD3, however, after which her abdominal distension improved and she was able to tolerate a regular diet. She was discharged home later on POD3 in stable condition. She will follow up in colorectal surgery clinic in two weeks. </p>   
+<p>Discharge Disposition: Home </p>
+<p>Discharge Diagnosis: Abdominal Wall Mass</p>]]>
+</lead>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">15</attr>
+<attr id="pos">15</attr>
+<attr id="number">no</attr>
+<attr id="alignment">default</attr>
+<attr id="character">html</attr>
+</attributes.specific>
+</question>
+<question>
+<description>Synth 3_31, 20575782</description>
+<class>TextContent</class>
+<title>Discharge Summary</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<lead>
+<![CDATA[<p>Chief Complaint: Chiari malformation  </p>
+<p>Major Surgical or Invasive Procedure: ___: C1 laminectomy and Chiari decompression  
+<p>History of Present Illness: ___ year old female with a ___ malformation whose many years of cognitive decline and episodes of severe fatigue. She was recently at a care facility, which was ordering scheduled scans when she developed vertigo, ataxia and slurred speech, prompting treatment at an outside hospital. Emergent MRI  and subsequent CTA were performed which were consistent with Chiari cerebellar tonsillar descent. The patient was transferred to ___ for further evaluation and management. </p>
+<p>Past Medical History: HTN, HLD, TMJ, depression, GERD, seasonal allergies, ulcerative colitis, s p CCY ___, s p clavicle fixation ___, L knee procedures, right knee reconstruction, TURB x4, D C, Pink Patches, Hysterectomy, Broken jaw,bent as child, Thumb surgery, L knee, neck manipulation,facial release botox,  </p>
+<p>Family History: Mother father died of heart attack in ___ Brother has CVA </p>
+<p>Physical Exam: VITAL SIGNS: Please see flowsheet GENERAL: Well appearing female.</p>
+<p>HEENT: Pupils round, equal and reactive to light. Extraocular muscles intact. CARDIAC: Regular rate and rhythm. LUNGS: Clear to auscultation bilaterally. ABDOMEN: Soft, nontender nondistended. Extremities: Warm and dry. 2 pitting edema to bilateral lower extremities. </p>
+<p>Neurological: Mental status: Awake and alert, cooperative with exam, normal affect. Orientation: Oriented to person, place and date. Language: Speech fluent but dysarthric. </p>
+<p>Cranial nerves: I: Not tested II: Pupils round, equal and reactive to light, 3 to 2 mm bilaterally. III, IV, VI: Extraocular movements intact bilaterally without nystagmus. V, VII: Facial strength and sensation intact and symmetric. VIII: Hearing intact to voice. IX, X: Palatal elevation symmetrical. XI: Sternocleidomastoid and trapezius normal bilaterally. XII: Tongue midline without fasciculations. </p>
+<p>Motor: Normal bulk and tone bilaterally. No abnormal movements, tremors. Strength full power ___ throughout. No pronator drift </p>
+<p>Sensation: Intact to light touch</p> 
+<p>Upon Discharge: Awake and alert, oriented x 3. No pronator drift. Full strength and sensation. Face symm.    </p>
+<p>Brief Hospital Course: The patient was admitted to the Neurosurgery Service as a transfer from ___ the day of admission, ___. A repeat MRI and MRA were ordered immediately on arrival for comparison with the outside hospital imaging.  On ___, the patient remained neurologically intact despite her cervical instability. The MRI and MRA were reviewed. The patient was cleared for the OR with no acute intervention on the CT.  On ___ She worked with ___ and OT. She was in the OR for C1 decompression with Dr. ___. She was monitored in the ___ until noted to be stable and then transferred to the floor after a discussion with the family and the surgical team. At the time of discharge, she was tolerating PO pain meds, tolerating a diet and ambulating independently with her walker. Patient discharged in stable condition with outpatient follow up.   RX ondansetron ___ mg 1 tablet s by mouth q8hrs Disp 21 Tablet Refills: 0 7. OxycoDONE Immediate Release 5 mg PO Q6H:PRN Pain Moderate RX oxycodone 5 mg 1 tablet s by mouth every six hours as needed Disp 10 Tablet Refills: 0  8. Sumatriptan Succinate 25 mg PO ONCE Duration: 1 Dose Do not take unless fevers and worsened headache 7 9. Verapamil SR 360 mg PO QAM </p> 
+<p>Discharge Disposition: Home </p>
+<p>Discharge Diagnosis: Chiari Malformation</p>]]>
+</lead>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">16</attr>
+<attr id="pos">16</attr>
+<attr id="number">no</attr>
+<attr id="alignment">default</attr>
+<attr id="character">html</attr>
+</attributes.specific>
+</question>
+<question>
+<description>Real 3_31</description>
+<class>TextContent</class>
+<title>Discharge Summary</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<lead>
+<![CDATA[<p>Chief Complaint: Headache and neck pain with known chiari 1 malformation 
+<p>Major Surgical or Invasive Procedure: ___ Suboccipital craniectomy and c1 laminectomy with duraplasty and chiari decompression </p>
+<p>History of Present Illness: Ms. ___ is a ___ RHD F who presents with known Chiari type 1 malformation initially diagnosed by neurosurgery in ___. At that time she elected to defer surgery, after which she had worsening headaches and neck pain. He headaches were worse with sneezing, neck extension and Valsalva. She denies nausea vomiting visual disturbances.  Patient arrived to ___ on ___ for elective suboccipital craniectomy and C1 laminectomy with Dr. ___. </p>
+<p>Past Medical History: Chiari type 1 malformation, asthma , depression, Anxiety, allergic rhinitis , chronic lower back pain , chronic leg pain , osteoarthritis, GERD , s p sinus surgery , s p foot surgery ,</p>
+<p>Opens Eyes: Spontaneous, Orientation: x Person x Place Time stated it was ___ Commands: Complex, Pupils: PERRL, EOMs: Full, Face Symmetric: Yes, Tongue Midline: No R tongue, Drift: No RUE tremor, Speech Fluent: Yes, Comprehension Intact: Yes </p>
+<p>Motor:  Trap Delt Biceps Triceps Grip Right 4 4 4 4 4 Left 4 4 4 4 4, IP Quad Ham AT ___ ___ Right 5 5 5 5 5 5 Left 5 5 5 5 5 5, Pain limited motor exam, requires significant encouragement. </p>
+<p>Sensation: Intact to light touch. </p>
+<p>Surgical Incision: Clean, dry, intact, Closed with staples    See OMR for pertinent lab and imaging results </p>
+<p>Brief Hospital Course: Ms. ___ arrived to ___ on ___ for surgical management of her known Type I Chiari malformation with Dr. ___. Patient underwent suboccipital craniectomy, C1 laminectomy, duroplasty and chiari decompression without intraoperative complications. She was extubated in the OR and transferred to PACU for recovery. Pain was managed per PACU protocol. Her neuro exam was monitored and remained stable. She was transferred to ___ in stable condition. She remained neurologically stable and was eventually transferred to the floor. Her pain medications were adjusted for optimal pain control. ___ worked with the patient and recommended home after 1 more visit. She was re evaluated and sent home with ___ services for ongoing rehab with a new walker. OT was consulted and deferred as she did not have any OT needs. She was discharged with instructions to sleep with HOB elevated with pillows for 1 week due to nursing concerns about bogginess around her incision that was not appreciated on discharge while sitting upright. She has scheduled follow up for staple removal and expressed her understanding to keep incision dry until then. </p> 
+<p>Discharge Disposition: Home With Service  </p>
+<p>Discharge Diagnosis: Chiari I malformation,</p>]]>
+</lead>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">17</attr>
+<attr id="pos">17</attr>
+<attr id="number">no</attr>
+<attr id="alignment">default</attr>
+<attr id="character">html</attr>
+</attributes.specific>
+</question>
+<question>
+<description>Synth 4_31, 28727588</description>
+<class>TextContent</class>
+<title>Discharge Summary</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<lead>
+<![CDATA[<p>Chief Complaint: left hip pain </p>
+<p>Major Surgical or Invasive Procedure: ___: left THA by ___ </p> 
+<p>History of Present Illness: ___ year old male with left hip osteoarthritis which has failed conservative management now presents for left hip replacement on ___ </p>
+<p>Past Medical History: Left hip pain s p cortisone injections last in ___, H o MI in ___, PCI s p stent ___ , ischemic , cardiomyopathy, H o afib in ___. off anti coagulation now , Stroke, HTN, osteoarthritis, hyperlipidemia, falls , </p>
+<p>Postoperative course was remarkable for the following: POD 1, calcium was 6.6 and magnesium was 1.9. This was repleted per recommendations. POD 2, phosphate was 1.9 and this was repleted. Patient's gabapentin was discontinued due to hypotension following 2 doses.  Otherwise, pain was controlled with a combination of IV and oral pain medications. The patient received Aspirin 325 mg twice daily for DVT prophylaxis starting on the morning of POD 1. The surgical dressing was changed and the Silverlon dressing was removed 48 hours after surgery. A dry sterile dressing was reapplied. The patient was seen daily by physical therapy. Labs were checked throughout the hospital course and repleted accordingly. At the time of discharge the patient was tolerating a regular diet and feeling well. The patient was afebrile with stable vital signs. The patient's hematocrit was acceptable and pain was adequately controlled on an oral regimen. The operative extremity was neurovascularly intact and the dressing was intact.  The patient's weight bearing status is weight bearing as tolerated on the operative extremity with no hip bridging or repetitive resistant hip flexion. Walker or two crutches. Wean as tolerated.  Mr. ___ is discharged to home with services in stable condition.    13. Metoprolol Succinate XL 75 mg PO DAILY 14. Rosuvastatin Calcium 40 mg PO QPM </p> 
+<p>Discharge Disposition: Home With Service  </p>
+<p>Discharge Diagnosis: left hip osteoarthritis</p>]]>
+</lead>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">18</attr>
+<attr id="pos">18</attr>
+<attr id="number">no</attr>
+<attr id="alignment">default</attr>
+<attr id="character">html</attr>
+</attributes.specific>
+</question>
+<question>
+<description>Real 4_31</description>
+<class>TextContent</class>
+<title>Discharge Summary</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<lead>
+<![CDATA[<p>Chief Complaint: left hip pain </p>
+<p>Major Surgical or Invasive Procedure: left total hip replacement on ___ <p>
+<p>History of Present Illness: ___ year old male with left hip osteoarthritis which has failed conservative management and has elected to proceed with a left total hip replacement on ___. </p>
+<p>Past Medical History: PMH: HTN, hypercholesterolemia, CAD w history of MI in ___, , renal insufficiency, hx of melanoma, hx of TIA,  PSHx: hernia repair x2, cardiac stents and angioplasty ___ </p>
+<p>Family History: non contributory </p>
+<p>Physical Exam: Well appearing in no acute distress Afebrile with stable vital signs Pain well controlled Respiratory: CTAB Cardiovascular: RRR Gastrointestinal: NT ND Genitourinary: Voiding independently Neurologic: Intact with no focal deficits Psychiatric: Pleasant, A O x3 </p>
+<p>Musculoskeletal Lower Extremity: Incision healing well with staples Scant serosanguinous drainage Thigh full but soft No calf tenderness ___ strength SILT, NVI distally Toes warm   </p>
+<p>Postoperative course was remarkable for the following:  On POD 1, he was hypotensive and dizzy. He was bolused 500cc of LR and responded appropriately. On POD 2, his phosphorous was low and was repleted.  Otherwise, pain was controlled with a combination of IV and oral pain medications. The patient received lovenox for DVT prophylaxis starting on the morning of POD 1. The foley was removed and the patient was voiding independently thereafter. The surgical dressing was changed on POD 2 and the surgical incision was found to be clean and intact without erythema or abnormal drainage. The patient was seen daily by physical therapy. Labs were checked throughout the hospital course and repleted accordingly. At the time of discharge the patient was tolerating a regular diet and feeling well. The patient was afebrile with stable vital signs. The patient's hematocrit was acceptable and pain was adequately controlled on an oral regimen. The operative extremity was neurovascularly intact and the wound was benign.  The patient's weight bearing status is weight bearing as tolerated on the operative extremity with posterior precautions.   Mr. ___ is discharged to home with services in stable condition. </p>   
+<p>Discharge Disposition: Home With Service  </p>
+<p>Discharge Diagnosis: left hip osteoarthritis</p>]]>
+</lead>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">19</attr>
+<attr id="pos">19</attr>
+<attr id="number">no</attr>
+<attr id="alignment">default</attr>
+<attr id="character">html</attr>
+</attributes.specific>
+</question>
+<question>
+<description>Synth 5_31, 24292534_not31</description>
+<class>TextContent</class>
+<title>Discharge Summary</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<lead>
+<![CDATA[<p>Chief Complaint: sore throat, c o difficulty swallowing and concern for abscess </p>
+<p>Major Surgical or Invasive Procedure: None </p> 
+<p>History of Present Illness: ___ y o M w BPH and Cough Symptom, and GERD transferred from ___ for swallowing assistance. Patient was transferred initially from ___ to ___ yesterday with epistaxis, complained of difficulty with swallowing and throat pain. Patient was found to have strep throat at ___ and was given pain medications and cephalosporin. An MRI was also obtained that did not show any glottis swelling or airway occlusions. Patient continued to have throat pain and difficulty swallowing today. Patient feels like he cant eat much and has to open his mouth. At ___, he vomited twice with nausea. He was given Advil also. Review of systems was otherwise negative for fevers, chills, abdominal pain, back pain, difficulty with respiration. Mild headache, diarrhea and gait instability were also present.  </p>
+<p>Past Medical History: PMHx: BPH, cough symptom, HTN GERD, gait instability a system , constipation, Diastolic CHF, arthritis, lumbosacral, spondylolysis, urinary incontinence and HLD pt denies any, tick bites. </p>
+<p>Discharge Physical Exam: AVSS 
+<p>Brief Hospital Course: Mr ___ ___ year old male admitted with sore throat with difficulty breathing and concern for airway obstruction. He was seen at ___ where he was found to have a streptococcal infection. After leaving ___ he was asked to go to the ___ ED for evaluation, given his ongoing complaints and concern for airway obstruction. Chest Xray and MRI images for airway were obtained at ___, and he has no evidence of infection or obstruction. He was seen by ENT thoracic surgery and respiratory therapy team, and was determined not to have any stridor or indication for BiPAP monitoring or urgent ENT scope. He was admitted for pain control, IV antibiotics and close monitoring. Patient did well while hospitalized, and was given IV antibiotics and pain medication. Swallowing was close but not strict observation. He was discharged home on ___ on a 10 day course of penicillin and clear liquid diet.</p>  
+<p>Discharge Disposition: Home </p>
+<p>Discharge Diagnosis: 1. retropharyngeal abscess pharyngitis , 2. nausea vomiting</p>]]>
+</lead>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">20</attr>
+<attr id="pos">20</attr>
+<attr id="number">no</attr>
+<attr id="alignment">default</attr>
+<attr id="character">html</attr>
+</attributes.specific>
+</question>
+<question>
+<description>Real 5_31</description>
+<class>TextContent</class>
+<title>Discharge Summary</title>
+<explanation />
+<inputPosition>right</inputPosition>
+<lead>
+<![CDATA[<p>Chief Complaint: nausea, chest discomfort </p>
+<p>Major Surgical or Invasive Procedure: none  </p>
+<p>History of Present Illness: Mr ___ is an ___ year old man with history of hypertension, transferred from ___ after presenting with ventricular tachycardia. He reports feeling unwell for several weeks, and was diagnosed with a throat infection 5 days prior to presentation. He was prescribed clindamycin due to penicillin allergy and codeine cough syrup, which he has been taking with some improvement in his symptoms. On the night prior to presentation he was feeling poorly again, and developed chest discomfort mild pain and sensation of pounding , and some difficulty breathing. He estimated his HR was around 100 at this time. Was unable to sleep well due to his symptoms, which continued this morning. Today he also had multiple episode of emesis, denied abdominal pain or diarrhea, reports constipation. He had ongoing epigastric and retrosternal discomfort that he associates with vomiting and coughing. He decided to present to the ___ at ___. There he was noted to have a ___ beat run of polymorphic ventricular tachycardia, while he was having chest discomfort and lightheadedness. He was given a bolus of amiodarone, and magnesium 1g IV. TSH, BNP, and troponin were within normal limts, magnesium was 2.4, and other electrolytes were normal. Chest x ray reportedly unremarkable. QTc on EKG was 456. At baseline, Mr ___ is generally in good health, and remains active with daily running. Denies prior cardiac disease. An episode of syncope approximately ___ years ago was worked up at ___ telemetry, echo and was unremarkable. In the ___, initial vitals were: T 98.5, BP 147 70, HR 64, RR 16, SPO2 96 on RA.</p>
+<p>Labs notable for: WBC 5.7, Hgb 10.2, Plt 138 Na 136, K 4.6, Creat 1.2, BUN 35, glucose 153, calcium 8.7, magnesium 2.3 troponin 0.01 UA with 30 protein, otherwise negative EKG demonstrated sinus rhythm, rate 69. No ST changes. Twave flattening in I and V5.</p>
+<p>Past Medical History: Hypertension, BPH, </p>
+<p>Anemia: Patient with Hgb 10.2, MCV 101, baseline unknown. Per report from ___, patient with dark brown guaiac positive emesis, likely related to irritation due to vomiting. The patient had no signs of active bleeding at ___. Normal iron, ferritin, borderline low tibc and normal B12. Haptoglobin normal.  Strep Throat Was on Clindamycin started on ___ to treat strep throat ___ with rapid strep at OSH , however this medication caused side effects of nausea vomiting. Switched to Azithromycin prior to discharge which he should continue through ___. </p>
+<p>Transitional issues: Hemoglobin 10.1, MCV 101, baseline unknown. Per report from ___, patient with dark brown guaiac positive emesis. Thought to be related to irritation in the setting of repeated emesis. Iron, TIBC, Ferritin, haptoglobin normal. Patient prescribed Omeprazole 20 mg for GERD and possible gastritis. Consider repeat CBC after discharge. Continue azithromycin through ___   </p>
+<p>Discharge Disposition: Home </p>
+<p>Discharge Diagnosis: PRIMARY DIAGNOSIS strep throat, nausea and vomiting</p>]]>
+</lead>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">21</attr>
+<attr id="pos">21</attr>
+<attr id="number">no</attr>
+<attr id="alignment">default</attr>
+<attr id="character">html</attr>
+</attributes.specific>
+</question>
+</section>
+<section>
+<title>Random</title>
+<attributes.specific program="ofb">
+<attr id="id">R1</attr>
+<attr id="pos">5</attr>
+</attributes.specific>
+<question>
+<description>Seitengenerator</description>
+<class>random</class>
+<title />
+<explanation />
+<inputPosition>right</inputPosition>
+<order>default</order>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+<attr id="rows">6</attr>
+<attr id="data">
+<![CDATA[1 S5
+2 S6
+3 S7
+4 S8
+5 S9
+6 S10]]>
+</attr>
+</attributes.specific>
+</question>
+</section>
+<layoutTexts>
+<layoutText id="default.imprint"><txt lng="eng"><![CDATA[<a href="mailto:loki00002@stud.uni-saarland.de">Lotta Kiefer</a> – 2024]]></txt></layoutText>
+</layoutTexts>
+<questionnaire>
+<title>Fragebogen</title>
+<attributes.specific program="ofb">
+<attr id="id">base</attr>
+<attr id="content">&lt;?xml version=&quot;1.0&quot;?&gt;
+&lt;questionnaire&gt;
+
+&lt;!-- Seite 1 --&gt;
+&lt;page intID=&quot;9&quot;&gt;
+&lt;info&gt;Titelseite&lt;/info&gt;
+&lt;question id=&quot;T001&quot; intID=&quot;10&quot; /&gt;
+&lt;question id=&quot;T002&quot; intID=&quot;11&quot; /&gt;
+&lt;/page&gt;
+
+
+&lt;!-- Seite 2 --&gt;
+&lt;page intID=&quot;12&quot;&gt;
+&lt;question id=&quot;T006&quot; intID=&quot;13&quot; /&gt;
+&lt;/page&gt;
+
+
+&lt;!-- Seite 3 --&gt;
+&lt;page ident=&quot;jump1&quot; intID=&quot;14&quot;&gt;
+&lt;question id=&quot;T007&quot; intID=&quot;15&quot; /&gt;
+&lt;question id=&quot;T008&quot; intID=&quot;16&quot; /&gt;
+&lt;/page&gt;
+
+
+&lt;!-- Seite 4 --&gt;
+&lt;page ident=&quot;jump2&quot; intID=&quot;17&quot;&gt;
+&lt;question id=&quot;T009&quot; intID=&quot;18&quot; /&gt;
+&lt;/page&gt;
+
+
+&lt;!-- Seite 5 --&gt;
+&lt;page intID=&quot;22&quot;&gt;
+&lt;question id=&quot;T010&quot; intID=&quot;23&quot; /&gt;
+&lt;question id=&quot;T015&quot; intID=&quot;24&quot; /&gt;
+&lt;/page&gt;
+
+
+&lt;!-- Seite 6 --&gt;
+&lt;page intID=&quot;25&quot;&gt;
+&lt;question id=&quot;T013&quot; intID=&quot;26&quot; /&gt;
+&lt;question id=&quot;T014&quot; intID=&quot;27&quot; /&gt;
+&lt;/page&gt;
+
+
+&lt;!-- Seite 7 --&gt;
+&lt;page intID=&quot;28&quot;&gt;
+&lt;question id=&quot;T011&quot; intID=&quot;29&quot; /&gt;
+&lt;question id=&quot;T012&quot; intID=&quot;30&quot; /&gt;
+&lt;postprocessing intID=&quot;40&quot;&gt;
+
+&lt;/postprocessing&gt;
+&lt;php intID=&quot;42&quot;&gt;
+
+&lt;/php&gt;
+&lt;/page&gt;
+
+
+&lt;!-- Seite 8 --&gt;
+&lt;page intID=&quot;19&quot;&gt;
+&lt;question id=&quot;T101&quot; intID=&quot;20&quot; /&gt;
+&lt;question id=&quot;T102&quot; intID=&quot;21&quot; /&gt;
+&lt;php intID=&quot;39&quot;&gt;&lt;![CDATA[
+question(&#039;R101&#039;);  //Draw slides in random order
+$pages = valueList(&#039;R101&#039;, NULL, &#039;label&#039;);  // Drawn slips
+setPageOrder($pages, &#039;end&#039;);  // Define pages as page sequence
+]]&gt;&lt;/php&gt;
+&lt;/page&gt;
+
+
+&lt;!-- Seite 9 --&gt;
+&lt;page ident=&quot;S5&quot; intID=&quot;63&quot;&gt;
+&lt;question id=&quot;S016&quot; intID=&quot;64&quot; /&gt;
+&lt;question id=&quot;R031&quot; intID=&quot;65&quot; /&gt;
+&lt;question id=&quot;R049&quot; intID=&quot;66&quot; /&gt;
+&lt;question id=&quot;R022&quot; intID=&quot;67&quot; /&gt;
+&lt;question id=&quot;R058&quot; intID=&quot;68&quot; /&gt;
+&lt;php intID=&quot;45&quot;&gt;&lt;![CDATA[
+if ((value(&#039;T012_01&#039;) != 1) or (value(&#039;T012_01&#039;) != 1)) {
+  question(&#039;R013&#039;); 
+}
+]]&gt;&lt;/php&gt;
+&lt;question id=&quot;R040&quot; intID=&quot;70&quot; /&gt;
+&lt;/page&gt;
+
+
+&lt;!-- Seite 10 --&gt;
+&lt;page ident=&quot;S6&quot; intID=&quot;71&quot;&gt;
+&lt;question id=&quot;S017&quot; intID=&quot;72&quot; /&gt;
+&lt;question id=&quot;R032&quot; intID=&quot;73&quot; /&gt;
+&lt;question id=&quot;R050&quot; intID=&quot;74&quot; /&gt;
+&lt;question id=&quot;R023&quot; intID=&quot;75&quot; /&gt;
+&lt;question id=&quot;R059&quot; intID=&quot;76&quot; /&gt;
+&lt;php intID=&quot;46&quot;&gt;&lt;![CDATA[
+if ((value(&#039;T012_01&#039;) != 1) or (value(&#039;T012_01&#039;) != 1)) {
+  question(&#039;R014&#039;); 
+}
+]]&gt;&lt;/php&gt;
+&lt;question id=&quot;R041&quot; intID=&quot;78&quot; /&gt;
+&lt;/page&gt;
+
+
+&lt;!-- Seite 11 --&gt;
+&lt;page ident=&quot;S7&quot; intID=&quot;79&quot;&gt;
+&lt;question id=&quot;S018&quot; intID=&quot;85&quot; /&gt;
+&lt;question id=&quot;R033&quot; intID=&quot;81&quot; /&gt;
+&lt;question id=&quot;R051&quot; intID=&quot;82&quot; /&gt;
+&lt;question id=&quot;R024&quot; intID=&quot;83&quot; /&gt;
+&lt;question id=&quot;R060&quot; intID=&quot;84&quot; /&gt;
+&lt;php intID=&quot;53&quot;&gt;&lt;![CDATA[
+if ((value(&#039;T012_01&#039;) != 1) or (value(&#039;T012_01&#039;) != 1)) {
+  question(&#039;R015&#039;); 
+}
+]]&gt;&lt;/php&gt;
+&lt;question id=&quot;R042&quot; intID=&quot;86&quot; /&gt;
+&lt;/page&gt;
+
+
+&lt;!-- Seite 12 --&gt;
+&lt;page ident=&quot;S8&quot; intID=&quot;87&quot;&gt;
+&lt;question id=&quot;S019&quot; intID=&quot;93&quot; /&gt;
+&lt;question id=&quot;R034&quot; intID=&quot;89&quot; /&gt;
+&lt;question id=&quot;R052&quot; intID=&quot;90&quot; /&gt;
+&lt;question id=&quot;R025&quot; intID=&quot;91&quot; /&gt;
+&lt;question id=&quot;R061&quot; intID=&quot;92&quot; /&gt;
+&lt;php intID=&quot;61&quot;&gt;&lt;![CDATA[
+if ((value(&#039;T012_01&#039;) != 1) or (value(&#039;T012_01&#039;) != 1)) {
+  question(&#039;R016&#039;); 
+}
+]]&gt;&lt;/php&gt;
+&lt;question id=&quot;R043&quot; intID=&quot;94&quot; /&gt;
+&lt;/page&gt;
+
+
+&lt;!-- Seite 13 --&gt;
+&lt;page ident=&quot;S9&quot; intID=&quot;95&quot;&gt;
+&lt;question id=&quot;S020&quot; intID=&quot;96&quot; /&gt;
+&lt;question id=&quot;R035&quot; intID=&quot;97&quot; /&gt;
+&lt;question id=&quot;R053&quot; intID=&quot;98&quot; /&gt;
+&lt;question id=&quot;R026&quot; intID=&quot;99&quot; /&gt;
+&lt;question id=&quot;R062&quot; intID=&quot;100&quot; /&gt;
+&lt;php intID=&quot;69&quot;&gt;&lt;![CDATA[
+if ((value(&#039;T012_01&#039;) != 1) or (value(&#039;T012_01&#039;) != 1)) {
+  question(&#039;R017&#039;); 
+}
+]]&gt;&lt;/php&gt;
+&lt;question id=&quot;R044&quot; intID=&quot;102&quot; /&gt;
+&lt;/page&gt;
+
+
+&lt;!-- Seite 14 --&gt;
+&lt;page ident=&quot;S10&quot; intID=&quot;103&quot;&gt;
+&lt;question id=&quot;S021&quot; intID=&quot;101&quot; /&gt;
+&lt;question id=&quot;R036&quot; intID=&quot;105&quot; /&gt;
+&lt;question id=&quot;R054&quot; intID=&quot;106&quot; /&gt;
+&lt;question id=&quot;R027&quot; intID=&quot;107&quot; /&gt;
+&lt;question id=&quot;R063&quot; intID=&quot;108&quot; /&gt;
+&lt;php intID=&quot;77&quot;&gt;&lt;![CDATA[
+if ((value(&#039;T012_01&#039;) != 1) or (value(&#039;T012_01&#039;) != 1)) {
+  question(&#039;R018&#039;); 
+}
+]]&gt;&lt;/php&gt;
+&lt;question id=&quot;R045&quot; intID=&quot;110&quot; /&gt;
+&lt;/page&gt;
+
+
+&lt;!-- Seite 15 --&gt;
+&lt;page ident=&quot;test&quot; intID=&quot;41&quot;&gt;
+&lt;/page&gt;
+
+
+&lt;/questionnaire&gt;</attr>
+<attr id="goodbye">
+<![CDATA[<h1>Thank you for completing this questionnaire!</h1>
+
+<p>Thank you very much for participating in this study. Your answers and your medical expertise are of great use for this research project.</p>
+
+<p>If you have any further questions about this study or research project, please contact: <br> Lotta Kiefer  <br>
+loki00002@stud.uni-saarland.de </p>
+
+<p>Your answers were transmitted, you may close the browser window or tab now.</p>
+
+<p>Have a nice day! </p>
+
+<!-- Additional spacing (remove or adjust as required)  -->
+<div style="padding-bottom: 120px"></div>]]>
+</attr>
+<attr id="selection">1</attr>
+</attributes.specific>
+</questionnaire>
+<setting name="DataFilter" key="df" encoding="json">
+{"progress":"finished","dfStatus":2}</setting>
+</surveyProject>

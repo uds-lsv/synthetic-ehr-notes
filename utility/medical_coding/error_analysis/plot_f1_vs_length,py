@@ -1,0 +1,82 @@
+import argparse
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+from scipy.stats import pearsonr, spearmanr
+
+def plot_f1_vs_length_compare(f1_df, f1_df2, num_bins=500, out=None):
+    # plot f1 agains test document length
+    f1_df['length_bin'] = pd.qcut(f1_df['doc_length'], num_bins, duplicates='drop')
+    grouped = f1_df.groupby('length_bin').agg(
+        mean_f1=('f1', 'mean'),
+        std_f1=('f1', 'std')
+    ).reset_index()
+    grouped['bin_mid'] = grouped['length_bin'].apply(lambda x: x.mid)
+
+    f1_df2['length_bin'] = pd.qcut(f1_df2['doc_length'], num_bins, duplicates='drop')
+    grouped2 = f1_df2.groupby('length_bin').agg(
+        mean_f1=('f1', 'mean'),
+        std_f1=('f1', 'std')
+    ).reset_index()
+    grouped2['bin_mid'] = grouped2['length_bin'].apply(lambda x: x.mid)
+
+    plt.figure(figsize=(10, 6))
+    sns.lineplot(x='bin_mid', y='mean_f1', data=grouped, label='Average F1 Score (Real)', color='blue')
+    plt.fill_between(grouped['bin_mid'], grouped['mean_f1'] - grouped['std_f1'], 
+                     grouped['mean_f1'] + grouped['std_f1'], color='blue', alpha=0.3, label='±1 Std Dev (Real)')
+    sns.lineplot(x='bin_mid', y='mean_f1', data=grouped2, label='Average F1 Score (Synth)', color='green')
+    plt.fill_between(grouped2['bin_mid'], grouped2['mean_f1'] - grouped2['std_f1'], 
+                     grouped2['mean_f1'] + grouped2['std_f1'], color='green', alpha=0.3, label='±1 Std Dev (Synth)')
+
+    # Add vertical line for truncation point
+    plt.axvline(x=4000, color='red', linestyle='--', linewidth=1, label='Truncation (4000 words)')
+
+    plt.title('Average F1 Score vs Document Length', fontsize=14)
+    plt.xlabel('Document Length (Number of Words)', fontsize=12)
+    plt.ylabel('F1 Score', fontsize=12)
+    plt.legend()
+    plt.grid(True)
+    plt.tight_layout()
+
+    plt.savefig(out)
+    plt.show()
+
+def correlation(f1_df, label):
+    # calculate correlation coefficients for f1 against document lenght
+    
+    # define ranges to capture linear relationships
+    ranges = {
+        "0-1000": (0, 1000), # positive correlation
+        "1000-4000": (1000, 4000) # negative correlation
+    }
+
+    print(f"\nCorrelations for {label}:")
+    for range_label, (low, high) in ranges.items():
+        subset = f1_df[(f1_df['doc_length'] > low) & (f1_df['doc_length'] <= high)]
+        if not subset.empty:
+            pearson_corr, pearson_p = pearsonr(subset['f1'], subset['doc_length'])
+            spearman_corr, spearman_p = spearmanr(subset['f1'], subset['doc_length'])
+            print(f"  {range_label} Tokens:")
+            print(f"    Pearson Correlation: {pearson_corr:.3f}, p-value: {pearson_p:.3g}")
+            print(f"    Spearman Correlation: {spearman_corr:.3f}, p-value: {spearman_p:.3g}")
+        else:
+            print(f"  {range_label} Tokens: No data in this range.")
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--real_f1_length", type=str, required=True, help="Path to the real dataset CSV file.")
+    parser.add_argument("--synth_f1_length", type=str, required=True, help="Path to the synthetic dataset CSV file.")
+    parser.add_argument("--out", type=str, required=True, help="Path to save the output plot.")
+
+    args = parser.parse_args()
+
+    # Load datasets
+    f1_df_real = pd.read_csv(args.real_f1_length)
+    f1_df_synth = pd.read_csv(args.synth_f1_length)
+
+    # Plot F1 scores vs document length
+    plot_f1_vs_length_compare(f1_df_real, f1_df_synth, out=args.out)
+
+    # Calculate and print correlations for both datasets
+    correlation(f1_df_real, "Real Data")
+    correlation(f1_df_synth, "Synthetic Data")
