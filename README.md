@@ -1,6 +1,6 @@
 # Instruction-Tuning LLaMA for Synthetic Medical Note Generation: Bridging Data Privacy and Utility in Downstream Tasks
 
-This repository contains the code belonging to the paper "Instruction-Tuning LLaMA for Synthetic Medical Note Generation". The purpose of this study is to generate synthetic Swedish and English discharge summaries that preserve privacy while mimicing the task-relevant properties of the real data needed to build high-performing 
+This repository contains the code belonging to the paper "Instruction-Tuning LLaMA for Diverse Synthetic Medical Note Generation". The purpose of this study was to generate synthetic Swedish and English discharge summaries that preserve privacy while mimicing the task-relevant properties of the real data needed to build high-performing 
 downstream systems. The code in this repository is structured in different chapters similar to the paper. We recommend reading the 
 corresponding chapters alongside investigating the code to better understand the purpose and desired outcome of each single part of the code. Note, that you need to get access
 to the datasets and several language models from external sources (always explained in the concerning chapters). Keep in mind that this might take a while and requires planning ahead.
@@ -79,7 +79,7 @@ to obtain textual descriptions of the ICD-10 codes (use an alternative output fi
 ```sh 
 python /preprocessing/mimic/json_splits.py --notes_file /medical_coding/files/data/mimiciv_icd10/mimiciv_icd10.feather --splits_file /medical_coding/files/data/mimiciv_icd10/mimiciv_icd10_split.feather
 ```
-to obtain JSON files as required to create prompts in the ALPACA format for MIMIC-S, MIMIC-M, and MIMIC-L.
+to obtain JSON files as required to create prompts in the ALPACA format for MIMIC-S, MIMIC-L, and MIMIC-E.
 
 ### 1.2 SEPR
 1. Get access to SEPR II by contacting the [Health Bank](https://www.dsv.su.se/healthbank) at Stockholm University for access. Create a `.feather` file similar to `/medical_coding/files/data/mimiciv_icd10/mimiciv_icd10.feather` by substituting the `text`and `target`columns with the SEPR data and store as `/medical_coding/files/data/sepr/sepr_icd10.feather`
@@ -93,7 +93,7 @@ to obtain textual descriptions of the ICD-10 codes (use an alternative output fi
 ```sh 
 python /preprocessing/sepr/json_splits_swed.py --notes_file /medical_coding/files/data/sepr/sepr_icd10.feather --splits_file /medical_coding/files/data/sepr/sepr_icd10_split.feather 
 ```
-to obtain JSON files as required to create prompts in the ALPACA format for SEPR-S, SEPR-M, and SEPR-L.
+to obtain JSON files as required to create prompts in the ALPACA format for SEPR-S, SEPR-L, and SEPR-E.
 
 ## 2. Synthetic Medical Note Generation
 
@@ -175,7 +175,7 @@ Run
 ```sh 
 python3 /inference/inference_vllm_sepr.py --base_model path/to/fine-tuned/merged/llama --test_data path/to/sampling/file.json --file_out path/to/output/file.json
 ```
-specifiying the path to the fine-tuned and merged LLaMA model (e.g., `/axolotl/output/sepr_llama/merged`), to the JSON file that should be used to generate the prompts for sampling (e.g., `/data/mimic/sepr_m.json`), and the output JSON file that stores the generated synthetic notes (e.g., `/data/mimic/synth_sepr_m.json`)
+specifiying the path to the fine-tuned and merged LLaMA model (e.g., `/axolotl/output/sepr_llama/merged`), to the JSON file that should be used to generate the prompts for sampling (e.g., `/data/mimic/sepr_s.json`), and the output JSON file that stores the generated synthetic notes (e.g., `/data/mimic/synth_sepr_s.json`)
 
 ## 3. Fidelity Evaluation
 
@@ -223,7 +223,7 @@ specifying the GPU you want to use and model folder containing the checkpoints o
 1. Get access to the model checkpoints of SweDeClin-BERT by contacting the [Health Bank](https://www.dsv.su.se/healthbank) at Stockholm University and store them in a folder.
 2. Set the `model_path` parameter in `medical_coding/configs/plm_icd.yaml` and `configs/text_transform/huggingface.yaml` to the path of the SweDeClin-BERT model folder.
 3. Create a `.feather` file containing the real or synthetic notes in the `text` column, the number of words in `num_words`, the ICD-10 diagnosis codes in `icd10_diag`, the ICD-10 procedure codes in `icd10_proc`, the combined codes in the `target`, the number of target in `num_target` and the ids in the `_id` column. 
-4. Store this file in the same directory as the file containing the splits file with `_id` and `split` columns. The splits used in this work are stored in `/medical_coding/files/data/sper/sepr_icd10_split.feather` for training on SEPR-L and `/medical_coding/files/data/sepr/swed_splits_test_train.feather` for training on SEPR-M. Change the `/medical_coding/condigs/data/mimiciv_icd10.yaml` by specifying `dir`, `data_filename` and `split_filename`.
+4. Store this file in the same directory as the file containing the splits file with `_id` and `split` columns. The splits used in this work are stored in `/medical_coding/files/data/sper/sepr_icd10_split.feather` for training on SEPR-L and `/medical_coding/files/data/sepr/swed_splits_test_train.feather` for training on SEPR-s. Change the `/medical_coding/condigs/data/mimiciv_icd10.yaml` by specifying `dir`, `data_filename` and `split_filename`.
 5. To train the medical coding model run
  ```sh 
 python main.py experiment=mimiciv_icd10/plm_icd gpu=x callbacks=no_wandb trainer.print_metrics=true
