@@ -1,6 +1,6 @@
 # Instruction-Tuning LLaMA for Synthetic Medical Note Generation: Bridging Data Privacy and Utility in Downstream Tasks
 
-This repository contains the code belonging to the paper "Instruction-Tuning LLaMA for Diverse Synthetic Medical Note Generation". The purpose of this study was to generate synthetic Swedish and English discharge summaries that preserve privacy while mimicing the task-relevant properties of the real data needed to build high-performing 
+This repository contains the code belonging to the paper "Instruction-Tuning LLaMA for Synthetic Medical Note Generation in Swedish and English". The purpose of this study was to generate synthetic Swedish and English discharge summaries that preserve privacy while mimicing the task-relevant properties of the real data needed to build high-performing 
 downstream systems. The code in this repository is structured in different chapters similar to the paper. We recommend reading the 
 corresponding chapters alongside investigating the code to better understand the purpose and desired outcome of each single part of the code. Note, that you need to get access
 to the datasets and several language models from external sources (always explained in the concerning chapters). Keep in mind that this might take a while and requires planning ahead.
@@ -8,6 +8,7 @@ Last, don't forget that you are working with sensitive medical data that require
 allowed to upload any of this data to online APIs, meaning that all models used in this study must be downloaded and saved locally on your device/server before using.
 
 ## Acknowledgements
+This paper is based on the Master’s thesis "Instruction-Tuning LLaMA for Synthetic Medical Note Generation: Bridging Data Privacy and Utility in Downstream Tasks," written by Lotta Kiefer. The thesis was supervised by Hercules Dalianis at Stockholm University, and by Dietrich Klakow and Jesujoba Alabi at Saarland University. The thesis can be downloaded [here](https://people.dsv.su.se/~hercules/papers/MasterThesis_LottaKiefer-2024.pdf). 
 
 The code in this repository builds on several other studies and includes code from other repositories. Specifically it includes:
 1. The [Axolotl](https://github.com/axolotl-ai-cloud/axolotl) project in `generation/axolotl` for the fine-tuning process. The code of the original repository was not changed 
