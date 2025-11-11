@@ -139,7 +139,7 @@ mccabe==0.7.0
 mdurl==0.1.2
 MEGABYTE-pytorch==0.0.7
 -e git+https://github.com/cg123/mergekit.git@53c5f414774a0558b8d84858fb6374bc93a8f1c1#egg=mergekit
-mlflow==2.10.0
+mlflow #==2.10.0
 modal==0.62.77
 more-itertools==10.2.0
 mpmath==1.2.1
