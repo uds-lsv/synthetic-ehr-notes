@@ -296,7 +296,7 @@ typing_extensions==4.9.0
 tyro==0.5.18
 tzdata==2023.3
 unique-names-generator==1.0.2
-urllib3==2.2.2
+urllib3 #==2.2.2
 uvicorn==0.22.0
 vector_quantize_pytorch==1.14.1
 virtualenv==20.23.0
