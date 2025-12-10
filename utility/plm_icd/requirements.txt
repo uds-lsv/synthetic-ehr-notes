@@ -134,7 +134,7 @@ traitlets==5.9.0
 traittypes==0.2.1
 transformers==4.26.1
 typing_extensions==4.5.0
-urllib3==1.26.14
+urllib3 #==1.26.14
 uvicorn==0.20.0
 uvloop==0.17.0
 vaex==4.16.0
